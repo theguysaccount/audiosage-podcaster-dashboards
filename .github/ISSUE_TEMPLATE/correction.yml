@@ -1,0 +1,29 @@
+name: Correction or opt-out
+description: A number, phrase or quote is wrong, or a show wants its dashboard taken down.
+title: "Correction: "
+labels: ["correction"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page
+      placeholder: https://theguysaccount.github.io/audiosage-podcaster-dashboards/show/...
+    validations:
+      required: true
+  - type: dropdown
+    id: what
+    attributes:
+      label: What kind of request
+      options:
+        - A number, phrase or quote is wrong
+        - The show wants to opt out
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: For a wrong number or quote, say which one and, if you can, the episode and time.
+    validations:
+      required: true

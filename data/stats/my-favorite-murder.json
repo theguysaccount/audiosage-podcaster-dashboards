@@ -1,0 +1,442 @@
+{
+ "slug": "my-favorite-murder",
+ "name": "My Favorite Murder",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss",
+ "website": "https://www.myfavoritemurder.com/",
+ "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/image.jpg?t=1738339997&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-10-19",
+ "latest_episode": "2026-11-19",
+ "words_analyzed": 88126,
+ "pace_wpm": 181.1,
+ "minutes_median": 42.8,
+ "questions_per_100_sentences": 6.9,
+ "variety": 0.5036,
+ "signature_phrases": [
+  {
+   "phrase": "my favorite",
+   "count": 53,
+   "episodes": 10,
+   "z": 11.78,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 18,
+     "quote": "To My Favorite Murder."
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 19,
+     "quote": "To my favorite murder."
+    }
+   ]
+  },
+  {
+   "phrase": "exactly right",
+   "count": 21,
+   "episodes": 10,
+   "z": 8.43,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 403,
+     "quote": "if you fast forward or whatever. skip the Exactly Right updates,"
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 1538,
+     "quote": "This has been an Exactly Right production."
+    }
+   ]
+  },
+  {
+   "phrase": "oh shit",
+   "count": 16,
+   "episodes": 7,
+   "z": 7.36,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 1548,
+     "quote": "Oh, shit."
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 924,
+     "quote": "Oh shit."
+    }
+   ]
+  },
+  {
+   "phrase": "end quote",
+   "count": 37,
+   "episodes": 8,
+   "z": 6.67,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 976,
+     "quote": "on a sweltering day, end quote. Chester is the English"
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 1187,
+     "quote": "End quote. So then. it says, two things my grandma"
+    }
+   ]
+  },
+  {
+   "phrase": "they find",
+   "count": 15,
+   "episodes": 4,
+   "z": 6.65,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 3957,
+     "quote": "Yeah, all these are fake. They find all sorts of"
+    },
+    {
+     "episode": "e83e7fe8ab3c",
+     "at": 1061,
+     "quote": "of the officers. They find one who they suspect of"
+    }
+   ]
+  },
+  {
+   "phrase": "subject line",
+   "count": 15,
+   "episodes": 5,
+   "z": 6.56,
+   "moments": [
+    {
+     "episode": "c483571e0390",
+     "at": 29,
+     "quote": "And the subject line of this email is bloody bridal gown."
+    },
+    {
+     "episode": "3ed2e912a364",
+     "at": 258,
+     "quote": "The subject line of this email is trouble in flavor town."
+    }
+   ]
+  },
+  {
+   "phrase": "holy shit",
+   "count": 12,
+   "episodes": 7,
+   "z": 6.33,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 1560,
+     "quote": "Holy shit."
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 947,
+     "quote": "Holy shit."
+    }
+   ]
+  },
+  {
+   "phrase": "year old",
+   "count": 35,
+   "episodes": 10,
+   "z": 6.21,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 311,
+     "quote": "an eight-year-old child. So they're going to have to take action."
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 565,
+     "quote": "her seven-months-pregnant sister, and her three-year-old niece were when one"
+    }
+   ]
+  },
+  {
+   "phrase": "oh my god",
+   "count": 53,
+   "episodes": 10,
+   "z": 6.19,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 93,
+     "quote": "want to do for others all the time. Oh, my God."
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 182,
+     "quote": "Oh, my God. That's so, like, that's so, not scentless"
+    }
+   ]
+  },
+  {
+   "phrase": "true crime",
+   "count": 11,
+   "episodes": 7,
+   "z": 6.03,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 676,
+     "quote": "It's about the people who listen and what true crime"
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 1418,
+     "quote": "Friends, I have watched way too much true crime for"
+    }
+   ]
+  },
+  {
+   "phrase": "every week",
+   "count": 14,
+   "episodes": 9,
+   "z": 6.03,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 5147,
+     "quote": "Or watch new episodes every week on Netflix. Search for"
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 1564,
+     "quote": "Or watch new episodes every week on Netflix. Search for"
+    }
+   ]
+  },
+  {
+   "phrase": "thumbs up",
+   "count": 11,
+   "episodes": 10,
+   "z": 5.86,
+   "moments": [
+    {
+     "episode": "61287a4aa566",
+     "at": 5152,
+     "quote": "the double thumbs up button."
+    },
+    {
+     "episode": "c483571e0390",
+     "at": 1570,
+     "quote": "the double thumbs up button. Goodbye."
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Family and relationships",
+   "per_10k": 47.3,
+   "vs_average": 1.5
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 32.9,
+   "vs_average": 2.88
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 30.4,
+   "vs_average": 3.66
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 20.8,
+   "vs_average": 0.93
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 20.1,
+   "vs_average": 0.77
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 17.4,
+   "vs_average": 1.83
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 9.6,
+   "vs_average": 1.01
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 7.7,
+   "vs_average": 0.19
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 6.7,
+   "vs_average": 0.48
+  },
+  {
+   "topic": "History",
+   "per_10k": 6.4,
+   "vs_average": 1.0
+  },
+  {
+   "topic": "Music",
+   "per_10k": 4.5,
+   "vs_average": 0.47
+  },
+  {
+   "topic": "Science",
+   "per_10k": 3.7,
+   "vs_average": 1.27
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 3.1,
+   "vs_average": 0.27
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 0.9,
+   "vs_average": 0.4
+  }
+ ],
+ "episodes": [
+  {
+   "id": "61287a4aa566",
+   "title": "559 - We Simply Can’t",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/559-we-simply-can-t",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/b6969e0d-364f-4063-bcda-b4f601297393/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b6969e0d-364f-4063-bcda-b4f601297393/transcript?format=WebVTT&t=1795045500",
+   "minutes": 85.7,
+   "words": 15583,
+   "wpm": 181.9,
+   "questions_per_100_sentences": 7.1,
+   "variety": 0.4888
+  },
+  {
+   "id": "c483571e0390",
+   "title": "MFM Minisode 514",
+   "date": "2026-11-16",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/mfm-minisode-514",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/c3e27193-3345-4f8d-bc57-b4f60129221e/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c3e27193-3345-4f8d-bc57-b4f60129221e/transcript?format=WebVTT&t=1794605698",
+   "minutes": 25.9,
+   "words": 4719,
+   "wpm": 182.2,
+   "questions_per_100_sentences": 6.2,
+   "variety": 0.5038
+  },
+  {
+   "id": "e83e7fe8ab3c",
+   "title": "558 - Eat the Wrapper",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/558-eat-the-wrapper",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/ed749ed9-cff1-463d-abaa-b4ef010f4d4f/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ed749ed9-cff1-463d-abaa-b4ef010f4d4f/transcript?format=WebVTT&t=1794353058",
+   "minutes": 62.2,
+   "words": 10891,
+   "wpm": 175.2,
+   "questions_per_100_sentences": 5.0,
+   "variety": 0.5148
+  },
+  {
+   "id": "3ed2e912a364",
+   "title": "MFM Minisode 513",
+   "date": "2026-11-09",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/mfm-minisode-513",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/86e10f46-e199-470f-ad3c-b4ef010ecc85/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/86e10f46-e199-470f-ad3c-b4ef010ecc85/transcript?format=WebVTT&t=1793918229",
+   "minutes": 29.0,
+   "words": 5292,
+   "wpm": 182.5,
+   "questions_per_100_sentences": 5.8,
+   "variety": 0.522
+  },
+  {
+   "id": "d0084b9fd001",
+   "title": "557 - Be Different Later",
+   "date": "2026-11-05",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/557-be-different-later",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/237a3625-3635-4a8e-9b3b-b4e8010bb51f/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/237a3625-3635-4a8e-9b3b-b4e8010bb51f/transcript?format=WebVTT&t=1793836246",
+   "minutes": 56.3,
+   "words": 9767,
+   "wpm": 173.4,
+   "questions_per_100_sentences": 7.6,
+   "variety": 0.4948
+  },
+  {
+   "id": "cd63f4176c9b",
+   "title": "MFM Minisode 512",
+   "date": "2026-11-02",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/mfm-minisode-512",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/1b3b7607-e338-4332-8f4d-b4e8010a98c0/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1b3b7607-e338-4332-8f4d-b4e8010a98c0/transcript?format=WebVTT&t=1793398277",
+   "minutes": 25.7,
+   "words": 4667,
+   "wpm": 181.6,
+   "questions_per_100_sentences": 7.1,
+   "variety": 0.5035
+  },
+  {
+   "id": "03efc10bbac5",
+   "title": "556 - The Halloween Special",
+   "date": "2026-10-29",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/556-the-halloween-special",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/37f6e2b9-4214-4c84-a508-b4e101138e1b/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/37f6e2b9-4214-4c84-a508-b4e101138e1b/transcript?format=WebVTT&t=1793216750",
+   "minutes": 69.2,
+   "words": 12533,
+   "wpm": 181.2,
+   "questions_per_100_sentences": 6.8,
+   "variety": 0.5082
+  },
+  {
+   "id": "988bcb04429e",
+   "title": "MFM Minisode 511 - The Halloween Minisode",
+   "date": "2026-10-26",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/mfm-minisode-511",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/6428e92a-73cf-4f3a-b317-b4e10112b0fb/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6428e92a-73cf-4f3a-b317-b4e10112b0fb/transcript?format=WebVTT&t=1792791925",
+   "minutes": 23.8,
+   "words": 4307,
+   "wpm": 181.1,
+   "questions_per_100_sentences": 6.4,
+   "variety": 0.5097
+  },
+  {
+   "id": "d2447e173d48",
+   "title": "555 - Live at Bass Concert Hall (Austin Night 2)",
+   "date": "2026-10-22",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/555-live-at-bass-concert-hall-austin-night-2",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/c5abb9e1-3775-4e49-b01d-b4dc015e2f31/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c5abb9e1-3775-4e49-b01d-b4dc015e2f31/transcript?format=WebVTT&t=1792645175",
+   "minutes": 93.8,
+   "words": 15053,
+   "wpm": 160.4,
+   "questions_per_100_sentences": 9.2,
+   "variety": 0.4832
+  },
+  {
+   "id": "3e3a2aa8ca19",
+   "title": "MFM Minisode 510",
+   "date": "2026-10-19",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/mfm-minisode-510",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/2b84cd17-e70b-49cb-9922-b4dc015d7c1d/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2b84cd17-e70b-49cb-9922-b4dc015d7c1d/transcript?format=WebVTT&t=1792182086",
+   "minutes": 29.3,
+   "words": 5314,
+   "wpm": 181.1,
+   "questions_per_100_sentences": 7.3,
+   "variety": 0.4964
+  }
+ ]
+}

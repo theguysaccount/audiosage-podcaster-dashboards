@@ -1,0 +1,442 @@
+{
+ "slug": "the-dan-patrick-show",
+ "name": "The Dan Patrick Show",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/4818243e-950b-4fc4-8a22-ae320005bb09/podcast.rss",
+ "website": "https://www.iheart.com/podcast/1119-the-dan-patrick-show-60330018/",
+ "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/4818243e-950b-4fc4-8a22-ae320005bb09/image.jpg?t=1758907311&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-11-17",
+ "latest_episode": "2026-11-20",
+ "words_analyzed": 72004,
+ "pace_wpm": 174.8,
+ "minutes_median": 41.4,
+ "questions_per_100_sentences": 8.9,
+ "variety": 0.4628,
+ "signature_phrases": [
+  {
+   "phrase": "sports radio",
+   "count": 48,
+   "episodes": 10,
+   "z": 13.02,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 3,
+     "quote": "Sports Radio."
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 3,
+     "quote": "Sports Radio."
+    }
+   ]
+  },
+  {
+   "phrase": "ohio state",
+   "count": 42,
+   "episodes": 7,
+   "z": 12.64,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 435,
+     "quote": "You've got to win the game. Ohio State at Nebraska."
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 2276,
+     "quote": "going to be Ohio State versus Nebraska. And then, of course, UCLA, Michigan."
+    }
+   ]
+  },
+  {
+   "phrase": "college football",
+   "count": 38,
+   "episodes": 7,
+   "z": 11.72,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 396,
+     "quote": "I look at college football. This is the must-not-lose weekend."
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 1291,
+     "quote": "Booger McFarland of the Mothership covers the NFL college football."
+    }
+   ]
+  },
+  {
+   "phrase": "fox sports",
+   "count": 39,
+   "episodes": 10,
+   "z": 11.14,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 941,
+     "quote": "6 to 9 Pacific on Fox Sports Radio. Find your"
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 1211,
+     "quote": "Fox Sports Radio. Find your local station for the Dan"
+    }
+   ]
+  },
+  {
+   "phrase": "coming up",
+   "count": 39,
+   "episodes": 10,
+   "z": 10.51,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 13,
+     "quote": "have that for you coming up. The back row. Todd"
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 15,
+     "quote": "your attention coming up in a little bit. Marvin, you"
+    }
+   ]
+  },
+  {
+   "phrase": "odd couple",
+   "count": 27,
+   "episodes": 9,
+   "z": 9.94,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 970,
+     "quote": "You can now watch The Odd Couple live on YouTube"
+    },
+    {
+     "episode": "abf1b1e9e347",
+     "at": 1189,
+     "quote": "You can now watch The Odd Couple live on YouTube"
+    }
+   ]
+  },
+  {
+   "phrase": "notre dame",
+   "count": 23,
+   "episodes": 6,
+   "z": 9.53,
+   "moments": [
+    {
+     "episode": "abf1b1e9e347",
+     "at": 70,
+     "quote": "on No. 6 Notre Dame. That will be in primetime,"
+    },
+    {
+     "episode": "5db38e1537f4",
+     "at": 47,
+     "quote": "and Notre Dame, South Bend, 7 Eastern. Primetime college football showdown. Now,"
+    }
+   ]
+  },
+  {
+   "phrase": "phone calls",
+   "count": 23,
+   "episodes": 10,
+   "z": 9.44,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 466,
+     "quote": "He'll take your phone calls. And, of course, we'll settle"
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 2502,
+     "quote": "Irv will join us. More of your phone calls as"
+    }
+   ]
+  },
+  {
+   "phrase": "join us",
+   "count": 20,
+   "episodes": 8,
+   "z": 8.75,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 182,
+     "quote": "join us. Irv, he is part of the Thanksgiving Eve game."
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 2502,
+     "quote": "Irv will join us. More of your phone calls as"
+    }
+   ]
+  },
+  {
+   "phrase": "take a break",
+   "count": 20,
+   "episodes": 9,
+   "z": 8.62,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 933,
+     "quote": "take a break. We're back after this. Thanks for listening"
+    },
+    {
+     "episode": "d045e3daa84e",
+     "at": 1186,
+     "quote": "How about we take a break? It doesn't have to"
+    }
+   ]
+  },
+  {
+   "phrase": "search odd",
+   "count": 18,
+   "episodes": 9,
+   "z": 8.12,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 974,
+     "quote": "All you got to do, search Odd Couple FSR on YouTube."
+    },
+    {
+     "episode": "abf1b1e9e347",
+     "at": 1194,
+     "quote": "All you got to do, search Odd Couple FSR on YouTube."
+    }
+   ]
+  },
+  {
+   "phrase": "couple fsr",
+   "count": 17,
+   "episodes": 9,
+   "z": 7.99,
+   "moments": [
+    {
+     "episode": "6df591d9e984",
+     "at": 974,
+     "quote": "All you got to do, search Odd Couple FSR on YouTube."
+    },
+    {
+     "episode": "abf1b1e9e347",
+     "at": 1194,
+     "quote": "All you got to do, search Odd Couple FSR on YouTube."
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Sports",
+   "per_10k": 135.7,
+   "vs_average": 3.35
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 38.3,
+   "vs_average": 1.72
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 16.9,
+   "vs_average": 0.65
+  },
+  {
+   "topic": "Family and relationships",
+   "per_10k": 14.2,
+   "vs_average": 0.45
+  },
+  {
+   "topic": "Music",
+   "per_10k": 12.1,
+   "vs_average": 1.24
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 6.9,
+   "vs_average": 0.61
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 3.9,
+   "vs_average": 0.41
+  },
+  {
+   "topic": "History",
+   "per_10k": 3.3,
+   "vs_average": 0.53
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 3.1,
+   "vs_average": 0.37
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 2.4,
+   "vs_average": 0.17
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 1.8,
+   "vs_average": 0.16
+  },
+  {
+   "topic": "Science",
+   "per_10k": 1.2,
+   "vs_average": 0.42
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 1.1,
+   "vs_average": 0.12
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 1.1,
+   "vs_average": 0.48
+  }
+ ],
+ "episodes": [
+  {
+   "id": "6df591d9e984",
+   "title": "HOUR 1 – Texans have a window now, Chris Russo",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-1-texans-have-a-window-now-chris-russo",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/12fdde70-319f-4f66-a083-b50801199d2d/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/12fdde70-319f-4f66-a083-b50801199d2d/transcript?format=WebVTT&t=1795194668",
+   "minutes": 41.7,
+   "words": 7545,
+   "wpm": 180.9,
+   "questions_per_100_sentences": 9.0,
+   "variety": 0.4737
+  },
+  {
+   "id": "d045e3daa84e",
+   "title": "HOUR 2 – Will the first NFL draft pick get traded? Booger McFarland",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-2-will-the-first-nfl-draft-pick-get-traded-booger-mcfarland",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/24dfb028-4d18-476b-8e4c-b5080119984c/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/24dfb028-4d18-476b-8e4c-b5080119984c/transcript?format=WebVTT&t=1795194640",
+   "minutes": 41.9,
+   "words": 7095,
+   "wpm": 169.5,
+   "questions_per_100_sentences": 8.7,
+   "variety": 0.4648
+  },
+  {
+   "id": "abf1b1e9e347",
+   "title": "HOUR 3 – How far will the Colts fall, Michael Irvin",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-3-how-far-will-the-colts-fall-michael-irvin",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/1398d80d-5a06-4030-8e67-b50801199386/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1398d80d-5a06-4030-8e67-b50801199386/transcript?format=WebVTT&t=1795194632",
+   "minutes": 41.2,
+   "words": 7171,
+   "wpm": 174.2,
+   "questions_per_100_sentences": 12.9,
+   "variety": 0.4459
+  },
+  {
+   "id": "ecdc32fd9a2f",
+   "title": "Hour 1 – CMA, GTA VI",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-1-cma-gta-vi",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/51c34d64-2e9c-42c5-8b11-b507010f6ca8/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/51c34d64-2e9c-42c5-8b11-b507010f6ca8/transcript?format=WebVTT&t=1795105919",
+   "minutes": 41.4,
+   "words": 7233,
+   "wpm": 174.6,
+   "questions_per_100_sentences": 9.6,
+   "variety": 0.4699
+  },
+  {
+   "id": "e1548985ee35",
+   "title": "Hour 2 – TNF Preview, Peter Farrelly",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-2-tnf-preview-peter-farrelly",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/84e0d610-2324-4e06-a863-b507010fecfb/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/84e0d610-2324-4e06-a863-b507010fecfb/transcript?format=WebVTT&t=1795105999",
+   "minutes": 40.9,
+   "words": 6903,
+   "wpm": 169.0,
+   "questions_per_100_sentences": 12.3,
+   "variety": 0.4519
+  },
+  {
+   "id": "5db38e1537f4",
+   "title": "Hour 3 – Nic Cage Is No Madden, Greg McElroy",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-3-nic-cage-is-no-madden-greg-mcelroy",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/769cae40-3f22-4a2c-be0a-b507011ab2f3/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/769cae40-3f22-4a2c-be0a-b507011ab2f3/transcript?format=WebVTT&t=1795108666",
+   "minutes": 41.3,
+   "words": 7309,
+   "wpm": 177.1,
+   "questions_per_100_sentences": 8.5,
+   "variety": 0.4657
+  },
+  {
+   "id": "e888673d283d",
+   "title": "Hour 1 – CFP Needs to Get It Right, Domonique Foxworth",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-1-cfp-needs-to-get-it-right-domonique-foxworth",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/f211e597-e921-4b8a-9ce2-b506011c2aa8/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f211e597-e921-4b8a-9ce2-b506011c2aa8/transcript?format=WebVTT&t=1795022510",
+   "minutes": 41.4,
+   "words": 7428,
+   "wpm": 179.5,
+   "questions_per_100_sentences": 8.8,
+   "variety": 0.4545
+  },
+  {
+   "id": "51bfbd678b74",
+   "title": "Hour 2 – Chris Fowler, 24-Team Playoff Conjecture",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-2-chris-fowler-24-team-playoff-conjecture",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/d4d39c9d-fc3c-4fad-8e94-b506011d4e1d/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d4d39c9d-fc3c-4fad-8e94-b506011d4e1d/transcript?format=WebVTT&t=1795022759",
+   "minutes": 41.6,
+   "words": 7287,
+   "wpm": 175.2,
+   "questions_per_100_sentences": 8.8,
+   "variety": 0.4765
+  },
+  {
+   "id": "c950461f818f",
+   "title": "Hour 3 – State Flags, Philip Rivers",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-3-state-flags-philip-rivers",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/eb4c2dd2-a7e4-4f4e-a335-b506011e7bc1/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eb4c2dd2-a7e4-4f4e-a335-b506011e7bc1/transcript?format=WebVTT&t=1795023102",
+   "minutes": 41.4,
+   "words": 7247,
+   "wpm": 175.0,
+   "questions_per_100_sentences": 12.8,
+   "variety": 0.4493
+  },
+  {
+   "id": "f4730c09fbab",
+   "title": "Hour 1 – Chargers Get off the Schneid, CFP Solution",
+   "date": "2026-11-17",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-1-chargers-get-off-the-schneid-cfp-solution",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/933f8107-0e4a-4aa8-812d-b505011532c5/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/933f8107-0e4a-4aa8-812d-b505011532c5/transcript?format=WebVTT&t=1794934430",
+   "minutes": 41.5,
+   "words": 6786,
+   "wpm": 163.5,
+   "questions_per_100_sentences": 8.0,
+   "variety": 0.4608
+  }
+ ]
+}

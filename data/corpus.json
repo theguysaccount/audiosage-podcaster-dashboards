@@ -1,0 +1,34 @@
+{
+ "built": "2026-11-22",
+ "shows_in_this_run": [
+  "behind-the-bastards",
+  "heavyweight",
+  "las-culturistas",
+  "my-favorite-murder",
+  "odd-lots",
+  "stuff-you-should-know",
+  "the-bobby-bones-show",
+  "the-breakfast-club",
+  "the-dan-patrick-show",
+  "the-diary-of-a-ceo",
+  "the-herd",
+  "the-meateater-podcast"
+ ],
+ "topic_average_per_10k": {
+  "Technology and AI": 11.5,
+  "Business and money": 26.2,
+  "Health and medicine": 9.5,
+  "Science": 2.9,
+  "Politics and government": 14.1,
+  "Crime and justice": 11.4,
+  "Sports": 40.6,
+  "Movies, TV and entertainment": 22.3,
+  "Music": 9.8,
+  "History": 6.3,
+  "Family and relationships": 31.4,
+  "Food and drink": 8.3,
+  "Religion and spirituality": 9.5,
+  "Climate and environment": 2.3
+ },
+ "words": 1350089
+}

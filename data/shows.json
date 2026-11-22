@@ -1,0 +1,123 @@
+{
+ "about": "Shows analyzed. v1 includes only shows that publish their own timed transcripts in their feed. To add a show, add an entry; to remove one at a show's request, set \"paused\" to the reason (its pages come down on the next build). See OPERATIONS.md. include_titles / exclude_titles (regular expressions) keep other shows, replays and best-ofs that share a network feed out of a show's numbers.",
+ "candidates_not_yet_included": [
+  "Acquired (only some episodes have timed transcripts)",
+  "Armstrong & Getty On Demand",
+  "Betrayal Season 6",
+  "Breaking Points with Krystal and Saagar",
+  "FantasyPros - Fantasy Football Podcast",
+  "KSR",
+  "Letters from an American",
+  "Love Trapped",
+  "Sword and Scale",
+  "The President's Daily Brief",
+  "Two Ts In A Pod with Teddi Mellencamp and Tamra Judge",
+  "followHIM"
+ ],
+ "shows": [
+  {
+   "slug": "stuff-you-should-know",
+   "name": "Stuff You Should Know",
+   "apple_id": "278981407",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
+   "genre": "Society & Culture",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "exclude_titles": "^Selects:"
+  },
+  {
+   "slug": "my-favorite-murder",
+   "name": "My Favorite Murder",
+   "apple_id": "1074507850",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss",
+   "genre": "True Crime",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "include_titles": "^(\\d+ - |MFM Minisode)"
+  },
+  {
+   "slug": "the-diary-of-a-ceo",
+   "name": "The Diary of a CEO",
+   "apple_id": "1291423644",
+   "feed": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+   "genre": "Business",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript)."
+  },
+  {
+   "slug": "behind-the-bastards",
+   "name": "Behind the Bastards",
+   "apple_id": "1373812661",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss",
+   "genre": "Society & Culture",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "exclude_titles": "^It Could Happen Here"
+  },
+  {
+   "slug": "the-dan-patrick-show",
+   "name": "The Dan Patrick Show",
+   "apple_id": "279241099",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/4818243e-950b-4fc4-8a22-ae320005bb09/podcast.rss",
+   "genre": "Sports",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "include_titles": "^HOUR \\d|^Hour \\d"
+  },
+  {
+   "slug": "the-meateater-podcast",
+   "name": "The MeatEater Podcast",
+   "apple_id": "960902903",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss",
+   "genre": "Wilderness",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript)."
+  },
+  {
+   "slug": "heavyweight",
+   "name": "Heavyweight",
+   "apple_id": "1150800298",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/d08826cd-f888-4cd3-b700-b28e0126edbb/podcast.rss",
+   "genre": "Personal Journals",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "include_titles": "^#\\d+"
+  },
+  {
+   "slug": "las-culturistas",
+   "name": "Las Culturistas",
+   "apple_id": "1092361338",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/935c500f-8bb0-436b-ba7f-ae2700391b49/podcast.rss",
+   "genre": "Comedy",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript)."
+  },
+  {
+   "slug": "the-bobby-bones-show",
+   "name": "The Bobby Bones Show",
+   "apple_id": "1220546899",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/473a2576-d031-4145-922c-ae27017c48d6/podcast.rss",
+   "genre": "Comedy",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "include_titles": "^(MON|TUES|WED|THURS|FRI)\\w* PT"
+  },
+  {
+   "slug": "odd-lots",
+   "name": "Odd Lots",
+   "apple_id": "1056200096",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
+   "genre": "Investing",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript)."
+  },
+  {
+   "slug": "the-herd",
+   "name": "The Herd with Colin Cowherd",
+   "apple_id": "1042368254",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/bf391792-153e-41b3-9d3d-ae3300346ad8/podcast.rss",
+   "genre": "Football",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "include_titles": "^THE HERD"
+  },
+  {
+   "slug": "the-breakfast-club",
+   "name": "The Breakfast Club",
+   "apple_id": "1232428553",
+   "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/0660e13d-8aa3-45f5-90ef-ae33005f6621/podcast.rss",
+   "genre": "Comedy",
+   "why": "Publishes its own transcripts in its podcast feed (podcast:transcript).",
+   "include_titles": "^FULL SHOW"
+  }
+ ]
+}

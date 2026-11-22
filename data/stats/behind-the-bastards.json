@@ -1,0 +1,442 @@
+{
+ "slug": "behind-the-bastards",
+ "name": "Behind the Bastards",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss",
+ "website": "https://www.iheart.com/podcast/105-behind-the-bastards-29236323/",
+ "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/image.jpg?t=1749761552&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-10-20",
+ "latest_episode": "2026-11-19",
+ "words_analyzed": 131185,
+ "pace_wpm": 194.0,
+ "minutes_median": 68.9,
+ "questions_per_100_sentences": 10.8,
+ "variety": 0.4919,
+ "signature_phrases": [
+  {
+   "phrase": "period of time",
+   "count": 28,
+   "episodes": 6,
+   "z": 8.45,
+   "moments": [
+    {
+     "episode": "d46805e5b8d4",
+     "at": 633,
+     "quote": "in Lunga Lunga for an unclear period of time. I"
+    },
+    {
+     "episode": "7dfe703646ed",
+     "at": 705,
+     "quote": "pretty young for studio executives in this period of time"
+    }
+   ]
+  },
+  {
+   "phrase": "guy who",
+   "count": 36,
+   "episodes": 10,
+   "z": 8.34,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 646,
+     "quote": "Klux Klan is the guy who saves his soul. A"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 555,
+     "quote": "I don't know if you remember the Nigerian guy who"
+    }
+   ]
+  },
+  {
+   "phrase": "he gets",
+   "count": 38,
+   "episodes": 10,
+   "z": 8.12,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 604,
+     "quote": "So he gets shot in this hunting accident, and he"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 272,
+     "quote": "even sentenced. He gets sentenced like the week this comes out. Yeah."
+    }
+   ]
+  },
+  {
+   "phrase": "he starts",
+   "count": 26,
+   "episodes": 9,
+   "z": 7.72,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 836,
+     "quote": "It's crazy stuff. So he starts preaching about these visions"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 751,
+     "quote": "years in the city driving, he starts, because there's a"
+    }
+   ]
+  },
+  {
+   "phrase": "may have",
+   "count": 28,
+   "episodes": 8,
+   "z": 7.31,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 1891,
+     "quote": "may have tailored his message personally. Some people clearly are"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 318,
+     "quote": "For his cold, yeah. So Paul may have been born"
+    }
+   ]
+  },
+  {
+   "phrase": "he started",
+   "count": 24,
+   "episodes": 10,
+   "z": 7.02,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 197,
+     "quote": "he started his cult? Probably not. But you know what?"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 807,
+     "quote": "us joined his ministry until he started preaching outside the Bible."
+    }
+   ]
+  },
+  {
+   "phrase": "his life",
+   "count": 26,
+   "episodes": 6,
+   "z": 7.0,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 480,
+     "quote": "his life story, the KKK are the good guys. And"
+    },
+    {
+     "episode": "7dfe703646ed",
+     "at": 3263,
+     "quote": "they could save his life and they couldn't."
+    }
+   ]
+  },
+  {
+   "phrase": "white people",
+   "count": 21,
+   "episodes": 4,
+   "z": 6.95,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 3447,
+     "quote": "flour from white people. Whenever I had no food, I"
+    },
+    {
+     "episode": "ce27eba15bfc",
+     "at": 614,
+     "quote": "against these white people to make more money is. does"
+    }
+   ]
+  },
+  {
+   "phrase": "he wanted",
+   "count": 25,
+   "episodes": 7,
+   "z": 6.77,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 2342,
+     "quote": "to pursue the degree he wanted because he was poor."
+    },
+    {
+     "episode": "7dfe703646ed",
+     "at": 854,
+     "quote": "which laid out the kind of films he wanted to"
+    }
+   ]
+  },
+  {
+   "phrase": "part two",
+   "count": 18,
+   "episodes": 7,
+   "z": 6.44,
+   "moments": [
+    {
+     "episode": "d46805e5b8d4",
+     "at": 854,
+     "quote": "I'll talk in part two about a little more of"
+    },
+    {
+     "episode": "7dfe703646ed",
+     "at": 4,
+     "quote": "Welcome back to Behind the Bastards. This is part two"
+    }
+   ]
+  },
+  {
+   "phrase": "we're back",
+   "count": 20,
+   "episodes": 10,
+   "z": 6.27,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 1646,
+     "quote": "to these ads. And we're back. I hope you're all"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 1518,
+     "quote": "or something. And we're back. So by no later than 2016,"
+    }
+   ]
+  },
+  {
+   "phrase": "people who",
+   "count": 66,
+   "episodes": 10,
+   "z": 6.24,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 676,
+     "quote": "people who went on actually because there's many guns out"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 3074,
+     "quote": "he starts selling land. He'll take in people who are"
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 40.0,
+   "vs_average": 1.79
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 36.4,
+   "vs_average": 1.39
+  },
+  {
+   "topic": "Family and relationships",
+   "per_10k": 36.0,
+   "vs_average": 1.14
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 23.6,
+   "vs_average": 1.68
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 20.5,
+   "vs_average": 1.79
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 18.8,
+   "vs_average": 1.98
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 13.8,
+   "vs_average": 1.45
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 10.1,
+   "vs_average": 0.25
+  },
+  {
+   "topic": "History",
+   "per_10k": 9.8,
+   "vs_average": 1.55
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 7.3,
+   "vs_average": 0.64
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 7.1,
+   "vs_average": 0.85
+  },
+  {
+   "topic": "Music",
+   "per_10k": 4.4,
+   "vs_average": 0.45
+  },
+  {
+   "topic": "Science",
+   "per_10k": 3.3,
+   "vs_average": 1.11
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 1.8,
+   "vs_average": 0.77
+  }
+ ],
+ "episodes": [
+  {
+   "id": "f57455cda6f0",
+   "title": "Part Two: Pastor Paul Mackenzie: Kenya's Doomsday Starvation Cult Leader",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-two-pastor-paul-mackenzie-kenyas-doomsday-starvation-cult-leader",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/31066548-76ec-4e9f-b5bc-b506017ba156/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/31066548-76ec-4e9f-b5bc-b506017ba156/transcript?format=WebVTT&t=1795043552",
+   "minutes": 67.9,
+   "words": 13257,
+   "wpm": 195.2,
+   "questions_per_100_sentences": 10.6,
+   "variety": 0.4938
+  },
+  {
+   "id": "d46805e5b8d4",
+   "title": "Part One: Pastor Paul Mackenzie: Kenya's Doomsday Starvation Cult Leader",
+   "date": "2026-11-17",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-one-pastor-paul-mackenzie-kenyas-doomsday-starvation-cult-leader",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/09478709-4188-4b7f-9984-b50401742f15/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/09478709-4188-4b7f-9984-b50401742f15/transcript?format=WebVTT&t=1794869336",
+   "minutes": 62.5,
+   "words": 12249,
+   "wpm": 196.0,
+   "questions_per_100_sentences": 11.1,
+   "variety": 0.4715
+  },
+  {
+   "id": "7dfe703646ed",
+   "title": "Part Two: Don Simpson: The Producer of Top Gun Also Ruined Hollywood",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-two-don-simpson-the-producer-of-top-gun-also-ruined-hollywood",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/0561bc45-f581-435a-8215-b4ff0171e9c0/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0561bc45-f581-435a-8215-b4ff0171e9c0/transcript?format=WebVTT&t=1794436400",
+   "minutes": 85.0,
+   "words": 16668,
+   "wpm": 196.0,
+   "questions_per_100_sentences": 10.1,
+   "variety": 0.487
+  },
+  {
+   "id": "eb204fbd2376",
+   "title": "Part One: Don Simpson: The Producer of Top Gun Also Ruined Hollywood",
+   "date": "2026-11-10",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-one-don-simpson-the-producer-of-top-gun-also-ruined-hollywood",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/2bd81600-cd28-4fca-9582-b4fd016e07ab/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2bd81600-cd28-4fca-9582-b4fd016e07ab/transcript?format=WebVTT&t=1794262948",
+   "minutes": 70.2,
+   "words": 14153,
+   "wpm": 201.6,
+   "questions_per_100_sentences": 8.7,
+   "variety": 0.4807
+  },
+  {
+   "id": "0e53df40ddb6",
+   "title": "Part Two: Dennis Hastert: The Longest-Serving Republican Speaker of the House",
+   "date": "2026-11-05",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-two-dennis-hastert-the-longest-serving-republican-speaker-of-the-house",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/b232779c-fa59-4669-b4f6-b4f801834b2e/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b232779c-fa59-4669-b4f6-b4f801834b2e/transcript?format=WebVTT&t=1793835382",
+   "minutes": 71.7,
+   "words": 13835,
+   "wpm": 192.8,
+   "questions_per_100_sentences": 10.9,
+   "variety": 0.4996
+  },
+  {
+   "id": "06bd1931d36a",
+   "title": "Part One: Dennis Hastert: The Longest-Serving Republican Speaker of the House",
+   "date": "2026-11-03",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-one-dennis-hastert-the-longest-serving-republican-speaker-of-the-house",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/6fd46b37-50c8-4588-b0eb-b4f60179ae9f/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6fd46b37-50c8-4588-b0eb-b4f60179ae9f/transcript?format=WebVTT&t=1793660396",
+   "minutes": 49.8,
+   "words": 9801,
+   "wpm": 197.0,
+   "questions_per_100_sentences": 8.6,
+   "variety": 0.4968
+  },
+  {
+   "id": "ce27eba15bfc",
+   "title": "Part Two: Peter Rachman: King of the Slumlords",
+   "date": "2026-10-29",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-two-peter-rachman-king-of-the-slumlords",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d04073c2-aa6c-4be9-9c0d-b4f10169a17b/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d04073c2-aa6c-4be9-9c0d-b4f10169a17b/transcript?format=WebVTT&t=1793224899",
+   "minutes": 69.6,
+   "words": 12935,
+   "wpm": 185.9,
+   "questions_per_100_sentences": 13.4,
+   "variety": 0.4955
+  },
+  {
+   "id": "2e00522de6e9",
+   "title": "Part One: Peter Rachman: King of the Slumlords",
+   "date": "2026-10-27",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-one-peter-rachman-king-of-the-slumlords",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/1ef0e3a3-8b48-4651-aecb-b4f000174a9a/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1ef0e3a3-8b48-4651-aecb-b4f000174a9a/transcript?format=WebVTT&t=1793064715",
+   "minutes": 56.0,
+   "words": 10664,
+   "wpm": 190.4,
+   "questions_per_100_sentences": 16.1,
+   "variety": 0.49
+  },
+  {
+   "id": "9daa37256e49",
+   "title": "Part Two: How Nuisance Streamers and Rage-Baiting Ate the Internet",
+   "date": "2026-10-22",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-two-how-nuisance-streamers-and-rage-baiting-ate-the-internet",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/832fabd6-3ec2-4700-82ab-b4ea01314b62/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/832fabd6-3ec2-4700-82ab-b4ea01314b62/transcript?format=WebVTT&t=1792609881",
+   "minutes": 75.5,
+   "words": 14548,
+   "wpm": 192.8,
+   "questions_per_100_sentences": 9.8,
+   "variety": 0.5019
+  },
+  {
+   "id": "2431cf3c9a4e",
+   "title": "Part One:  How Nuisance Streamers and Rage-Baiting Ate the Internet",
+   "date": "2026-10-20",
+   "link": "https://omny.fm/shows/behind-the-bastards/part-one-how-nuisance-streamers-and-rage-baiting-ate-the-internet",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/0d4ed69c-6d66-4f2d-b5a4-b4e8015a2bff/audio.mp3?utm_source=Podcast&in_playlist=d64f756d-6d5e-4fae-b24f-ae280140ad36",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0d4ed69c-6d66-4f2d-b5a4-b4e8015a2bff/transcript?format=WebVTT&t=1792444201",
+   "minutes": 68.3,
+   "words": 13075,
+   "wpm": 191.4,
+   "questions_per_100_sentences": 12.8,
+   "variety": 0.4855
+  }
+ ]
+}

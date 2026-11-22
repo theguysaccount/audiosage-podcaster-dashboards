@@ -1,0 +1,442 @@
+{
+ "slug": "the-bobby-bones-show",
+ "name": "The Bobby Bones Show",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/473a2576-d031-4145-922c-ae27017c48d6/podcast.rss",
+ "website": "https://www.iheart.com/podcast/139-bobby-bones-show-25100459/",
+ "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/473a2576-d031-4145-922c-ae27017c48d6/image.jpg?t=1744354088&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-11-12",
+ "latest_episode": "2026-11-20",
+ "words_analyzed": 114207,
+ "pace_wpm": 200.5,
+ "minutes_median": 58.6,
+ "questions_per_100_sentences": 13.5,
+ "variety": 0.4242,
+ "signature_phrases": [
+  {
+   "phrase": "you guys",
+   "count": 135,
+   "episodes": 10,
+   "z": 13.06,
+   "moments": [
+    {
+     "episode": "d9c6148135fd",
+     "at": 399,
+     "quote": "that after all that time, you guys were like, Oh,"
+    },
+    {
+     "episode": "305a6ce39d54",
+     "at": 327,
+     "quote": "he's like, I'm not going. You guys flip me off."
+    }
+   ]
+  },
+  {
+   "phrase": "my gosh",
+   "count": 33,
+   "episodes": 9,
+   "z": 9.4,
+   "moments": [
+    {
+     "episode": "305a6ce39d54",
+     "at": 624,
+     "quote": "Oh my gosh."
+    },
+    {
+     "episode": "db0349598174",
+     "at": 1656,
+     "quote": "Oh, my gosh. Two young lovers. Wild and free. Reach"
+    }
+   ]
+  },
+  {
+   "phrase": "last night",
+   "count": 56,
+   "episodes": 8,
+   "z": 8.95,
+   "moments": [
+    {
+     "episode": "d9c6148135fd",
+     "at": 1569,
+     "quote": "I recovered yesterday and last night. Like I think it"
+    },
+    {
+     "episode": "305a6ce39d54",
+     "at": 38,
+     "quote": "tribute last night. I know that I saw Ronnie Dunn's"
+    }
+   ]
+  },
+  {
+   "phrase": "that's cool",
+   "count": 21,
+   "episodes": 8,
+   "z": 7.82,
+   "moments": [
+    {
+     "episode": "305a6ce39d54",
+     "at": 1499,
+     "quote": "That's cool."
+    },
+    {
+     "episode": "db0349598174",
+     "at": 427,
+     "quote": "That's cool. Did she have a single mustache?"
+    }
+   ]
+  },
+  {
+   "phrase": "my house",
+   "count": 23,
+   "episodes": 10,
+   "z": 7.69,
+   "moments": [
+    {
+     "episode": "d9c6148135fd",
+     "at": 638,
+     "quote": "to probably implement more rules at my house, but when"
+    },
+    {
+     "episode": "305a6ce39d54",
+     "at": 3057,
+     "quote": "my house now today. I don't even go search for,"
+    }
+   ]
+  },
+  {
+   "phrase": "my wife",
+   "count": 35,
+   "episodes": 10,
+   "z": 7.68,
+   "moments": [
+    {
+     "episode": "d9c6148135fd",
+     "at": 3005,
+     "quote": "And then my wife was a little bit sick. She"
+    },
+    {
+     "episode": "305a6ce39d54",
+     "at": 118,
+     "quote": "those fireworks. That's her. Her and my wife are close."
+    }
+   ]
+  },
+  {
+   "phrase": "brooks and dunn",
+   "count": 24,
+   "episodes": 4,
+   "z": 7.34,
+   "moments": [
+    {
+     "episode": "305a6ce39d54",
+     "at": 35,
+     "quote": "Well, I'm calling to comment on the Brooks and Dunn"
+    },
+    {
+     "episode": "db0349598174",
+     "at": 14,
+     "quote": "tribute to Brooks and Dunn."
+    }
+   ]
+  },
+  {
+   "phrase": "pretty cool",
+   "count": 17,
+   "episodes": 8,
+   "z": 7.12,
+   "moments": [
+    {
+     "episode": "d9c6148135fd",
+     "at": 167,
+     "quote": "Pretty cool. But if I had family, it would have"
+    },
+    {
+     "episode": "305a6ce39d54",
+     "at": 3385,
+     "quote": "And so pretty cool if you weren't even interested and"
+    }
+   ]
+  },
+  {
+   "phrase": "go first",
+   "count": 16,
+   "episodes": 8,
+   "z": 6.93,
+   "moments": [
+    {
+     "episode": "305a6ce39d54",
+     "at": 2150,
+     "quote": "I mean, a monster. So... Amy, you go first."
+    },
+    {
+     "episode": "db0349598174",
+     "at": 1851,
+     "quote": "Lunchbox, you go first."
+    }
+   ]
+  },
+  {
+   "phrase": "red carpet",
+   "count": 24,
+   "episodes": 6,
+   "z": 6.74,
+   "moments": [
+    {
+     "episode": "305a6ce39d54",
+     "at": 2686,
+     "quote": "not let him walk the red carpet, and then."
+    },
+    {
+     "episode": "db0349598174",
+     "at": 289,
+     "quote": "On the red carpet?"
+    }
+   ]
+  },
+  {
+   "phrase": "like hey",
+   "count": 37,
+   "episodes": 10,
+   "z": 6.66,
+   "moments": [
+    {
+     "episode": "d9c6148135fd",
+     "at": 460,
+     "quote": "It just was like a nice offer of like, hey,"
+    },
+    {
+     "episode": "305a6ce39d54",
+     "at": 570,
+     "quote": "he's on our show 25 Whistles. And I was like, hey, coach,"
+    }
+   ]
+  },
+  {
+   "phrase": "something good",
+   "count": 13,
+   "episodes": 5,
+   "z": 6.17,
+   "moments": [
+    {
+     "episode": "305a6ce39d54",
+     "at": 1353,
+     "quote": "Tell me something good."
+    },
+    {
+     "episode": "21c622a33c0d",
+     "at": 1400,
+     "quote": "And this came from a Tell Me Something Good. And"
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Family and relationships",
+   "per_10k": 38.2,
+   "vs_average": 1.21
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 30.6,
+   "vs_average": 1.37
+  },
+  {
+   "topic": "Music",
+   "per_10k": 26.7,
+   "vs_average": 2.74
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 18.7,
+   "vs_average": 0.72
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 16.0,
+   "vs_average": 0.4
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 13.1,
+   "vs_average": 1.58
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 8.8,
+   "vs_average": 0.92
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 8.5,
+   "vs_average": 0.74
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 6.2,
+   "vs_average": 0.54
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 5.7,
+   "vs_average": 0.6
+  },
+  {
+   "topic": "History",
+   "per_10k": 3.1,
+   "vs_average": 0.48
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 2.7,
+   "vs_average": 0.19
+  },
+  {
+   "topic": "Science",
+   "per_10k": 2.3,
+   "vs_average": 0.77
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 1.1,
+   "vs_average": 0.46
+  }
+ ],
+ "episodes": [
+  {
+   "id": "d9c6148135fd",
+   "title": "FRI PT 2: Why Did Bobby Turn Down A Big Show Trip? + Amy Nervous About Thanksgiving Travel + Did Bobby Have A Medical Procedure Done?",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/fri-pt-2-why-did-bobby-turn-down-a-big-show-trip-amy-nervous-about-thanksgiving-travel-did-bobby-have-a-medical-procedure-done",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/852e016a-a83e-4cbe-9471-b5080111a349/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/852e016a-a83e-4cbe-9471-b5080111a349/transcript?format=WebVTT&t=1795193180",
+   "minutes": 60.8,
+   "words": 12183,
+   "wpm": 200.4,
+   "questions_per_100_sentences": 12.0,
+   "variety": 0.4154
+  },
+  {
+   "id": "305a6ce39d54",
+   "title": "FRI PT 1: Why Wasn't Morgan Wallen At The CMAs? + We Deep Dive Into GTA 6  + Easy Trivia!",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/fri-pt-1-why-wasnt-morgan-wallen-at-the-cmas-we-deep-dive-into-gta-6-easy-trivia",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/9423d18d-a8e7-451e-b2d1-b5080115bb3b/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9423d18d-a8e7-451e-b2d1-b5080115bb3b/transcript?format=WebVTT&t=1795194021",
+   "minutes": 57.0,
+   "words": 10642,
+   "wpm": 186.6,
+   "questions_per_100_sentences": 12.0,
+   "variety": 0.4329
+  },
+  {
+   "id": "db0349598174",
+   "title": "THURS PT 2: Why Did Bobby Turn Down A Role? + Bobby Resorted To Drugs Last Night + Amy On Best Looking Guy At CMA's",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/thurs-pt-2-why-did-bobby-turn-down-a-role-bobby-resorted-to-drugs-last-night-amy-on-best-looking-guy-at-cmas",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/9979041e-a692-44ec-84f3-b5070125e850/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9979041e-a692-44ec-84f3-b5070125e850/transcript?format=WebVTT&t=1795110849",
+   "minutes": 56.2,
+   "words": 11731,
+   "wpm": 208.8,
+   "questions_per_100_sentences": 15.2,
+   "variety": 0.4205
+  },
+  {
+   "id": "21c622a33c0d",
+   "title": "THURS PT 1: Bobby Texted Ronnie Dunn About Controversial Brooks & Dunn Tribute + Bombshell Drop On Amy's New Dude + We Wrote Letters To Soldiers",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/thurs-pt-1-bobby-texted-ronnie-dunn-about-controversial-brooks-dunn-tribute-bombshell-drop-on-amys-new-dude-we-wrote-letters-to-soldiers",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/145b64f4-0657-4e5a-aba8-b50701197390/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/145b64f4-0657-4e5a-aba8-b50701197390/transcript?format=WebVTT&t=1795108329",
+   "minutes": 68.5,
+   "words": 13763,
+   "wpm": 200.9,
+   "questions_per_100_sentences": 13.3,
+   "variety": 0.429
+  },
+  {
+   "id": "a98ba2ddc57b",
+   "title": "WEDS PT 2: Bobby Thinks We're Being Lied To + We Can't Believe Kane Brown Does This! + Bobby On Our New Hire",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/weds-pt-2-bobby-thinks-were-being-lied-to-we-cant-believe-kane-brown-does-this-bobby-on-our-new-hire",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/fd585c68-bcd4-43e7-8b25-b5060105e07d/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fd585c68-bcd4-43e7-8b25-b5060105e07d/transcript?format=WebVTT&t=1795017554",
+   "minutes": 60.2,
+   "words": 12104,
+   "wpm": 201.0,
+   "questions_per_100_sentences": 13.7,
+   "variety": 0.4233
+  },
+  {
+   "id": "efa70b934817",
+   "title": "WEDS PT 1: We All Got Scammed! + Creepy Amy Hits On An Artist + Was Bobby's Hometown Sign Stolen?!",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/weds-pt-1-we-all-got-scammed-creepy-amy-hits-on-an-artist-was-bobbys-hometown-sign-stolen",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/55fd8319-fa4d-4ff7-8332-b50600feb782/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/55fd8319-fa4d-4ff7-8332-b50600feb782/transcript?format=WebVTT&t=1795016345",
+   "minutes": 56.3,
+   "words": 10534,
+   "wpm": 187.3,
+   "questions_per_100_sentences": 16.0,
+   "variety": 0.4251
+  },
+  {
+   "id": "fc063951b0a2",
+   "title": "FRI PT 2: We Might Book A Controversial Guest + Did Amy Embarrass Herself In Front Of A Singer? + Eddie Unloads On Us!",
+   "date": "2026-11-13",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/fri-pt-2-we-might-book-a-controversial-guest-did-amy-embarrass-herself-in-front-of-a-singer-eddie-unloads-on-us",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/46dd9757-8b37-4cae-a4b6-b501011c8920/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/46dd9757-8b37-4cae-a4b6-b501011c8920/transcript?format=WebVTT&t=1794590896",
+   "minutes": 51.0,
+   "words": 10347,
+   "wpm": 203.0,
+   "questions_per_100_sentences": 15.4,
+   "variety": 0.4186
+  },
+  {
+   "id": "1b6c3cd4cc05",
+   "title": "FRI PT 1: Amy's Parenting Fail Makes Bobby LOL  + Are You More Likely To Die Today? + Easy Trivia!",
+   "date": "2026-11-13",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/fri-pt-1-amys-parenting-fail-makes-bobby-lol-are-you-more-likely-to-die-today-easy-trivia",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/7d3574cd-5644-41f7-ba66-b5010106f29d/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d3574cd-5644-41f7-ba66-b5010106f29d/transcript?format=WebVTT&t=1794585745",
+   "minutes": 61.6,
+   "words": 11700,
+   "wpm": 190.0,
+   "questions_per_100_sentences": 12.9,
+   "variety": 0.4299
+  },
+  {
+   "id": "c1a185dd430c",
+   "title": "THURS PT 2: We Lost A LOT Of Money! + Bobby Almost Did Something Deadly + Bobby Met An A-List Celebrity",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/thurs-pt-2-we-lost-a-lot-of-money-bobby-almost-did-something-deadly-bobby-met-an-a-list-celebrity",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/cd54b069-8c59-4e07-82dd-b5000128e732/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/cd54b069-8c59-4e07-82dd-b5000128e732/transcript?format=WebVTT&t=1794506883",
+   "minutes": 46.7,
+   "words": 9359,
+   "wpm": 200.6,
+   "questions_per_100_sentences": 12.8,
+   "variety": 0.4311
+  },
+  {
+   "id": "f75f575355ce",
+   "title": "THURS PT 1: Bobby Has A Weird New Rule For Us + Travis Tritt vs. Tracy Lawrence + Is Abby Going To Sing At Her Wedding?",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/thurs-pt-1-bobby-has-a-weird-new-rule-for-us-travis-tritt-vs-tracy-lawrence-is-abby-going-to-sing-at-her-wedding",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/bb47fa5f-4ce8-47c1-b087-b5000103b326/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bb47fa5f-4ce8-47c1-b087-b5000103b326/transcript?format=WebVTT&t=1794498641",
+   "minutes": 62.8,
+   "words": 11844,
+   "wpm": 188.6,
+   "questions_per_100_sentences": 14.8,
+   "variety": 0.4136
+  }
+ ]
+}

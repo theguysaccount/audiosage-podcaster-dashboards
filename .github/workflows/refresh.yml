@@ -1,0 +1,125 @@
+# Weekly: read every show's feed and the transcripts it publishes, recount the statistics, test, build, drive the
+# built site in headless Chrome, save the new statistics, deploy, check the live site, ping IndexNow.
+# Also runs on every push to main (without the fetch) and by hand.
+# Fails safe: a slow or broken feed is retried, then skipped, and that show keeps its cached episodes and its last
+# published numbers; any failed test or check stops the run before anything is committed or deployed.
+name: Refresh and deploy
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      refresh:
+        description: "Read the feeds and recount first"
+        type: boolean
+        default: true
+  schedule:
+    - cron: "37 5 * * 2"    # Tuesdays 05:37 UTC
+    - cron: "11 17 * * 5"   # Fridays 17:11 UTC (a second chance if Tuesday's run is skipped)
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+env:
+  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+  GOATCOUNTER_URL: ${{ vars.GOATCOUNTER_URL }}
+  SPONSOR_URL: ${{ vars.SPONSOR_URL }}
+  SPONSOR_LABEL: ${{ vars.SPONSOR_LABEL }}
+  GOOGLE_SITE_VERIFICATION: ${{ vars.GOOGLE_SITE_VERIFICATION }}
+  AUDIOSAGE_CACHE: .cache
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v7
+        with:
+          node-version: 22
+      - name: Install Pillow (share cards)
+        run: python3 -m pip install --quiet "pillow==11.3.0"
+      - name: Restore the transcript cache
+        uses: actions/cache/restore@v6
+        with:
+          path: .cache
+          key: transcripts-${{ github.run_id }}
+          restore-keys: transcripts-
+      - name: Read feeds and transcripts
+        id: refresh
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        run: |
+          python3 pipeline/fetch.py
+          python3 pipeline/analyze.py
+      - name: Save the transcript cache
+        if: steps.refresh.outcome == 'success'
+        uses: actions/cache/save@v6
+        with:
+          path: .cache
+          key: transcripts-${{ github.run_id }}
+      - name: Tests
+        run: python3 -m unittest discover -s tests -v
+      - name: Build
+        run: REQUIRE_OG=1 python3 pipeline/build.py
+      - name: Drive the built site in headless Chrome
+        run: scripts/e2e.sh
+      - name: Save the new statistics
+        if: steps.refresh.outcome == 'success'
+        run: |
+          git add data/stats data/corpus.json
+          if git diff --cached --quiet; then echo "no change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Podcast statistics for $(date -u +%F) [skip ci]"
+          for attempt in 1 2 3; do
+            git pull --rebase --quiet origin main && git push --quiet origin HEAD:main && exit 0
+            sleep $((attempt * 10))
+          done
+          echo "::warning::could not push the new statistics; the site still deploys with them"
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: dist
+      - uses: actions/upload-artifact@v7
+        with:
+          name: urls
+          path: dist/urls.txt
+          retention-days: 7
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v5
+
+  after-deploy:
+    needs: deploy
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/download-artifact@v8
+        with:
+          name: urls
+      - name: Smoke-test the live site
+        run: |
+          for attempt in 1 2 3; do
+            scripts/e2e.sh "$SITE_URL/" && exit 0
+            sleep 60
+          done
+          exit 1
+      - name: Tell search engines (IndexNow)
+        run: python3 scripts/indexnow.py urls.txt

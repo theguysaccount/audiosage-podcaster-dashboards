@@ -1,0 +1,61 @@
+# Weekly: tests, the live site end to end, every page and the data file, freshness (starts a refresh when a show's
+# numbers are more than 9 days old), and the keep-alive. A failure opens (or comments on) one ops-alert issue.
+name: Weekly self-test
+
+on:
+  schedule:
+    - cron: "53 14 * * 0"   # Sundays 14:53 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+  issues: write
+
+env:
+  SITE_URL: ${{ vars.SITE_URL || format('https://{0}.github.io/{1}', github.repository_owner, github.event.repository.name) }}
+
+jobs:
+  selftest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+      - name: Tests
+        run: python3 -m unittest discover -s tests
+      - name: Drive the live site end to end
+        run: scripts/e2e.sh "$SITE_URL/"
+      - name: Every page is healthy and the numbers are fresh
+        id: live
+        run: python3 scripts/check_live.py "$SITE_URL"
+      - name: Start a refresh when numbers are stale
+        if: always() && steps.live.outputs.stale == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh workflow run refresh.yml -f refresh=true -R "$GITHUB_REPOSITORY"
+      - name: Record the failure in an issue
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create ops-alert --color B42318 --description "Automated health check failed" 2>/dev/null || true
+          run="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          open=$(gh issue list --label ops-alert --state open --json number --jq '.[0].number')
+          if [ -n "$open" ]; then
+            gh issue comment "$open" --body "Still failing: $run"
+          else
+            gh issue create --label ops-alert --title "Weekly self-test failed" --body "The weekly self-test failed: $run. OPERATIONS.md says what each check means."
+          fi
+
+  keepalive:
+    runs-on: ubuntu-latest
+    if: always()
+    steps:
+      - uses: actions/checkout@v7
+      - name: Keep scheduled workflows enabled
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: scripts/keepalive.sh

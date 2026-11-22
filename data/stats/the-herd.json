@@ -1,0 +1,442 @@
+{
+ "slug": "the-herd",
+ "name": "The Herd with Colin Cowherd",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/bf391792-153e-41b3-9d3d-ae3300346ad8/podcast.rss",
+ "website": "https://www.iheart.com/podcast/the-herd-w-colin-cowherd-27332740/",
+ "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/bf391792-153e-41b3-9d3d-ae3300346ad8/image.jpg?t=1788379017&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-11-17",
+ "latest_episode": "2026-11-20",
+ "words_analyzed": 68443,
+ "pace_wpm": 181.6,
+ "minutes_median": 41.3,
+ "questions_per_100_sentences": 6.1,
+ "variety": 0.4744,
+ "signature_phrases": [
+  {
+   "phrase": "fox sports",
+   "count": 63,
+   "episodes": 10,
+   "z": 15.62,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 2,
+     "quote": "catch us live every weekday on Fox Sports Radio and"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 2,
+     "quote": "catch us live every weekday on Fox Sports Radio and"
+    }
+   ]
+  },
+  {
+   "phrase": "sports radio",
+   "count": 60,
+   "episodes": 10,
+   "z": 15.11,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 2,
+     "quote": "catch us live every weekday on Fox Sports Radio and"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 2,
+     "quote": "catch us live every weekday on Fox Sports Radio and"
+    }
+   ]
+  },
+  {
+   "phrase": "super bowl",
+   "count": 46,
+   "episodes": 9,
+   "z": 13.01,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 718,
+     "quote": "Burrow got to a Super Bowl, we didn't love the"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 1781,
+     "quote": "They're not Super Bowl hoisting trophies. That's what the whole"
+    }
+   ]
+  },
+  {
+   "phrase": "college football",
+   "count": 43,
+   "episodes": 8,
+   "z": 12.67,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 2111,
+     "quote": "week three into the end of the college football playoffs,"
+    },
+    {
+     "episode": "5e62c7e89e9d",
+     "at": 784,
+     "quote": "college football, now at Fox Sports."
+    }
+   ]
+  },
+  {
+   "phrase": "us live",
+   "count": 33,
+   "episodes": 10,
+   "z": 11.31,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 2,
+     "quote": "catch us live every weekday on Fox Sports Radio and"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 2,
+     "quote": "catch us live every weekday on Fox Sports Radio and"
+    }
+   ]
+  },
+  {
+   "phrase": "josh allen",
+   "count": 36,
+   "episodes": 9,
+   "z": 11.2,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 1536,
+     "quote": "Josh Allen knows rivalry games in the division are tough."
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 701,
+     "quote": "I feel the same way. I think it's Josh Allen,"
+    }
+   ]
+  },
+  {
+   "phrase": "odd couple",
+   "count": 30,
+   "episodes": 10,
+   "z": 10.59,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 679,
+     "quote": "You can now watch The Odd Couple live on YouTube"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 1225,
+     "quote": "You can now watch The Odd Couple live on YouTube"
+    }
+   ]
+  },
+  {
+   "phrase": "very good",
+   "count": 35,
+   "episodes": 10,
+   "z": 10.45,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 715,
+     "quote": "very good quarterback any money. So we didn't love, as"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 372,
+     "quote": "not very good. Raiders is that team now. Damian Woody,"
+    }
+   ]
+  },
+  {
+   "phrase": "san francisco",
+   "count": 28,
+   "episodes": 8,
+   "z": 10.2,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 348,
+     "quote": "All right, game of the weekend, Minnesota-San Francisco, best on best."
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 2272,
+     "quote": "me that thinks I love San Francisco because Kyle Shanahan's like, yeah,"
+    }
+   ]
+  },
+  {
+   "phrase": "last year",
+   "count": 38,
+   "episodes": 9,
+   "z": 9.86,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 417,
+     "quote": "stop San Francisco was last year. It was Seattle, but"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 659,
+     "quote": "for the big, splashy plays. That's what he did last year,"
+    }
+   ]
+  },
+  {
+   "phrase": "brock purdy",
+   "count": 29,
+   "episodes": 8,
+   "z": 9.62,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 74,
+     "quote": "life early in their careers. of Brock Purdy. And Purdy's good,"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 2310,
+     "quote": "Kyle Shanahan and Brock Purdy have going. Now, Purdy's back"
+    }
+   ]
+  },
+  {
+   "phrase": "number one",
+   "count": 45,
+   "episodes": 9,
+   "z": 9.01,
+   "moments": [
+    {
+     "episode": "768a9bdfe5f5",
+     "at": 1344,
+     "quote": "would be a great number one. And keep an eye"
+    },
+    {
+     "episode": "3547d33852c0",
+     "at": 304,
+     "quote": "that number one seed. They're not taking their foot off"
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Sports",
+   "per_10k": 227.2,
+   "vs_average": 5.6
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 21.0,
+   "vs_average": 0.8
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 15.3,
+   "vs_average": 0.69
+  },
+  {
+   "topic": "Family and relationships",
+   "per_10k": 9.8,
+   "vs_average": 0.31
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 7.9,
+   "vs_average": 0.69
+  },
+  {
+   "topic": "History",
+   "per_10k": 3.1,
+   "vs_average": 0.48
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 3.1,
+   "vs_average": 1.34
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 2.3,
+   "vs_average": 0.25
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 2.0,
+   "vs_average": 0.25
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 1.9,
+   "vs_average": 0.2
+  },
+  {
+   "topic": "Science",
+   "per_10k": 1.3,
+   "vs_average": 0.45
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 1.0,
+   "vs_average": 0.09
+  },
+  {
+   "topic": "Music",
+   "per_10k": 1.0,
+   "vs_average": 0.1
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 0.9,
+   "vs_average": 0.06
+  }
+ ],
+ "episodes": [
+  {
+   "id": "768a9bdfe5f5",
+   "title": "THE HERD – HOUR 1 – 49ers v Vikings | Cowboys Are Wasting Dak Prescott",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-1-49ers-v-vikings-cowboys-are-wasting-dak-prescott",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/99677dde-72bb-45a4-93f9-b50801524e01/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/99677dde-72bb-45a4-93f9-b50801524e01/transcript?format=WebVTT&t=1795207255",
+   "minutes": 41.2,
+   "words": 7084,
+   "wpm": 172.0,
+   "questions_per_100_sentences": 4.2,
+   "variety": 0.4756
+  },
+  {
+   "id": "3547d33852c0",
+   "title": "THE HERD – HOUR 2 – Blazing 5: Saints at Bears, Raiders at Broncos, Bengals at Commanders",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-2-blazing-5-saints-at-bears-raiders-at-broncos-bengals-at-commanders",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/1c6eae19-2cfb-4a58-abd3-b5080152f3a7/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1c6eae19-2cfb-4a58-abd3-b5080152f3a7/transcript?format=WebVTT&t=1795207314",
+   "minutes": 41.4,
+   "words": 7537,
+   "wpm": 182.1,
+   "questions_per_100_sentences": 7.0,
+   "variety": 0.485
+  },
+  {
+   "id": "5e62c7e89e9d",
+   "title": "THE HERD – HOUR 3 – Urban Meyer’s Tier 1 Teams: Georgia, Notre Dame, Miami & Alabama",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-3-urban-meyer-s-tier-1-teams-georgia-notre-dame-miami-alabama",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/c123f68a-fbc3-48c0-8c57-b5080153bd50/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c123f68a-fbc3-48c0-8c57-b5080153bd50/transcript?format=WebVTT&t=1795207345",
+   "minutes": 32.5,
+   "words": 5974,
+   "wpm": 183.9,
+   "questions_per_100_sentences": 7.3,
+   "variety": 0.4875
+  },
+  {
+   "id": "22c0f2653b48",
+   "title": "THE HERD – HOUR 3 – Chiefs New Offense with Patrick Mahomes & Josh Downs",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-3-chiefs-new-offense-with-patrick-mahomes-josh-downs",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/2b97aee3-09b7-4b8c-9e2a-b507014e68d0/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/2b97aee3-09b7-4b8c-9e2a-b507014e68d0/transcript?format=WebVTT&t=1795119752",
+   "minutes": 33.6,
+   "words": 6169,
+   "wpm": 183.5,
+   "questions_per_100_sentences": 6.1,
+   "variety": 0.4666
+  },
+  {
+   "id": "8d1f8e9e0132",
+   "title": "THE HERD – HOUR 1 – Brock Purdy Is Different | Bills & Josh Allen Have A New Vibe | Getting Worse For Cowboys",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-1-brock-purdy-is-different-bills-josh-allen-have-a-new-vibe-getting-worse-for-cowboys",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/df8fee76-c4e9-475a-899e-b507014ce1f5/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/df8fee76-c4e9-475a-899e-b507014ce1f5/transcript?format=WebVTT&t=1795119470",
+   "minutes": 41.5,
+   "words": 6887,
+   "wpm": 166.1,
+   "questions_per_100_sentences": 6.1,
+   "variety": 0.4709
+  },
+  {
+   "id": "88bf38a8ff32",
+   "title": "THE HERD – HOUR 2 – Philip Rivers on Coaching NC State, Establishing A Culture & Recruiting",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-2-philip-rivers-on-coaching-nc-state-establishing-a-culture-recruiting",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/4d07cdb3-385a-4f40-9617-b507014dc165/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4d07cdb3-385a-4f40-9617-b507014dc165/transcript?format=WebVTT&t=1795119655",
+   "minutes": 40.4,
+   "words": 7686,
+   "wpm": 190.4,
+   "questions_per_100_sentences": 8.4,
+   "variety": 0.4682
+  },
+  {
+   "id": "8dd1ac2d7051",
+   "title": "THE HERD – HOUR 1 – Is Alabama Overrated? | Cowboys Continue To Crumble",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-1-is-alabama-overrated-cowboys-continue-to-crumble",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/0feb718c-b694-49c5-9b9c-b5060153a14a/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0feb718c-b694-49c5-9b9c-b5060153a14a/transcript?format=WebVTT&t=1795034453",
+   "minutes": 41.5,
+   "words": 7547,
+   "wpm": 181.7,
+   "questions_per_100_sentences": 6.0,
+   "variety": 0.4732
+  },
+  {
+   "id": "cdffe43b90be",
+   "title": "THE HERD – HOUR 2 – Joel Klatt: Arch Manning Is Not Ready For The NFL",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-2-joel-klatt-arch-manning-is-not-ready-for-the-nfl",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/1e8f2620-966d-45a1-a043-b5060154b01d/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1e8f2620-966d-45a1-a043-b5060154b01d/transcript?format=WebVTT&t=1795034623",
+   "minutes": 42.4,
+   "words": 7250,
+   "wpm": 171.1,
+   "questions_per_100_sentences": 6.5,
+   "variety": 0.4708
+  },
+  {
+   "id": "eb5c87235dec",
+   "title": "THE HERD – HOUR 3 – Brock Purdy Keeps Getting Better",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-3-brock-purdy-keeps-getting-better",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/e5d3d054-3bed-492c-b844-b5060155c5cc/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e5d3d054-3bed-492c-b844-b5060155c5cc/transcript?format=WebVTT&t=1795034820",
+   "minutes": 29.8,
+   "words": 5405,
+   "wpm": 181.4,
+   "questions_per_100_sentences": 5.7,
+   "variety": 0.4792
+  },
+  {
+   "id": "38d597c99666",
+   "title": "THE HERD – HOUR 1 – Ravens Have Major Problems | Kyle Shanahan Is The New Andy Reid",
+   "date": "2026-11-17",
+   "link": "https://omny.fm/shows/the-herd-with-colin-cowherd/the-herd-hour-1-ravens-have-major-problems-kyle-shanahan-is-the-new-andy-reid",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/1508ddb2-0c9a-42f6-aafe-ae3300346aa9/fceb9be8-6d25-468a-afaa-b505014e6793/audio.mp3?utm_source=Podcast&in_playlist=bf391792-153e-41b3-9d3d-ae3300346ad8",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fceb9be8-6d25-468a-afaa-b505014e6793/transcript?format=WebVTT&t=1794946886",
+   "minutes": 41.4,
+   "words": 6904,
+   "wpm": 166.8,
+   "questions_per_100_sentences": 4.3,
+   "variety": 0.4781
+  }
+ ]
+}

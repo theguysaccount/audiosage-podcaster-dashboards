@@ -1,0 +1,429 @@
+{
+ "slug": "las-culturistas",
+ "name": "Las Culturistas",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/935c500f-8bb0-436b-ba7f-ae2700391b49/podcast.rss",
+ "website": "https://twitter.com/LasCulturistas",
+ "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/image.jpg?t=1794944259&size=Large",
+ "episodes_analyzed": 9,
+ "first_episode": "2026-09-30",
+ "latest_episode": "2026-11-20",
+ "words_analyzed": 147607,
+ "pace_wpm": 187.4,
+ "minutes_median": 84.4,
+ "questions_per_100_sentences": 9.7,
+ "variety": 0.4177,
+ "signature_phrases": [
+  {
+   "phrase": "feel like",
+   "count": 169,
+   "episodes": 9,
+   "z": 14.31,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 223,
+     "quote": "I feel like we did duplex more than 54 Below."
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 508,
+     "quote": "It, it did, it did feel like that. I was like,"
+    }
+   ]
+  },
+  {
+   "phrase": "oh my god",
+   "count": 115,
+   "episodes": 9,
+   "z": 13.48,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 488,
+     "quote": "Oh my God, well, I've been watching, like I just"
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 2338,
+     "quote": "Oh my God."
+    }
+   ]
+  },
+  {
+   "phrase": "time it's",
+   "count": 40,
+   "episodes": 9,
+   "z": 10.35,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 3,
+     "quote": "sale now. This time, it's really Christmas. You can go"
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 3,
+     "quote": "sale now. This time, it's really Christmas. You can go"
+    }
+   ]
+  },
+  {
+   "phrase": "you guys",
+   "count": 120,
+   "episodes": 9,
+   "z": 9.18,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 139,
+     "quote": "Wait, hold on a second. What are you guys even"
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 389,
+     "quote": "Because you guys were there?"
+    }
+   ]
+  },
+  {
+   "phrase": "you heard",
+   "count": 29,
+   "episodes": 9,
+   "z": 8.33,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 13,
+     "quote": "my vinyl. It's called Have You Heard of Christmas? The"
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 13,
+     "quote": "my vinyl. It's called Have You Heard of Christmas? The"
+    }
+   ]
+  },
+  {
+   "phrase": "i loved",
+   "count": 28,
+   "episodes": 7,
+   "z": 8.31,
+   "moments": [
+    {
+     "episode": "750e15c2317c",
+     "at": 2156,
+     "quote": "I loved it. Mario Galaxy. Really good stuff."
+    },
+    {
+     "episode": "c6208c450720",
+     "at": 2488,
+     "quote": "And I forgot how much I loved it."
+    }
+   ]
+  },
+  {
+   "phrase": "so funny",
+   "count": 29,
+   "episodes": 9,
+   "z": 8.1,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 1341,
+     "quote": "That is so funny."
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 498,
+     "quote": "And it's, it's just, it's so funny how."
+    }
+   ]
+  },
+  {
+   "phrase": "we love",
+   "count": 35,
+   "episodes": 8,
+   "z": 7.79,
+   "moments": [
+    {
+     "episode": "750e15c2317c",
+     "at": 102,
+     "quote": "We love you."
+    },
+    {
+     "episode": "c6208c450720",
+     "at": 3113,
+     "quote": "We love it."
+    }
+   ]
+  },
+  {
+   "phrase": "one minute",
+   "count": 23,
+   "episodes": 9,
+   "z": 7.48,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 4555,
+     "quote": "That's one minute."
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 3925,
+     "quote": "And that's one minute. Wonderful."
+    }
+   ]
+  },
+  {
+   "phrase": "my hands",
+   "count": 19,
+   "episodes": 9,
+   "z": 7.14,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 11,
+     "quote": "watching me right now, I am holding in my hands"
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 11,
+     "quote": "watching me right now, I am holding in my hands"
+    }
+   ]
+  },
+  {
+   "phrase": "so honey",
+   "count": 109,
+   "episodes": 9,
+   "z": 7.0,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 608,
+     "quote": "kept changing it, and that was your I don't think so, honey."
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 3521,
+     "quote": "Just before we get to, I don't think so, honey."
+    }
+   ]
+  },
+  {
+   "phrase": "everybody it's",
+   "count": 18,
+   "episodes": 9,
+   "z": 6.95,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 0,
+     "quote": "Hey everybody, it's me, Matt, and my tour is on"
+    },
+    {
+     "episode": "750e15c2317c",
+     "at": 0,
+     "quote": "Hey, everybody. It's me, Matt, and my tour is on"
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 37.7,
+   "vs_average": 1.69
+  },
+  {
+   "topic": "Family and relationships",
+   "per_10k": 23.1,
+   "vs_average": 0.73
+  },
+  {
+   "topic": "Music",
+   "per_10k": 22.5,
+   "vs_average": 2.31
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 13.6,
+   "vs_average": 1.43
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 8.5,
+   "vs_average": 1.02
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 8.0,
+   "vs_average": 0.2
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 7.9,
+   "vs_average": 0.82
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 7.1,
+   "vs_average": 0.27
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 6.6,
+   "vs_average": 0.47
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 5.6,
+   "vs_average": 0.49
+  },
+  {
+   "topic": "History",
+   "per_10k": 3.5,
+   "vs_average": 0.54
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 2.6,
+   "vs_average": 1.15
+  },
+  {
+   "topic": "Science",
+   "per_10k": 1.8,
+   "vs_average": 0.6
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 1.4,
+   "vs_average": 0.12
+  }
+ ],
+ "episodes": [
+  {
+   "id": "5f31195192f3",
+   "title": "\"We Come To This Place For Chaos\" (w/ Marla Mindelle + Josh Sharp)",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/we-come-to-this-place-for-chaos-w-marla-mindelle-josh-sharp",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/e30362f1-a986-45ca-8d36-b5050105af0c/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e30362f1-a986-45ca-8d36-b5050105af0c/transcript?format=WebVTT&t=1795117843",
+   "minutes": 83.9,
+   "words": 16762,
+   "wpm": 199.9,
+   "questions_per_100_sentences": 12.5,
+   "variety": 0.4201
+  },
+  {
+   "id": "750e15c2317c",
+   "title": "\"My Meat Has Become A Threat\" (w/ Hasan Piker)",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/my-meat-has-become-a-threat-w-hasan-piker",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/5f7d1585-9f2b-4f4d-9d07-b50401289ce9/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5f7d1585-9f2b-4f4d-9d07-b50401289ce9/transcript?format=WebVTT&t=1794927296",
+   "minutes": 79.0,
+   "words": 14005,
+   "wpm": 177.3,
+   "questions_per_100_sentences": 8.5,
+   "variety": 0.4475
+  },
+  {
+   "id": "c6208c450720",
+   "title": "\"Unflappable In The Face of Screaming\" (w/ Wendi McLendon-Covey)",
+   "date": "2026-11-11",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/unflappable-in-the-face-of-screaming-w-wendi-mclendon-covey",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/a66c8128-71fb-44b2-a8c0-b4fd010fe769/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a66c8128-71fb-44b2-a8c0-b4fd010fe769/transcript?format=WebVTT&t=1794332165",
+   "minutes": 58.2,
+   "words": 10418,
+   "wpm": 179.0,
+   "questions_per_100_sentences": 8.1,
+   "variety": 0.4213
+  },
+  {
+   "id": "1d799afc3a6e",
+   "title": "\"Lubed + Pinned\" (w/ Jenna Lyons)",
+   "date": "2026-11-04",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/lubed-pinned-w-jenna-lyons",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/d7880576-30df-4da4-8cef-b4f700217aa5/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d7880576-30df-4da4-8cef-b4f700217aa5/transcript?format=WebVTT&t=1793770079",
+   "minutes": 93.7,
+   "words": 19305,
+   "wpm": 206.1,
+   "questions_per_100_sentences": 10.8,
+   "variety": 0.4005
+  },
+  {
+   "id": "3d12973b8c30",
+   "title": "\"Them With a Heart of Who\" (w/ Bobby Finger + Lindsey Weber)",
+   "date": "2026-10-28",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/them-with-a-heart-of-who-w-bobby-finger-lindsey-weber",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/6118e568-9268-48b8-b756-b4e9016c206b/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6118e568-9268-48b8-b756-b4e9016c206b/transcript?format=WebVTT&t=1793134411",
+   "minutes": 107.4,
+   "words": 21510,
+   "wpm": 200.3,
+   "questions_per_100_sentences": 8.4,
+   "variety": 0.4169
+  },
+  {
+   "id": "52428592da41",
+   "title": "\"Friends With Ariel\" (w/ Ariana Madix)",
+   "date": "2026-10-21",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/friends-with-ariel-w-ariana-madix",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/86652a5f-6a43-4439-a1c6-b4e801148d63/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/86652a5f-6a43-4439-a1c6-b4e801148d63/transcript?format=WebVTT&t=1792541644",
+   "minutes": 86.1,
+   "words": 16136,
+   "wpm": 187.4,
+   "questions_per_100_sentences": 8.5,
+   "variety": 0.4199
+  },
+  {
+   "id": "1dbbd24b9303",
+   "title": "\"Hag and Protectress\" (w/ Edy Modica)",
+   "date": "2026-10-14",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/hag-and-protectress-w-edy-modica",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/334f150e-5b54-408a-8682-b4e101088fe8/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/334f150e-5b54-408a-8682-b4e101088fe8/transcript?format=WebVTT&t=1791915825",
+   "minutes": 76.7,
+   "words": 14048,
+   "wpm": 183.0,
+   "questions_per_100_sentences": 9.7,
+   "variety": 0.4177
+  },
+  {
+   "id": "6246a45998db",
+   "title": "\"GOONING\" (w/ Zara Larsson)",
+   "date": "2026-10-07",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/gooning-w-zara-larsson",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/899b9b84-966e-49fb-b8d5-b4da0116cde5/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/899b9b84-966e-49fb-b8d5-b4da0116cde5/transcript?format=WebVTT&t=1791331073",
+   "minutes": 84.4,
+   "words": 15409,
+   "wpm": 182.6,
+   "questions_per_100_sentences": 10.1,
+   "variety": 0.402
+  },
+  {
+   "id": "41264dc94c89",
+   "title": "\"Coach Kelly\" (w/ Kelly Clarkson)",
+   "date": "2026-09-30",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/coach-kelly-w-kelly-clarkson",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/1c34de2d-4011-41f6-9b55-b4d3010c9784/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1c34de2d-4011-41f6-9b55-b4d3010c9784/transcript?format=WebVTT&t=1790738483",
+   "minutes": 94.5,
+   "words": 20014,
+   "wpm": 211.8,
+   "questions_per_100_sentences": 10.5,
+   "variety": 0.3952
+  }
+ ]
+}

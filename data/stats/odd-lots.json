@@ -1,0 +1,442 @@
+{
+ "slug": "odd-lots",
+ "name": "Odd Lots",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
+ "website": "https://bloomberg.com/podcasts/odd_lots",
+ "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-11-09",
+ "latest_episode": "2026-11-21",
+ "words_analyzed": 95944,
+ "pace_wpm": 189.8,
+ "minutes_median": 51.0,
+ "questions_per_100_sentences": 10.5,
+ "variety": 0.4694,
+ "signature_phrases": [
+  {
+   "phrase": "et cetera",
+   "count": 38,
+   "episodes": 9,
+   "z": 11.3,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 1899,
+     "quote": "all the molecules of the future, et cetera. And I'm"
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 981,
+     "quote": "of it, et cetera. Can you talk a little bit"
+    }
+   ]
+  },
+  {
+   "phrase": "follow me",
+   "count": 20,
+   "episodes": 10,
+   "z": 8.2,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 2653,
+     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 2815,
+     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
+    }
+   ]
+  },
+  {
+   "phrase": "data center",
+   "count": 36,
+   "episodes": 6,
+   "z": 7.75,
+   "moments": [
+    {
+     "episode": "da2776b0b49a",
+     "at": 992,
+     "quote": "or you have to find a data center, or find"
+    },
+    {
+     "episode": "9c381d255359",
+     "at": 119,
+     "quote": "if anything, if data center construction is going to slow down,"
+    }
+   ]
+  },
+  {
+   "phrase": "talk a little",
+   "count": 17,
+   "episodes": 8,
+   "z": 7.55,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 1665,
+     "quote": "Can you talk a little bit more about, I guess,"
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 523,
+     "quote": "tune open weights on that. Can you talk a little"
+    }
+   ]
+  },
+  {
+   "phrase": "long term",
+   "count": 17,
+   "episodes": 7,
+   "z": 7.1,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 1403,
+     "quote": "then on, you see this long-term effort and building lithography"
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 2328,
+     "quote": "and you could theoretically have temporary overbill, long-term massive shortage."
+    }
+   ]
+  },
+  {
+   "phrase": "bit more",
+   "count": 21,
+   "episodes": 9,
+   "z": 6.98,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 1665,
+     "quote": "Can you talk a little bit more about, I guess,"
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 2010,
+     "quote": "Let's talk a little bit more about the economics from"
+    }
+   ]
+  },
+  {
+   "phrase": "trump administration",
+   "count": 14,
+   "episodes": 4,
+   "z": 6.63,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 1374,
+     "quote": "during the first Trump administration, you got the effective ban"
+    },
+    {
+     "episode": "9c381d255359",
+     "at": 3364,
+     "quote": "maybe clarify where you see the Trump administration in terms"
+    }
+   ]
+  },
+  {
+   "phrase": "so forth",
+   "count": 13,
+   "episodes": 6,
+   "z": 6.61,
+   "moments": [
+    {
+     "episode": "9c381d255359",
+     "at": 1421,
+     "quote": "be financing NeoClouds and so forth going into future financing"
+    },
+    {
+     "episode": "3954396b826a",
+     "at": 905,
+     "quote": "room and the guitar and so on and so forth, right?"
+    }
+   ]
+  },
+  {
+   "phrase": "can follow",
+   "count": 20,
+   "episodes": 10,
+   "z": 6.6,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 2653,
+     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 2815,
+     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
+    }
+   ]
+  },
+  {
+   "phrase": "much for coming",
+   "count": 15,
+   "episodes": 10,
+   "z": 6.52,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 313,
+     "quote": "much for coming on the podcast."
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 202,
+     "quote": "thank you so much for coming on All Thoughts."
+    }
+   ]
+  },
+  {
+   "phrase": "our producers",
+   "count": 12,
+   "episodes": 10,
+   "z": 6.21,
+   "moments": [
+    {
+     "episode": "a427fd61fd8a",
+     "at": 2663,
+     "quote": "Follow our producers, Carmen Rodriguez at CarmenArmond, Dashiell Bennett at Dashbot,"
+    },
+    {
+     "episode": "da2776b0b49a",
+     "at": 387,
+     "quote": "By the way, I hope our producers aren't listening to this."
+    }
+   ]
+  },
+  {
+   "phrase": "questions about",
+   "count": 12,
+   "episodes": 8,
+   "z": 6.15,
+   "moments": [
+    {
+     "episode": "da2776b0b49a",
+     "at": 24,
+     "quote": "Joe, there are still a lot of questions about the"
+    },
+    {
+     "episode": "9c381d255359",
+     "at": 104,
+     "quote": "and all this stuff and questions about ROI, etc., GPU"
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Business and money",
+   "per_10k": 99.4,
+   "vs_average": 3.8
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 59.4,
+   "vs_average": 5.18
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 27.8,
+   "vs_average": 1.98
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 22.5,
+   "vs_average": 0.56
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 10.1,
+   "vs_average": 0.88
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 6.4,
+   "vs_average": 0.28
+  },
+  {
+   "topic": "Family and relationships",
+   "per_10k": 5.1,
+   "vs_average": 0.16
+  },
+  {
+   "topic": "History",
+   "per_10k": 5.0,
+   "vs_average": 0.79
+  },
+  {
+   "topic": "Science",
+   "per_10k": 4.6,
+   "vs_average": 1.56
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 2.1,
+   "vs_average": 0.91
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 2.0,
+   "vs_average": 0.24
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 1.6,
+   "vs_average": 0.16
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 1.5,
+   "vs_average": 0.15
+  },
+  {
+   "topic": "Music",
+   "per_10k": 0.8,
+   "vs_average": 0.09
+  }
+ ],
+ "episodes": [
+  {
+   "id": "a427fd61fd8a",
+   "title": "How AI Is Forcing China to Reshape Industrial Policy",
+   "date": "2026-11-21",
+   "link": "https://omny.fm/shows/odd-lots/how-ai-is-forcing-china-to-reshape-industrial-policy",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/bb74684d-fcbe-4c36-9779-b5070115b930/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/bb74684d-fcbe-4c36-9779-b5070115b930/transcript?format=WebVTT&t=1795107304",
+   "minutes": 45.4,
+   "words": 7881,
+   "wpm": 173.7,
+   "questions_per_100_sentences": 10.2,
+   "variety": 0.4624
+  },
+  {
+   "id": "da2776b0b49a",
+   "title": "How an American AI Company Uses Chinese Open-Weight Models",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/odd-lots/how-an-american-ai-company-uses-chinese-open-weight-models",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4364f8cd-e957-44ef-9795-b5070115b19e/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4364f8cd-e957-44ef-9795-b5070115b19e/transcript?format=WebVTT&t=1795107325",
+   "minutes": 48.0,
+   "words": 9335,
+   "wpm": 194.6,
+   "questions_per_100_sentences": 13.3,
+   "variety": 0.4511
+  },
+  {
+   "id": "9c381d255359",
+   "title": "This Is The Problem With AI's Most Bullish Chart",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/odd-lots/this-is-the-problem-with-ais-most-bullish-chart",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/53c36daa-840c-48b3-b071-b5070021e016/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/53c36daa-840c-48b3-b071-b5070021e016/transcript?format=WebVTT&t=1795054273",
+   "minutes": 69.3,
+   "words": 13789,
+   "wpm": 198.9,
+   "questions_per_100_sentences": 10.2,
+   "variety": 0.4712
+  },
+  {
+   "id": "3954396b826a",
+   "title": "How GTA VI Became the Most Expensive Video Game Ever Made",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/odd-lots/how-gta-vi-became-the-most-expensive-video-game-ever-made",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/8dad6dc9-ed8d-497d-8cde-b50501578aa2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/8dad6dc9-ed8d-497d-8cde-b50501578aa2/transcript?format=WebVTT&t=1794948959",
+   "minutes": 50.3,
+   "words": 9369,
+   "wpm": 186.3,
+   "questions_per_100_sentences": 10.8,
+   "variety": 0.4501
+  },
+  {
+   "id": "1d0fdc711bd1",
+   "title": "The Impossible Trilemma That Hangs Over the Nvidia Crisis",
+   "date": "2026-11-16",
+   "link": "https://omny.fm/shows/odd-lots/the-impossible-trilemma-that-hangs-over-the-nvidia-crisis",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/4bf9cb81-2185-4513-8d9c-b5010173862f/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4bf9cb81-2185-4513-8d9c-b5010173862f/transcript?format=WebVTT&t=1794609623",
+   "minutes": 45.9,
+   "words": 8866,
+   "wpm": 193.2,
+   "questions_per_100_sentences": 17.6,
+   "variety": 0.4715
+  },
+  {
+   "id": "879239a1a3b5",
+   "title": "How Wall Street Is Bracing For the Post-Jensen Huang Nvidia Era",
+   "date": "2026-11-14",
+   "link": "https://omny.fm/shows/odd-lots/how-wall-street-is-bracing-for-the-post-jensen-huang-nvidia-era",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9d24ac51-fef1-4f4e-8cda-b501016c2b98/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9d24ac51-fef1-4f4e-8cda-b501016c2b98/transcript?format=WebVTT&t=1794607726",
+   "minutes": 35.2,
+   "words": 6946,
+   "wpm": 197.6,
+   "questions_per_100_sentences": 11.2,
+   "variety": 0.4514
+  },
+  {
+   "id": "7e5190ce3664",
+   "title": "Why a $2 Billion Law Firm Suddenly Collapsed",
+   "date": "2026-11-13",
+   "link": "https://omny.fm/shows/odd-lots/why-a-2-billion-law-firm-suddenly-collapsed",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/6c3646fe-afa0-45cf-8682-b500015998ac/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6c3646fe-afa0-45cf-8682-b500015998ac/transcript?format=WebVTT&t=1794517368",
+   "minutes": 57.6,
+   "words": 10386,
+   "wpm": 180.3,
+   "questions_per_100_sentences": 9.4,
+   "variety": 0.4688
+  },
+  {
+   "id": "d90c51a4d62b",
+   "title": "What Nvidia's Megaspeed Scandal Is Really All About",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/odd-lots/what-nvidias-megaspeed-scandal-is-really-all-about",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/9390c1d9-8076-46f9-89ef-b500001b8ce0/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9390c1d9-8076-46f9-89ef-b500001b8ce0/transcript?format=WebVTT&t=1794447835",
+   "minutes": 53.9,
+   "words": 9656,
+   "wpm": 179.2,
+   "questions_per_100_sentences": 11.2,
+   "variety": 0.47
+  },
+  {
+   "id": "b510f7f5ee38",
+   "title": "The Perfect Storm That Clobbered Hedge Funds",
+   "date": "2026-11-11",
+   "link": "https://omny.fm/shows/odd-lots/the-perfect-storm-that-clobbered-hedge-funds",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d50c15fb-6c5a-4836-89a2-b4fe0174107c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d50c15fb-6c5a-4836-89a2-b4fe0174107c/transcript?format=WebVTT&t=1794350284",
+   "minutes": 51.7,
+   "words": 9409,
+   "wpm": 182.1,
+   "questions_per_100_sentences": 9.9,
+   "variety": 0.4779
+  },
+  {
+   "id": "071072f1efd5",
+   "title": "This Is How New York City Takes Out Its Trash",
+   "date": "2026-11-09",
+   "link": "https://omny.fm/shows/odd-lots/this-is-how-new-york-city-takes-out-its-trash",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/15e58d4b-0964-4cc7-a53b-b4fa01669ff2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/15e58d4b-0964-4cc7-a53b-b4fa01669ff2/transcript?format=WebVTT&t=1794001769",
+   "minutes": 52.5,
+   "words": 10307,
+   "wpm": 196.2,
+   "questions_per_100_sentences": 8.2,
+   "variety": 0.4786
+  }
+ ]
+}

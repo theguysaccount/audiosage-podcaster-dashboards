@@ -1,0 +1,442 @@
+{
+ "slug": "the-breakfast-club",
+ "name": "The Breakfast Club",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/0660e13d-8aa3-45f5-90ef-ae33005f6621/podcast.rss",
+ "website": "https://www.iheart.com/podcast/the-breakfast-club-24992238/",
+ "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/image.jpg?t=1749760462&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-11-09",
+ "latest_episode": "2026-11-20",
+ "words_analyzed": 216893,
+ "pace_wpm": 212.2,
+ "minutes_median": 102.5,
+ "questions_per_100_sentences": 11.3,
+ "variety": 0.4318,
+ "signature_phrases": [
+  {
+   "phrase": "good morning",
+   "count": 293,
+   "episodes": 10,
+   "z": 20.19,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 26,
+     "quote": "our beautiful listeners. Good morning, Jess Hilarious."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 7,
+     "quote": "Good morning, USA!"
+    }
+   ]
+  },
+  {
+   "phrase": "i'm saying",
+   "count": 223,
+   "episodes": 10,
+   "z": 19.79,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 48,
+     "quote": "Vice City baseball bat, you know what I'm saying?"
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 826,
+     "quote": "We actually got divorced. You know what I'm saying? No,"
+    }
+   ]
+  },
+  {
+   "phrase": "south carolina",
+   "count": 126,
+   "episodes": 10,
+   "z": 14.57,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 991,
+     "quote": "I'm from South Carolina."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 5720,
+     "quote": "South Carolina. Well, turkey giveaway, rather."
+    }
+   ]
+  },
+  {
+   "phrase": "your chest",
+   "count": 71,
+   "episodes": 10,
+   "z": 11.05,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 642,
+     "quote": "Everybody else, get it off your chest. It's a Friday, dammit. 800-585-1051."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 608,
+     "quote": "it off your chest. 800-585-1051. If you need to vent,"
+    }
+   ]
+  },
+  {
+   "phrase": "let's take",
+   "count": 59,
+   "episodes": 9,
+   "z": 10.4,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 3794,
+     "quote": "comments about Baltimore. Let's take a listen."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 1360,
+     "quote": "Ivy on their station in GTA 6. Let's take a listen."
+    }
+   ]
+  },
+  {
+   "phrase": "joining us",
+   "count": 61,
+   "episodes": 10,
+   "z": 10.32,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 154,
+     "quote": "and Kai Fair will be joining us. You know, they're"
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 172,
+     "quote": "Well, let's get the show cracking. Of course, today joining us,"
+    }
+   ]
+  },
+  {
+   "phrase": "we come",
+   "count": 60,
+   "episodes": 10,
+   "z": 10.25,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 1247,
+     "quote": "Now, we'll break it all down when we come back,"
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 606,
+     "quote": "Well, thank you, Mimi. Now, when we come back, get"
+    }
+   ]
+  },
+  {
+   "phrase": "i ain't",
+   "count": 75,
+   "episodes": 10,
+   "z": 10.02,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 612,
+     "quote": "I ain't never heard of Solomon."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 780,
+     "quote": "But I ain't going to say it's never too late."
+    }
+   ]
+  },
+  {
+   "phrase": "shout out",
+   "count": 55,
+   "episodes": 10,
+   "z": 10.01,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 546,
+     "quote": "Shout out to him."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 3670,
+     "quote": "going to try to get there tonight. And shout out"
+    }
+   ]
+  },
+  {
+   "phrase": "breakfast club",
+   "count": 250,
+   "episodes": 10,
+   "z": 9.78,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 215,
+     "quote": "Wake your ass up. It's a Friday. It's the Breakfast Club."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 207,
+     "quote": "let's get to the record at the Breakfast Club. Good morning. Morning, everybody."
+    }
+   ]
+  },
+  {
+   "phrase": "come back",
+   "count": 82,
+   "episodes": 10,
+   "z": 9.61,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 1247,
+     "quote": "Now, we'll break it all down when we come back,"
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 606,
+     "quote": "Well, thank you, Mimi. Now, when we come back, get"
+    }
+   ]
+  },
+  {
+   "phrase": "talking about",
+   "count": 196,
+   "episodes": 10,
+   "z": 9.26,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 155,
+     "quote": "talking about love and hip-hop, the final chapter, and the"
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 188,
+     "quote": "Let's get the show cracking. Since we've been talking about GTA,"
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Family and relationships",
+   "per_10k": 41.4,
+   "vs_average": 1.32
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 23.1,
+   "vs_average": 1.64
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 21.9,
+   "vs_average": 0.98
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 20.7,
+   "vs_average": 0.79
+  },
+  {
+   "topic": "Music",
+   "per_10k": 18.6,
+   "vs_average": 1.91
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 18.5,
+   "vs_average": 1.95
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 15.9,
+   "vs_average": 1.39
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 11.7,
+   "vs_average": 0.29
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 8.1,
+   "vs_average": 0.85
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 7.7,
+   "vs_average": 0.93
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 7.6,
+   "vs_average": 0.66
+  },
+  {
+   "topic": "History",
+   "per_10k": 5.4,
+   "vs_average": 0.86
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 1.7,
+   "vs_average": 0.74
+  },
+  {
+   "topic": "Science",
+   "per_10k": 1.5,
+   "vs_average": 0.52
+  }
+ ],
+ "episodes": [
+  {
+   "id": "41b863b2b6e9",
+   "title": "FULL SHOW: Marlon Humphrey Deactivated After ‘Criminals’ Comments About Baltimore City + Karlie Redd, Yandy Smith, Kie Fair & Erika Alexander & Precious Way Interview",
+   "date": "2026-11-20",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-marlon-humphrey-deactivated-after-criminals-comments-about-baltimore-city-karlie-redd-yandy-smith-kie-fair-erika-alexander-precious-way-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/9d8c5d9b-000b-43ae-98c0-b508010790da/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9d8c5d9b-000b-43ae-98c0-b508010790da/transcript?format=WebVTT&t=1795190937",
+   "minutes": 98.3,
+   "words": 20798,
+   "wpm": 211.6,
+   "questions_per_100_sentences": 11.2,
+   "variety": 0.4344
+  },
+  {
+   "id": "fc82fa599106",
+   "title": "FULL SHOW: JGTA VI Released Across The Globe After 13 Year Wait + Drew Findling Interview",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-jgta-vi-released-across-the-globe-after-13-year-wait-drew-findling-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/b0895c61-b499-4755-a03f-b50701017489/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/b0895c61-b499-4755-a03f-b50701017489/transcript?format=WebVTT&t=1795103492",
+   "minutes": 96.4,
+   "words": 19823,
+   "wpm": 205.6,
+   "questions_per_100_sentences": 11.6,
+   "variety": 0.4416
+  },
+  {
+   "id": "7d9d53847c27",
+   "title": "FULL SHOW: Jay-Z Reportedly Has A Star-Studded Super Bowl Halftime Show In The Works + Carl & Laura Lentz & Karl Kani Interview",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-jay-z-reportedly-has-a-star-studded-super-bowl-halftime-show-in-the-works-carl-laura-lentz-karl-kani-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/aac0e21c-a093-4010-a51e-b50601120f32/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/aac0e21c-a093-4010-a51e-b50601120f32/transcript?format=WebVTT&t=1795020388",
+   "minutes": 102.2,
+   "words": 23378,
+   "wpm": 228.7,
+   "questions_per_100_sentences": 11.5,
+   "variety": 0.4302
+  },
+  {
+   "id": "f87162f0cc00",
+   "title": "FULL SHOW:  2027 Grammy Noms Snubs and Surprises: Jill Scott, Busta Rhymes, Queen Latifah, Wale, The Game + Offset & Johnny Gill Interview",
+   "date": "2026-11-17",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-2027-grammy-noms-snubs-and-surprises-jill-scott-busta-rhymes-queen-latifah-wale-the-game-offset-johnny-gill-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/0ac04db6-9692-4cbe-95c7-b50501155d91/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0ac04db6-9692-4cbe-95c7-b50501155d91/transcript?format=WebVTT&t=1794934702",
+   "minutes": 101.7,
+   "words": 21820,
+   "wpm": 214.5,
+   "questions_per_100_sentences": 10.0,
+   "variety": 0.43
+  },
+  {
+   "id": "7fa730e0a6c7",
+   "title": "FULL SHOW:  Jeezy Reschedules Shows, Cardi B Books Jet, Chris Brown Has Theories About FAA Ground Stop + Westside Gunn & Tiki Davis Interview",
+   "date": "2026-11-16",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-jeezy-reschedules-shows-cardi-b-books-jet-chris-brown-has-theories-about-faa-ground-stop-westside-gunn-tiki-davis-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/de7b7a2d-bf7b-4986-90ce-b50400fc2357/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/de7b7a2d-bf7b-4986-90ce-b50400fc2357/transcript?format=WebVTT&t=1794844007",
+   "minutes": 108.8,
+   "words": 23736,
+   "wpm": 218.1,
+   "questions_per_100_sentences": 12.7,
+   "variety": 0.4267
+  },
+  {
+   "id": "528475ad6acb",
+   "title": "FULL SHOW:  The Breakfast Club Broadcast Live From South Carolina State University With Special Guest Belly Gang Kushington, Lil Boss, Honor Roll Ft. Nyla Symone",
+   "date": "2026-11-13",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-the-breakfast-club-broadcast-live-from-south-carolina-state-university-with-special-guest-belly-gang-kushington-lil-boss-honor-roll-ft-nyla-symone",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/65b9ccd5-ee44-41f9-bb1b-b50101082133/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/65b9ccd5-ee44-41f9-bb1b-b50101082133/transcript?format=WebVTT&t=1794586202",
+   "minutes": 94.8,
+   "words": 20217,
+   "wpm": 213.4,
+   "questions_per_100_sentences": 13.2,
+   "variety": 0.4233
+  },
+  {
+   "id": "75477105a11d",
+   "title": "FULL SHOW:  Angie Martinez  Unreleased Tupac Shakur Interview Set For Release After 30 Years + Donnell Rawlings Interview",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-angie-martinez-unreleased-tupac-shakur-interview-set-for-release-after-30-years-donnell-rawlings-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/e6520f43-20f5-4297-83c7-b50000fba4c6/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e6520f43-20f5-4297-83c7-b50000fba4c6/transcript?format=WebVTT&t=1794497366",
+   "minutes": 105.0,
+   "words": 21750,
+   "wpm": 207.1,
+   "questions_per_100_sentences": 12.5,
+   "variety": 0.4267
+  },
+  {
+   "id": "039066e26ed3",
+   "title": "FULL SHOW:  Brandy & Monica Announce ‘The Boy Is Mine’ Las Vegas Residency + Tye Tribbett & Chef Kardea Brown Interview",
+   "date": "2026-11-11",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-brandy-monica-announce-the-boy-is-mine-las-vegas-residency-tye-tribbett-chef-kardea-brown-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/86e76a84-aeb6-44a0-87bf-b4ff010f7a4c/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/86e76a84-aeb6-44a0-87bf-b4ff010f7a4c/transcript?format=WebVTT&t=1794415019",
+   "minutes": 102.8,
+   "words": 21887,
+   "wpm": 212.9,
+   "questions_per_100_sentences": 11.2,
+   "variety": 0.4362
+  },
+  {
+   "id": "321012b95ec4",
+   "title": "FULL SHOW:  Tank Dishes On Conflict Between Usher & Chris Brown On Tour + Ressa Tessa & Queen Afua & SupaNova Slom Interview",
+   "date": "2026-11-10",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-tank-dishes-on-conflict-between-usher-chris-brown-on-tour-ressa-tessa-queen-afua-supanova-slom-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/9b064772-1705-42ce-9420-b4fe0122c5da/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9b064772-1705-42ce-9420-b4fe0122c5da/transcript?format=WebVTT&t=1794332895",
+   "minutes": 103.5,
+   "words": 21532,
+   "wpm": 208.0,
+   "questions_per_100_sentences": 10.1,
+   "variety": 0.4334
+  },
+  {
+   "id": "93d30425ba05",
+   "title": "FULL SHOW:  Druski Becomes First Content Creator To Host SNL + BigXThaPlug & Senator Raphael Warnock Interview",
+   "date": "2026-11-09",
+   "link": "https://omny.fm/shows/the-breakfast-club/full-show-druski-becomes-first-content-creator-to-host-snl-bigxthaplug-senator-raphael-warnock-interview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/864ffb96-76a4-4ed0-8af8-b4fd0120a275/audio.mp3?utm_source=Podcast&in_playlist=0660e13d-8aa3-45f5-90ef-ae33005f6621",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/864ffb96-76a4-4ed0-8af8-b4fd0120a275/transcript?format=WebVTT&t=1794246152",
+   "minutes": 103.7,
+   "words": 21952,
+   "wpm": 211.6,
+   "questions_per_100_sentences": 11.1,
+   "variety": 0.4402
+  }
+ ]
+}

@@ -1,0 +1,442 @@
+{
+ "slug": "stuff-you-should-know",
+ "name": "Stuff You Should Know",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
+ "website": "https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/",
+ "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-10-29",
+ "latest_episode": "2026-11-19",
+ "words_analyzed": 61157,
+ "pace_wpm": 171.6,
+ "minutes_median": 43.9,
+ "questions_per_100_sentences": 6.8,
+ "variety": 0.4557,
+ "signature_phrases": [
+  {
+   "phrase": "yeah for sure",
+   "count": 28,
+   "episodes": 10,
+   "z": 11.13,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 313,
+     "quote": "Yeah, for sure. Obviously the quality isn't going to be"
+    },
+    {
+     "episode": "7a85c3087f46",
+     "at": 49,
+     "quote": "Yeah, for sure."
+    }
+   ]
+  },
+  {
+   "phrase": "i guess",
+   "count": 65,
+   "episodes": 9,
+   "z": 9.23,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 362,
+     "quote": "it came about through a, I guess I'm, In the"
+    },
+    {
+     "episode": "8c96fe1e9677",
+     "at": 1390,
+     "quote": "his wife and his parents to, I guess, talk to"
+    }
+   ]
+  },
+  {
+   "phrase": "like hey",
+   "count": 31,
+   "episodes": 6,
+   "z": 8.09,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 131,
+     "quote": "also it feels like the script was, he was like, hey,"
+    },
+    {
+     "episode": "8c96fe1e9677",
+     "at": 625,
+     "quote": "when they saw that on the record, they were like, hey,"
+    }
+   ]
+  },
+  {
+   "phrase": "take a break",
+   "count": 14,
+   "episodes": 8,
+   "z": 6.92,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 705,
+     "quote": "All right, let's take a break, and we'll be right back."
+    },
+    {
+     "episode": "7a85c3087f46",
+     "at": 320,
+     "quote": "Yeah. I say, Chuck, we take a break. We come"
+    }
+   ]
+  },
+  {
+   "phrase": "we take",
+   "count": 11,
+   "episodes": 7,
+   "z": 6.6,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 701,
+     "quote": "So should we take an early break?"
+    },
+    {
+     "episode": "7a85c3087f46",
+     "at": 320,
+     "quote": "Yeah. I say, Chuck, we take a break. We come"
+    }
+   ]
+  },
+  {
+   "phrase": "mentioned earlier",
+   "count": 8,
+   "episodes": 7,
+   "z": 5.91,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 894,
+     "quote": "with that one. And I mentioned earlier, you know, it's"
+    },
+    {
+     "episode": "7a85c3087f46",
+     "at": 468,
+     "quote": "That's right. So I mentioned earlier that these water droplets"
+    }
+   ]
+  },
+  {
+   "phrase": "i mentioned",
+   "count": 11,
+   "episodes": 7,
+   "z": 5.79,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 894,
+     "quote": "with that one. And I mentioned earlier, you know, it's"
+    },
+    {
+     "episode": "7a85c3087f46",
+     "at": 468,
+     "quote": "That's right. So I mentioned earlier that these water droplets"
+    }
+   ]
+  },
+  {
+   "phrase": "you may not",
+   "count": 6,
+   "episodes": 4,
+   "z": 5.07,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 793,
+     "quote": "You may not have access to stuff like that. But"
+    },
+    {
+     "episode": "4a5648bdfe62",
+     "at": 1193,
+     "quote": "There is a thing about manatees that you may not know."
+    }
+   ]
+  },
+  {
+   "phrase": "it turns out",
+   "count": 10,
+   "episodes": 7,
+   "z": 4.94,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 1291,
+     "quote": "as it turns out, with sign language interpretation."
+    },
+    {
+     "episode": "8c96fe1e9677",
+     "at": 841,
+     "quote": "but it turns out I've seen it on every cop"
+    }
+   ]
+  },
+  {
+   "phrase": "should take",
+   "count": 6,
+   "episodes": 4,
+   "z": 4.89,
+   "moments": [
+    {
+     "episode": "8c96fe1e9677",
+     "at": 721,
+     "quote": "We should take a break, Chuck. I think so. All right."
+    },
+    {
+     "episode": "4a5648bdfe62",
+     "at": 2158,
+     "quote": "Well, I mean, you should take this part, even though"
+    }
+   ]
+  },
+  {
+   "phrase": "we mentioned",
+   "count": 8,
+   "episodes": 4,
+   "z": 4.8,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 1586,
+     "quote": "All right, we mentioned the ADA, which was sort of"
+    },
+    {
+     "episode": "8c96fe1e9677",
+     "at": 156,
+     "quote": "think we mentioned that they were married to some pretty"
+    }
+   ]
+  },
+  {
+   "phrase": "your favorite",
+   "count": 11,
+   "episodes": 10,
+   "z": 4.79,
+   "moments": [
+    {
+     "episode": "d02325b3b225",
+     "at": 2760,
+     "quote": "or wherever you listen to your favorite shows."
+    },
+    {
+     "episode": "7a85c3087f46",
+     "at": 624,
+     "quote": "or wherever you listen to your favorite shows."
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 25.5,
+   "vs_average": 1.14
+  },
+  {
+   "topic": "Family and relationships",
+   "per_10k": 23.9,
+   "vs_average": 0.76
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 19.3,
+   "vs_average": 1.37
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 19.3,
+   "vs_average": 1.69
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 13.6,
+   "vs_average": 0.52
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 11.1,
+   "vs_average": 1.17
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 5.9,
+   "vs_average": 0.51
+  },
+  {
+   "topic": "History",
+   "per_10k": 4.4,
+   "vs_average": 0.7
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 4.3,
+   "vs_average": 0.51
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 3.8,
+   "vs_average": 1.64
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 3.4,
+   "vs_average": 0.36
+  },
+  {
+   "topic": "Science",
+   "per_10k": 2.8,
+   "vs_average": 0.94
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 2.8,
+   "vs_average": 0.07
+  },
+  {
+   "topic": "Music",
+   "per_10k": 2.0,
+   "vs_average": 0.2
+  }
+ ],
+ "episodes": [
+  {
+   "id": "d02325b3b225",
+   "title": "Sign Language Interpreters: Coolest Job?",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/sign-language-interpreters-coolest-job",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/067cccee-e214-481b-a856-b500010be642/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/067cccee-e214-481b-a856-b500010be642/transcript?format=WebVTT&t=1794500452",
+   "minutes": 46.0,
+   "words": 7829,
+   "wpm": 170.1,
+   "questions_per_100_sentences": 6.6,
+   "variety": 0.4495
+  },
+  {
+   "id": "7a85c3087f46",
+   "title": "Short Stuff: How Much Does A Cloud Weigh",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-how-much-does-a-cloud-weigh",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/e606278c-ca73-402c-a8cb-b4f60147a1a4/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e606278c-ca73-402c-a8cb-b4f60147a1a4/transcript?format=WebVTT&t=1793649243",
+   "minutes": 10.4,
+   "words": 1726,
+   "wpm": 166.6,
+   "questions_per_100_sentences": 14.9,
+   "variety": 0.4196
+  },
+  {
+   "id": "8c96fe1e9677",
+   "title": "The Story of Chester Weger",
+   "date": "2026-11-17",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/the-story-of-chester-weger",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/4a0d0e01-7dd3-4969-a2d0-b50000fe6af5/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/4a0d0e01-7dd3-4969-a2d0-b50000fe6af5/transcript?format=WebVTT&t=1794497635",
+   "minutes": 49.2,
+   "words": 8801,
+   "wpm": 178.8,
+   "questions_per_100_sentences": 4.7,
+   "variety": 0.4578
+  },
+  {
+   "id": "4a5648bdfe62",
+   "title": "The World Needs More Manatees",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/the-world-needs-more-manatees",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/da2b4202-c37a-4266-a838-b4f801627ec7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/da2b4202-c37a-4266-a838-b4f801627ec7/transcript?format=WebVTT&t=1793828253",
+   "minutes": 44.2,
+   "words": 7650,
+   "wpm": 173.0,
+   "questions_per_100_sentences": 9.0,
+   "variety": 0.4614
+  },
+  {
+   "id": "5f60ca4f0ea2",
+   "title": "Short Stuff: Boston Molasses Flood",
+   "date": "2026-11-11",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-boston-molasses-flood",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/d8e56576-619e-4a4b-9c54-b4f6014657e3/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d8e56576-619e-4a4b-9c54-b4f6014657e3/transcript?format=WebVTT&t=1793649185",
+   "minutes": 11.3,
+   "words": 1993,
+   "wpm": 176.1,
+   "questions_per_100_sentences": 4.3,
+   "variety": 0.4349
+  },
+  {
+   "id": "ce48d00af560",
+   "title": "Zorro! That guy with the sword!",
+   "date": "2026-11-10",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/zorro-that-guy-with-the-sword",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/698e37d6-6070-476f-a28c-b4f801606d28/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/698e37d6-6070-476f-a28c-b4f801606d28/transcript?format=WebVTT&t=1793827860",
+   "minutes": 43.5,
+   "words": 7242,
+   "wpm": 166.5,
+   "questions_per_100_sentences": 6.5,
+   "variety": 0.4582
+  },
+  {
+   "id": "49a0db36d8a0",
+   "title": "The Wilmington Massacre",
+   "date": "2026-11-05",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/the-wilmington-massacre",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/99503c59-d34b-4493-949c-b4f8013dd5cc/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/99503c59-d34b-4493-949c-b4f8013dd5cc/transcript?format=WebVTT&t=1793820667",
+   "minutes": 42.7,
+   "words": 6872,
+   "wpm": 161.1,
+   "questions_per_100_sentences": 3.3,
+   "variety": 0.4622
+  },
+  {
+   "id": "eea9a4764643",
+   "title": "Short Stuff: Weather Balloons",
+   "date": "2026-11-04",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-weather-balloons",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c7779fc4-34d1-4743-a8b5-b4ef013fc89b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c7779fc4-34d1-4743-a8b5-b4ef013fc89b/transcript?format=WebVTT&t=1793043488",
+   "minutes": 13.5,
+   "words": 2397,
+   "wpm": 177.0,
+   "questions_per_100_sentences": 9.2,
+   "variety": 0.4536
+  },
+  {
+   "id": "edad9282ce1a",
+   "title": "Ba-Dum-Bum Goes Your Heart!",
+   "date": "2026-11-03",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/ba-dum-bum-goes-your-heart",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/30849b3a-b398-4257-8034-b4ef00f8421f/transcript?format=WebVTT&t=1793027264",
+   "minutes": 46.6,
+   "words": 8136,
+   "wpm": 174.6,
+   "questions_per_100_sentences": 6.9,
+   "variety": 0.4373
+  },
+  {
+   "id": "96fa7c9e2ab1",
+   "title": "The SYSK Annual Halloween Freaky Spooktacular 2026!",
+   "date": "2026-10-29",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/the-sysk-annual-halloween-freaky-spooktacular-2026",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9cd40df1-9b0d-42d6-b09f-b4f2001ec6e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9cd40df1-9b0d-42d6-b09f-b4f2001ec6e7/transcript?format=WebVTT&t=1793238974",
+   "minutes": 51.7,
+   "words": 8511,
+   "wpm": 164.6,
+   "questions_per_100_sentences": 10.4,
+   "variety": 0.5068
+  }
+ ]
+}

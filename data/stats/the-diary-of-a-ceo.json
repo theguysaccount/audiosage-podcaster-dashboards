@@ -1,0 +1,442 @@
+{
+ "slug": "the-diary-of-a-ceo",
+ "name": "The Diary of a CEO",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://rss2.flightcast.com/xmsftuzjjykcmqwolaqn6mdn",
+ "website": "https://steven.com/",
+ "image": "https://assets.flightcast.com/workspaces/edpmsc3wdznn1aa2txug5e3p/podcasts/xmsftuzjjykcmqwolaqn6mdn/cs9v0tiwz4lv6yfo3vt6q6dx.png",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-10-19",
+ "latest_episode": "2026-11-19",
+ "words_analyzed": 168182,
+ "pace_wpm": 166.9,
+ "minutes_median": 98.9,
+ "questions_per_100_sentences": 11.6,
+ "variety": 0.4536,
+ "signature_phrases": [
+  {
+   "phrase": "united states",
+   "count": 91,
+   "episodes": 8,
+   "z": 13.55,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 35,
+     "quote": "This was an election about whether or not the United States of America would remain a democracy or whether we…"
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 944,
+     "quote": "You get to talk to the President of the United States anytime you want."
+    }
+   ]
+  },
+  {
+   "phrase": "president trump",
+   "count": 44,
+   "episodes": 5,
+   "z": 9.96,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 5064,
+     "quote": "It's an interesting idea that Israel might be sort of controlling President Trump."
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 933,
+     "quote": "She might say, how was your conversation with President Trump?"
+    }
+   ]
+  },
+  {
+   "phrase": "soviet union",
+   "count": 43,
+   "episodes": 4,
+   "z": 9.59,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 2553,
+     "quote": "There was a guy named Gorbachev in the old Soviet Union, a guy named Ronald Reagan, President of the United…"
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 733,
+     "quote": "…for the Soviets and then the Russians after the Soviet Union fell, ignoring the fact that we had other people…"
+    }
+   ]
+  },
+  {
+   "phrase": "world war",
+   "count": 40,
+   "episodes": 5,
+   "z": 8.97,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 2447,
+     "quote": "You know, there was a time, World War II."
+    },
+    {
+     "episode": "145d5dd50150",
+     "at": 4540,
+     "quote": "Sugar rationing from World War II was still in place in 1953."
+    }
+   ]
+  },
+  {
+   "phrase": "years old",
+   "count": 63,
+   "episodes": 10,
+   "z": 8.55,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 552,
+     "quote": "And one of the things I was shocked by was it appeared that from about 15 years old,"
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 1121,
+     "quote": "And when I turned 18 years old, he literally brought me to my first department, which was criminal investigation, fighting…"
+    }
+   ]
+  },
+  {
+   "phrase": "most important",
+   "count": 26,
+   "episodes": 10,
+   "z": 7.11,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 30,
+     "quote": "And I heard you say that the midterms that have just passed might be the most important in history."
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 4737,
+     "quote": "…what's happening in your business and increasingly, and this is maybe the most important thing, is help you make decisions."
+    }
+   ]
+  },
+  {
+   "phrase": "your brain",
+   "count": 21,
+   "episodes": 7,
+   "z": 6.88,
+   "moments": [
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 70,
+     "quote": "But if you really want to seduce your target, you need to program your brain to like this person."
+    },
+    {
+     "episode": "145d5dd50150",
+     "at": 160,
+     "quote": "…some magic development in the world of neuroscience that will save you when your brain isn't working like it should."
+    }
+   ]
+  },
+  {
+   "phrase": "your life",
+   "count": 40,
+   "episodes": 9,
+   "z": 6.3,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 3950,
+     "quote": "So if there's something particular in your life that you're concerned about at the moment, or a challenge, or an…"
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 1871,
+     "quote": "And involving myself into your parts of your life."
+    }
+   ]
+  },
+  {
+   "phrase": "all of us",
+   "count": 19,
+   "episodes": 6,
+   "z": 6.0,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 691,
+     "quote": "It's supposed to make life better for all of us."
+    },
+    {
+     "episode": "145d5dd50150",
+     "at": 3189,
+     "quote": "…are now consuming a chemical, and it's in all of us, that can affect the bacteria that live within us."
+    }
+   ]
+  },
+  {
+   "phrase": "around the world",
+   "count": 17,
+   "episodes": 7,
+   "z": 5.78,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 4201,
+     "quote": "into right-wing parties around the world, terrible parties."
+    },
+    {
+     "episode": "2ac384533236",
+     "at": 3614,
+     "quote": "Lessons that I learned was what separates an American from wonderful people from around the world."
+    }
+   ]
+  },
+  {
+   "phrase": "i became",
+   "count": 15,
+   "episodes": 9,
+   "z": 5.76,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 2723,
+     "quote": "But let me tell you the reason why I became an investor."
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 2511,
+     "quote": "…meet me and start a relationship with me because I became that perfect woman who would laugh at all his…"
+    }
+   ]
+  },
+  {
+   "phrase": "donald trump",
+   "count": 19,
+   "episodes": 5,
+   "z": 5.75,
+   "moments": [
+    {
+     "episode": "71551ca49051",
+     "at": 3028,
+     "quote": "You know, Donald Trump thinks that people who don't like him are fake news, right?"
+    },
+    {
+     "episode": "e5b86cd7cb00",
+     "at": 804,
+     "quote": "And it's alleged that in April 2026, Donald Trump becomes aware that Jensen is compromised by the spy."
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Business and money",
+   "per_10k": 40.7,
+   "vs_average": 1.56
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 36.3,
+   "vs_average": 2.58
+  },
+  {
+   "topic": "Family and relationships",
+   "per_10k": 33.7,
+   "vs_average": 1.07
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 33.5,
+   "vs_average": 3.51
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 22.9,
+   "vs_average": 2.0
+  },
+  {
+   "topic": "History",
+   "per_10k": 20.4,
+   "vs_average": 3.21
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 11.2,
+   "vs_average": 0.5
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 11.1,
+   "vs_average": 0.27
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 10.2,
+   "vs_average": 0.89
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 9.6,
+   "vs_average": 1.01
+  },
+  {
+   "topic": "Science",
+   "per_10k": 5.6,
+   "vs_average": 1.9
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 5.6,
+   "vs_average": 0.67
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 3.9,
+   "vs_average": 1.69
+  },
+  {
+   "topic": "Music",
+   "per_10k": 0.7,
+   "vs_average": 0.07
+  }
+ ],
+ "episodes": [
+  {
+   "id": "71551ca49051",
+   "title": "Bernie Sanders: Why He Says Netanyahu Pushed Trump Into the Iran War",
+   "date": "2026-11-19",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M719PD9WR55Y9X87NSQTFMXH.mp3?fcv=dxfmthh2zbd1xmds6jgkuewd",
+   "transcript": "https://rss.flightcast.com/transcripts/01M719PD9WR55Y9X87NSQTFMXH.vtt",
+   "minutes": 89.4,
+   "words": 16622,
+   "wpm": 185.9,
+   "questions_per_100_sentences": 15.6,
+   "variety": 0.4666
+  },
+  {
+   "id": "e5b86cd7cb00",
+   "title": "$5 Billion In Chips: The NVIDIA Espionage Operation That Fooled Silicon Valley",
+   "date": "2026-11-16",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M765ZSNB27M9KYEYV98QHT3M.mp3?fcv=k0h02y4mqjvtryggmh7l7elb",
+   "transcript": "https://rss.flightcast.com/transcripts/01M765ZSNB27M9KYEYV98QHT3M.vtt",
+   "minutes": 124.1,
+   "words": 20396,
+   "wpm": 164.4,
+   "questions_per_100_sentences": 15.3,
+   "variety": 0.4477
+  },
+  {
+   "id": "145d5dd50150",
+   "title": "Top Neurologist: If You Drink Even Once A Week, Watch This Now!",
+   "date": "2026-11-12",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5WPEV7GSE7H752YSF2T3WA3.mp3?fcv=si219ocgci5urh9fk83src93",
+   "transcript": "https://rss.flightcast.com/transcripts/01M5WPEV7GSE7H752YSF2T3WA3.vtt",
+   "minutes": 115.6,
+   "words": 18956,
+   "wpm": 163.9,
+   "questions_per_100_sentences": 11.8,
+   "variety": 0.4663
+  },
+  {
+   "id": "2ac384533236",
+   "title": "How Did A Homeless 13-Year-Old Become Comedy's Most Fearless Voice?",
+   "date": "2026-11-09",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5NXYQ8N5Z6RJ5HCHS2231BM.mp3",
+   "transcript": "https://rss.flightcast.com/transcripts/01M5NXYQ8N5Z6RJ5HCHS2231BM.vtt",
+   "minutes": 109.7,
+   "words": 16323,
+   "wpm": 148.8,
+   "questions_per_100_sentences": 11.0,
+   "variety": 0.4349
+  },
+  {
+   "id": "b0efd0a94817",
+   "title": "Iran War Expert: If This Escalation Continues, 2027 Will Be Devastating! | Prof Robert Pape",
+   "date": "2026-11-05",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M653W8EP3Y02KJRDZYYCGE0N.mp3?fcv=bvhhgjq2gk4jsrf38ffraqo7",
+   "transcript": "https://rss.flightcast.com/transcripts/01M653W8EP3Y02KJRDZYYCGE0N.vtt",
+   "minutes": 89.2,
+   "words": 13656,
+   "wpm": 153.0,
+   "questions_per_100_sentences": 11.3,
+   "variety": 0.4503
+  },
+  {
+   "id": "2a88b152185f",
+   "title": "James Talarico: America's Corrupt System Is Designed To Keep You Poor! | Texas Senate Candidate",
+   "date": "2026-11-02",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5XRNCEJK9HGGCQQ268PCK6T.mp3?fcv=a8i5hxkv0q9c7s00zj9w43xk",
+   "transcript": "https://rss.flightcast.com/transcripts/01M5XRNCEJK9HGGCQQ268PCK6T.vtt",
+   "minutes": 96.3,
+   "words": 17308,
+   "wpm": 179.7,
+   "questions_per_100_sentences": 9.7,
+   "variety": 0.4662
+  },
+  {
+   "id": "4530aeb6e388",
+   "title": "90 Million People: Why Iran Is The Most Incompetent War In Human History",
+   "date": "2026-10-29",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M5NXR742DT1QNDCDPS193Q51.mp3",
+   "transcript": "https://rss.flightcast.com/transcripts/01M5NXR742DT1QNDCDPS193Q51.vtt",
+   "minutes": 101.6,
+   "words": 17350,
+   "wpm": 170.8,
+   "questions_per_100_sentences": 14.3,
+   "variety": 0.4863
+  },
+  {
+   "id": "f13c3de191e9",
+   "title": "Mark Cuban: The Next Market Crash Is Where The Real Money Is Made!",
+   "date": "2026-10-26",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53ASGWHBBHQJ0C8NDDD61AR.mp3",
+   "transcript": "https://rss.flightcast.com/transcripts/01M53ASGWHBBHQJ0C8NDDD61AR.vtt",
+   "minutes": 91.1,
+   "words": 18192,
+   "wpm": 199.8,
+   "questions_per_100_sentences": 13.2,
+   "variety": 0.446
+  },
+  {
+   "id": "3a5553b7bb90",
+   "title": "President Zelenskyy: Leading Ukraine Through War and the Cost of Peace",
+   "date": "2026-10-22",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M53CGQ1FY66A1WPVXBRD1ZKG.mp3",
+   "transcript": "https://rss.flightcast.com/transcripts/01M53CGQ1FY66A1WPVXBRD1ZKG.vtt",
+   "minutes": 109.9,
+   "words": 15317,
+   "wpm": 139.4,
+   "questions_per_100_sentences": 9.9,
+   "variety": 0.4429
+  },
+  {
+   "id": "04fb2e3d4ff1",
+   "title": "What Do 1,500 Dying Patients Reveal About Love, Regret & The Afterlife?",
+   "date": "2026-10-19",
+   "link": null,
+   "audio": "https://pdst.fm/e/pscrb.fm/rss/p/mgln.ai/e/1390/claritaspod.com/measure/p.podderapp.com/2544644999/mgln.ai/e/1651/episode.flightcast.com/01M52K4W4RGVJVCWCEV5Q2CWM6.mp3",
+   "transcript": "https://rss.flightcast.com/transcripts/01M52K4W4RGVJVCWCEV5Q2CWM6.vtt",
+   "minutes": 82.9,
+   "words": 14062,
+   "wpm": 169.5,
+   "questions_per_100_sentences": 11.2,
+   "variety": 0.4569
+  }
+ ]
+}

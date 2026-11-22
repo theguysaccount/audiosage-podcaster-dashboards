@@ -1,0 +1,442 @@
+{
+ "slug": "heavyweight",
+ "name": "Heavyweight",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/d08826cd-f888-4cd3-b700-b28e0126edbb/podcast.rss",
+ "website": "https://www.pushkin.fm/podcasts",
+ "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/image.jpg?t=1753291848&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2025-10-30",
+ "latest_episode": "2026-11-19",
+ "words_analyzed": 57556,
+ "pace_wpm": 142.3,
+ "minutes_median": 39.5,
+ "questions_per_100_sentences": 10.2,
+ "variety": 0.4739,
+ "signature_phrases": [
+  {
+   "phrase": "i remember",
+   "count": 60,
+   "episodes": 10,
+   "z": 10.98,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 408,
+     "quote": "like I was committing racial stolen valor. I remember once"
+    },
+    {
+     "episode": "05656f525473",
+     "at": 129,
+     "quote": "I remember it perfectly. I'm 13 years old. It's towards"
+    }
+   ]
+  },
+  {
+   "phrase": "tells me",
+   "count": 16,
+   "episodes": 8,
+   "z": 8.23,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 1447,
+     "quote": "and English. She tells me she's been having trouble sleeping"
+    },
+    {
+     "episode": "05656f525473",
+     "at": 1093,
+     "quote": "But Bidi tells me, the Fortitudo came back strong, winning"
+    }
+   ]
+  },
+  {
+   "phrase": "you remember",
+   "count": 23,
+   "episodes": 7,
+   "z": 8.11,
+   "moments": [
+    {
+     "episode": "05656f525473",
+     "at": 15,
+     "quote": "Pushkin. Yeah. Hey, do you remember that commercial about how"
+    },
+    {
+     "episode": "61d2def36c18",
+     "at": 1260,
+     "quote": "What do you remember from that trip?"
+    }
+   ]
+  },
+  {
+   "phrase": "his mom",
+   "count": 13,
+   "episodes": 5,
+   "z": 7.39,
+   "moments": [
+    {
+     "episode": "05656f525473",
+     "at": 1976,
+     "quote": "his dad being at work all the time, his mom"
+    },
+    {
+     "episode": "27f3b50f668f",
+     "at": 2227,
+     "quote": "at home after graduation when the phone rang. His mom answered."
+    }
+   ]
+  },
+  {
+   "phrase": "she tells",
+   "count": 10,
+   "episodes": 5,
+   "z": 6.22,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 1447,
+     "quote": "and English. She tells me she's been having trouble sleeping"
+    },
+    {
+     "episode": "c3c90d1c1aed",
+     "at": 1467,
+     "quote": "lives in Ireland. The first time we speak, she tells"
+    }
+   ]
+  },
+  {
+   "phrase": "living room",
+   "count": 9,
+   "episodes": 4,
+   "z": 6.21,
+   "moments": [
+    {
+     "episode": "05656f525473",
+     "at": 647,
+     "quote": "I have my jersey framed in my living room. I"
+    },
+    {
+     "episode": "7aa6655d0e80",
+     "at": 543,
+     "quote": "For proof, you need look no further than Deborah's living room."
+    }
+   ]
+  },
+  {
+   "phrase": "theme song",
+   "count": 8,
+   "episodes": 8,
+   "z": 5.69,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 2394,
+     "quote": "Dot Sessions. Our theme song is by The Weaker Thans,"
+    },
+    {
+     "episode": "05656f525473",
+     "at": 1601,
+     "quote": "set to roll the closing theme song to convey feelings"
+    }
+   ]
+  },
+  {
+   "phrase": "high school",
+   "count": 25,
+   "episodes": 5,
+   "z": 5.65,
+   "moments": [
+    {
+     "episode": "05656f525473",
+     "at": 1408,
+     "quote": "I only played two years in high school."
+    },
+    {
+     "episode": "27f3b50f668f",
+     "at": 139,
+     "quote": "into their hearts. When it came time for high school,"
+    }
+   ]
+  },
+  {
+   "phrase": "years since",
+   "count": 8,
+   "episodes": 4,
+   "z": 5.52,
+   "moments": [
+    {
+     "episode": "27f3b50f668f",
+     "at": 1342,
+     "quote": "year is 2020, two years since Tamara and I first spoke."
+    },
+    {
+     "episode": "c3c90d1c1aed",
+     "at": 904,
+     "quote": "It's been 40 years since the incident. 40 years since"
+    }
+   ]
+  },
+  {
+   "phrase": "email us",
+   "count": 7,
+   "episodes": 7,
+   "z": 5.4,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 2402,
+     "quote": "or email us at heavyweight at pushkin.fm. We also have"
+    },
+    {
+     "episode": "27f3b50f668f",
+     "at": 2775,
+     "quote": "Follow us on Instagram at heavyweightpodcast or email us at"
+    }
+   ]
+  },
+  {
+   "phrase": "just remember",
+   "count": 7,
+   "episodes": 4,
+   "z": 5.39,
+   "moments": [
+    {
+     "episode": "05656f525473",
+     "at": 1982,
+     "quote": "I just remember you going through a really, really hard time."
+    },
+    {
+     "episode": "61cd708fc418",
+     "at": 484,
+     "quote": "I just remember this very distinctly that my foster father"
+    }
+   ]
+  },
+  {
+   "phrase": "turns out",
+   "count": 13,
+   "episodes": 8,
+   "z": 5.36,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 1406,
+     "quote": "he also looks just like my uncle. It turns out"
+    },
+    {
+     "episode": "61d2def36c18",
+     "at": 1609,
+     "quote": "the church. But it turns out that wasn't the case."
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Family and relationships",
+   "per_10k": 80.4,
+   "vs_average": 2.56
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 21.0,
+   "vs_average": 0.52
+  },
+  {
+   "topic": "Music",
+   "per_10k": 13.7,
+   "vs_average": 1.41
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 12.0,
+   "vs_average": 1.26
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 12.0,
+   "vs_average": 1.26
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 7.8,
+   "vs_average": 0.94
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 6.1,
+   "vs_average": 0.27
+  },
+  {
+   "topic": "History",
+   "per_10k": 5.9,
+   "vs_average": 0.93
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 5.2,
+   "vs_average": 0.46
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 3.8,
+   "vs_average": 0.15
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 3.5,
+   "vs_average": 0.25
+  },
+  {
+   "topic": "Science",
+   "per_10k": 2.4,
+   "vs_average": 0.83
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 2.1,
+   "vs_average": 0.18
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 1.0,
+   "vs_average": 0.45
+  }
+ ],
+ "episodes": [
+  {
+   "id": "0da7a58be6d0",
+   "title": "#72 Sido",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/heavyweight/72-sido",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/af19367d-4683-49e4-b04b-b5070035b723/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/af19367d-4683-49e4-b04b-b5070035b723/transcript?format=WebVTT&t=1795058454",
+   "minutes": 40.0,
+   "words": 5896,
+   "wpm": 147.3,
+   "questions_per_100_sentences": 7.4,
+   "variety": 0.5251
+  },
+  {
+   "id": "05656f525473",
+   "title": "#71 La Fortitudo",
+   "date": "2026-11-05",
+   "link": "https://omny.fm/shows/heavyweight/71-la-fortitudo",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/329970e5-1cd3-4ba8-9f72-b4f900234493/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/329970e5-1cd3-4ba8-9f72-b4f900234493/transcript?format=WebVTT&t=1793844763",
+   "minutes": 39.9,
+   "words": 5365,
+   "wpm": 134.4,
+   "questions_per_100_sentences": 10.6,
+   "variety": 0.4933
+  },
+  {
+   "id": "61d2def36c18",
+   "title": "#70 Cayden",
+   "date": "2026-10-22",
+   "link": "https://omny.fm/shows/heavyweight/70-cayden",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/17cca191-02e9-4cb3-93ff-b4ea014d461e/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/17cca191-02e9-4cb3-93ff-b4ea014d461e/transcript?format=WebVTT&t=1792613879",
+   "minutes": 33.1,
+   "words": 4772,
+   "wpm": 144.1,
+   "questions_per_100_sentences": 12.7,
+   "variety": 0.468
+  },
+  {
+   "id": "27f3b50f668f",
+   "title": "#69 Tamara",
+   "date": "2026-10-01",
+   "link": "https://omny.fm/shows/heavyweight/69-tamara",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/9344c689-49c5-4ca5-b7e7-b4d50142dbf9/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9344c689-49c5-4ca5-b7e7-b4d50142dbf9/transcript?format=WebVTT&t=1790797557",
+   "minutes": 46.3,
+   "words": 6430,
+   "wpm": 138.9,
+   "questions_per_100_sentences": 10.3,
+   "variety": 0.464
+  },
+  {
+   "id": "c3c90d1c1aed",
+   "title": "#68 Songe",
+   "date": "2026-09-24",
+   "link": "https://omny.fm/shows/heavyweight/68-songe",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/3415b7d4-35a3-4bfd-be7e-b4ce00f78813/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3415b7d4-35a3-4bfd-be7e-b4ce00f78813/transcript?format=WebVTT&t=1790175959",
+   "minutes": 39.2,
+   "words": 5178,
+   "wpm": 132.0,
+   "questions_per_100_sentences": 10.0,
+   "variety": 0.4464
+  },
+  {
+   "id": "61cd708fc418",
+   "title": "#67 Jenna",
+   "date": "2026-09-17",
+   "link": "https://omny.fm/shows/heavyweight/67-jenna",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/f78a4e67-fa11-4d80-a785-b4c7016107f0/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f78a4e67-fa11-4d80-a785-b4c7016107f0/transcript?format=WebVTT&t=1789594108",
+   "minutes": 37.8,
+   "words": 5403,
+   "wpm": 143.0,
+   "questions_per_100_sentences": 9.7,
+   "variety": 0.4615
+  },
+  {
+   "id": "7aa6655d0e80",
+   "title": "#66 Deborah",
+   "date": "2025-12-18",
+   "link": "https://omny.fm/shows/heavyweight/deborah",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/3c0eb72f-0017-489f-a549-b3b7002020a9/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/3c0eb72f-0017-489f-a549-b3b7002020a9/transcript?format=WebVTT&t=1766023339",
+   "minutes": 42.1,
+   "words": 4715,
+   "wpm": 111.9,
+   "questions_per_100_sentences": 10.6,
+   "variety": 0.5393
+  },
+  {
+   "id": "84c60d28b7aa",
+   "title": "#65 Meredith",
+   "date": "2025-12-11",
+   "link": "https://omny.fm/shows/heavyweight/65-meredith",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/45832829-7cc9-4144-9341-b3af012295ff/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/45832829-7cc9-4144-9341-b3af012295ff/transcript?format=WebVTT&t=1765390151",
+   "minutes": 39.1,
+   "words": 5636,
+   "wpm": 144.3,
+   "questions_per_100_sentences": 17.8,
+   "variety": 0.4791
+  },
+  {
+   "id": "9988a421910b",
+   "title": "#64 Kevin",
+   "date": "2025-11-20",
+   "link": "https://omny.fm/shows/heavyweight/64-kevin",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/a847ce6e-135d-4cb8-ba1e-b39a00f2b287/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a847ce6e-135d-4cb8-ba1e-b39a00f2b287/transcript?format=WebVTT&t=1763564662",
+   "minutes": 60.6,
+   "words": 8591,
+   "wpm": 141.7,
+   "questions_per_100_sentences": 8.3,
+   "variety": 0.4688
+  },
+  {
+   "id": "99029e5174b7",
+   "title": "#63 Jasmin",
+   "date": "2025-10-30",
+   "link": "https://omny.fm/shows/heavyweight/63-jasmin",
+   "audio": "https://prefix.up.audio/s/pdrl.fm/a95070/podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/SxlTEPDY7xDg35RXkASs/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/36ab7646-911e-4b75-b793-b38400fde94d/audio.mp3?utm_source=Podcast&in_playlist=d08826cd-f888-4cd3-b700-b28e0126edbb",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/36ab7646-911e-4b75-b793-b38400fde94d/transcript?format=WebVTT&t=1761665903",
+   "minutes": 38.3,
+   "words": 5570,
+   "wpm": 145.6,
+   "questions_per_100_sentences": 10.1,
+   "variety": 0.4805
+  }
+ ]
+}

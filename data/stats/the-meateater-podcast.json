@@ -1,0 +1,442 @@
+{
+ "slug": "the-meateater-podcast",
+ "name": "The MeatEater Podcast",
+ "updated": "2026-11-22",
+ "built": "2026-11-22",
+ "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss",
+ "website": "https://themeateater.com/listen/meateater",
+ "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/image.jpg?t=1788302418&size=Large",
+ "episodes_analyzed": 10,
+ "first_episode": "2026-11-02",
+ "latest_episode": "2026-11-19",
+ "words_analyzed": 128785,
+ "pace_wpm": 157.3,
+ "minutes_median": 78.5,
+ "questions_per_100_sentences": 8.5,
+ "variety": 0.4628,
+ "signature_phrases": [
+  {
+   "phrase": "went back",
+   "count": 22,
+   "episodes": 6,
+   "z": 7.04,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 2777,
+     "quote": "I went back and talked to my buddy who was"
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 998,
+     "quote": "got away. But we went back a few days later,"
+    }
+   ]
+  },
+  {
+   "phrase": "my buddy",
+   "count": 12,
+   "episodes": 6,
+   "z": 5.77,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 2526,
+     "quote": "got out on it, couldn't find him. My buddy ended"
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 993,
+     "quote": "I killed a buck. My buddy had no shell in"
+    }
+   ]
+  },
+  {
+   "phrase": "come up",
+   "count": 25,
+   "episodes": 7,
+   "z": 5.44,
+   "moments": [
+    {
+     "episode": "144c764fa3d9",
+     "at": 711,
+     "quote": "of that movie. Nate, the only player to come up"
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 3051,
+     "quote": "You said you'd come up to hunt whitetails during the rut."
+    }
+   ]
+  },
+  {
+   "phrase": "i understand",
+   "count": 27,
+   "episodes": 6,
+   "z": 5.04,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 393,
+     "quote": "I understand what you're saying."
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 1705,
+     "quote": "I understand."
+    }
+   ]
+  },
+  {
+   "phrase": "big old",
+   "count": 9,
+   "episodes": 7,
+   "z": 5.02,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 4894,
+     "quote": "There's a big old sack of Menhaden. They catch a"
+    },
+    {
+     "episode": "144c764fa3d9",
+     "at": 2300,
+     "quote": "Big Old Testament family."
+    }
+   ]
+  },
+  {
+   "phrase": "he goes",
+   "count": 27,
+   "episodes": 7,
+   "z": 4.99,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 3263,
+     "quote": "meetings in Westminster, Colorado. He goes on to say this"
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 688,
+     "quote": "them to a taxidermy in Arlington. He goes, you're going"
+    }
+   ]
+  },
+  {
+   "phrase": "one time",
+   "count": 24,
+   "episodes": 8,
+   "z": 4.94,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 2108,
+     "quote": "those spots. Um, and one time it worked, we didn't,"
+    },
+    {
+     "episode": "144c764fa3d9",
+     "at": 447,
+     "quote": "I looked it up one time because I was confused."
+    }
+   ]
+  },
+  {
+   "phrase": "my wife",
+   "count": 27,
+   "episodes": 6,
+   "z": 4.9,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 2840,
+     "quote": "her ears are going to be fine. And my wife,"
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 792,
+     "quote": "me with that. I packed my wife and kid up"
+    }
+   ]
+  },
+  {
+   "phrase": "how many",
+   "count": 34,
+   "episodes": 9,
+   "z": 4.65,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 1008,
+     "quote": "Land and Water Conservation Fund. How many minutes am I"
+    },
+    {
+     "episode": "144c764fa3d9",
+     "at": 328,
+     "quote": "about how many colors are on the Fire Danger Today sign."
+    }
+   ]
+  },
+  {
+   "phrase": "like man",
+   "count": 18,
+   "episodes": 8,
+   "z": 4.38,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 935,
+     "quote": "It kind of seems like he's like, man, you guys"
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 2560,
+     "quote": "Up like, man, I'd give anything to kill a buck"
+    }
+   ]
+  },
+  {
+   "phrase": "three year",
+   "count": 7,
+   "episodes": 5,
+   "z": 4.13,
+   "moments": [
+    {
+     "episode": "144c764fa3d9",
+     "at": 1517,
+     "quote": "grabbing a three-year-old boy who crawled into the gorilla's enclosure."
+    },
+    {
+     "episode": "c36b73986b36",
+     "at": 2800,
+     "quote": "taking those two- and three-year-old bucks. And he's an avid amateur."
+    }
+   ]
+  },
+  {
+   "phrase": "care about",
+   "count": 20,
+   "episodes": 6,
+   "z": 3.96,
+   "moments": [
+    {
+     "episode": "aa3476cb21d6",
+     "at": 241,
+     "quote": "not a thing that he would natively care about, right?"
+    },
+    {
+     "episode": "e7a1d41f8be8",
+     "at": 673,
+     "quote": "really care about the deer. It was just who you"
+    }
+   ]
+  }
+ ],
+ "speakers": [],
+ "speaker_labels": false,
+ "guests": [],
+ "topics": [
+  {
+   "topic": "Family and relationships",
+   "per_10k": 24.4,
+   "vs_average": 0.78
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 16.0,
+   "vs_average": 1.14
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 15.2,
+   "vs_average": 0.58
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 13.9,
+   "vs_average": 0.62
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 12.9,
+   "vs_average": 0.32
+  },
+  {
+   "topic": "Crime and justice",
+   "per_10k": 10.5,
+   "vs_average": 0.92
+  },
+  {
+   "topic": "Music",
+   "per_10k": 9.9,
+   "vs_average": 1.02
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 8.0,
+   "vs_average": 0.96
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 7.2,
+   "vs_average": 0.76
+  },
+  {
+   "topic": "History",
+   "per_10k": 5.9,
+   "vs_average": 0.93
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 5.1,
+   "vs_average": 0.54
+  },
+  {
+   "topic": "Science",
+   "per_10k": 4.8,
+   "vs_average": 1.63
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 4.5,
+   "vs_average": 1.97
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 2.6,
+   "vs_average": 0.23
+  }
+ ],
+ "episodes": [
+  {
+   "id": "aa3476cb21d6",
+   "title": "Ep. 963: A Public Lands Ass Chapper",
+   "date": "2026-11-19",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-963",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/78150516-e688-4bbd-9f7b-b5060133f123/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/78150516-e688-4bbd-9f7b-b5060133f123/transcript?format=WebVTT&t=1795028246",
+   "minutes": 87.8,
+   "words": 13301,
+   "wpm": 151.4,
+   "questions_per_100_sentences": 7.3,
+   "variety": 0.4586
+  },
+  {
+   "id": "144c764fa3d9",
+   "title": "Ep. 962: Game On, Suckers! MeatEater Trivia CCXLIII",
+   "date": "2026-11-18",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-962-game-on-suckers-meateater-trivia-ccxliii",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/a9280a3f-2d41-4515-ac4e-b5050006f672/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a9280a3f-2d41-4515-ac4e-b5050006f672/transcript?format=WebVTT&t=1794876156",
+   "minutes": 49.7,
+   "words": 7657,
+   "wpm": 154.0,
+   "questions_per_100_sentences": 11.6,
+   "variety": 0.4789
+  },
+  {
+   "id": "e7a1d41f8be8",
+   "title": "Ep. 961: Inside The Mind Of A Serial Poacher",
+   "date": "2026-11-16",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-961-inside-the-mind-of-a-serial-poacher",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/04bf2ffa-4079-47e0-913c-b4fe018a475b/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/04bf2ffa-4079-47e0-913c-b4fe018a475b/transcript?format=WebVTT&t=1794355717",
+   "minutes": 85.6,
+   "words": 17718,
+   "wpm": 207.0,
+   "questions_per_100_sentences": 7.6,
+   "variety": 0.4488
+  },
+  {
+   "id": "8b59c09c772c",
+   "title": "Ep. 960: Illegal Sheep Nuts and Another Record Buck Controversy",
+   "date": "2026-11-12",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-960-illegal-sheep-nuts-and-another-record-buck-controversy",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/7eca5811-987e-4936-9b2b-b4ff00115cf3/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7eca5811-987e-4936-9b2b-b4ff00115cf3/transcript?format=WebVTT&t=1794359816",
+   "minutes": 75.6,
+   "words": 11929,
+   "wpm": 157.8,
+   "questions_per_100_sentences": 6.7,
+   "variety": 0.4766
+  },
+  {
+   "id": "c36b73986b36",
+   "title": "Ep. 959: Game On, Suckers! MeatEater Trivia CCXLII",
+   "date": "2026-11-11",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-959-game-on-suckers-meateater-trivia-ccxlii",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/c7f32926-d113-44c7-b070-b4f9015cf571/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c7f32926-d113-44c7-b070-b4f9015cf571/transcript?format=WebVTT&t=1793913693",
+   "minutes": 46.6,
+   "words": 7366,
+   "wpm": 158.0,
+   "questions_per_100_sentences": 13.2,
+   "variety": 0.4747
+  },
+  {
+   "id": "d3dafa730372",
+   "title": "Ep. 958: Craig Morgan, The Most Patriotic Man in America",
+   "date": "2026-11-09",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-958-craig-morgan-the-most-patriotic-man-in-america",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/0e0e6410-16bf-4453-9859-b4f70123848d/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0e0e6410-16bf-4453-9859-b4f70123848d/transcript?format=WebVTT&t=1793728546",
+   "minutes": 106.1,
+   "words": 19254,
+   "wpm": 181.5,
+   "questions_per_100_sentences": 9.3,
+   "variety": 0.4041
+  },
+  {
+   "id": "16df33e4d529",
+   "title": "Ep. 957: Cal's Bucket List Hunt | 12 in '26",
+   "date": "2026-11-06",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-957-cals-bucket-list-hunt-12-in-26",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/50322184-547e-4b4d-9727-b4f70167e712/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/50322184-547e-4b4d-9727-b4f70167e712/transcript?format=WebVTT&t=1793743432",
+   "minutes": 74.5,
+   "words": 11632,
+   "wpm": 156.2,
+   "questions_per_100_sentences": 7.7,
+   "variety": 0.4359
+  },
+  {
+   "id": "b61fdc5338d3",
+   "title": "Ep. 956: Deer Hunt Reports - Phoning It In",
+   "date": "2026-11-05",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-956-deer-hunt-reports-phoning-it-in",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/5804e910-5c7a-44df-85d0-b4f8016d9445/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5804e910-5c7a-44df-85d0-b4f8016d9445/transcript?format=WebVTT&t=1793831129",
+   "minutes": 81.4,
+   "words": 12890,
+   "wpm": 158.4,
+   "questions_per_100_sentences": 5.1,
+   "variety": 0.4671
+  },
+  {
+   "id": "ce9cc5993823",
+   "title": "Ep. 955: Game On, Suckers! MeatEater Trivia CCXLI",
+   "date": "2026-11-04",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-955-game-on-suckers-meateater-trivia-ccxli",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/e46c90fe-8161-49c9-b297-b4f60150c257/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e46c90fe-8161-49c9-b297-b4f60150c257/transcript?format=WebVTT&t=1793651710",
+   "minutes": 52.3,
+   "words": 8131,
+   "wpm": 155.4,
+   "questions_per_100_sentences": 10.2,
+   "variety": 0.5005
+  },
+  {
+   "id": "bc96778376a9",
+   "title": "Ep. 954: A Public Land Warrior",
+   "date": "2026-11-02",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-954-a-public-land-warrior",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/d0789328-15d4-4e89-99e2-b4f30152cc40/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d0789328-15d4-4e89-99e2-b4f30152cc40/transcript?format=WebVTT&t=1793393495",
+   "minutes": 120.6,
+   "words": 18907,
+   "wpm": 156.8,
+   "questions_per_100_sentences": 9.8,
+   "variety": 0.4446
+  }
+ ]
+}
