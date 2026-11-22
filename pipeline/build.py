@@ -284,8 +284,9 @@ def page_compare(a, b, shows):
         win = ""
         if va is not None and vb is not None and va != vb:
             win = a["name"] if (va > vb) == higher else b["name"]
-        return (f'<tr><th scope="row">{e(label)}</th><td class="num">{fmt(va)}</td><td class="num">{fmt(vb)}</td>'
-                f'<td>{e(win) + " " + e(unit) if win else "tie"}</td></tr>')
+        return (f'<tr><th scope="row">{e(label)}</th><td class="num" data-label="{e(a["name"])}">{fmt(va)}</td>'
+                f'<td class="num" data-label="{e(b["name"])}">{fmt(vb)}</td>'
+                f'<td data-label="Who">{e(win) + " " + e(unit) if win else "tie"}</td></tr>')
     rows = (row("Talk pace (words/min)", "pace_wpm", lambda v: f"{v:.0f}", "talks faster", True)
             + row("Vocabulary variety (per 100 words)", "variety", lambda v: f"{variety_score(v):.1f}", "uses more different words", True)
             + row("Questions per 100 sentences", "questions_per_100_sentences", lambda v: f"{v:.1f}", "asks more questions", True)

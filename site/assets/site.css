@@ -94,6 +94,13 @@ footer.site nav { display: flex; flex-wrap: wrap; gap: 6px 16px; margin-bottom: 
 #selftest { white-space: pre-wrap; font-size: .8rem; }
 @media (max-width: 640px) {
   body { font-size: 16px; }
+  table.vs thead { display: none; }
+  table.vs, table.vs tbody, table.vs tr, table.vs th, table.vs td { display: block; width: 100%; }
+  table.vs tr { padding: 10px 12px; border-bottom: 1px solid var(--line); }
+  table.vs tr:last-child { border-bottom: 0; }
+  table.vs th[scope] { padding: 0 0 4px; border: 0; }
+  table.vs td { padding: 2px 0; border: 0; text-align: left; display: flex; justify-content: space-between; gap: 12px; }
+  table.vs td::before { content: attr(data-label); color: var(--soft); }
   .two { grid-template-columns: 1fr; }
   .guests, .pairs { columns: 1; }
   .bars li { grid-template-columns: 1fr; }
