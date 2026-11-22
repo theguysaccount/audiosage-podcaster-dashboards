@@ -1,11 +1,12 @@
 # Launch
 
-**Live (launch URL):** https://theguysaccount.github.io/audiosage-podcaster-dashboards/. Nothing here needs DNS to work.
+**Live:** https://dashboards.audiosage.org/ since 2026-11-22. It launched on https://theguysaccount.github.io/audiosage-podcaster-dashboards/,
+which now redirects there. Nothing here needs DNS to work.
 
 ## Domain
 
 `audiosage.org` (Jack's portfolio match) already serves an AudioSage site from SiteGround (checked 2026-11-22). It is
-not replaced. Proposed: `dashboards.audiosage.org` (one CNAME). Alternatives if Jack prefers a separate name:
+not replaced. Chosen: `dashboards.audiosage.org` (one CNAME, added by the domain rollout on 2026-11-22). Alternatives if Jack prefers a separate name:
 `podcaststats.org`-style new registrations (unchecked; needs his OK to buy). Steps: OPERATIONS.md, key 1.
 
 ## Distribution (machine channels only; nothing is posted as a person)

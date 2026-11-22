@@ -23,7 +23,8 @@ Defaults picked without blocking on Jack. Each can be reversed.
 7. **Short quotes only.** At most 20 words per quote, one per phrase on the page, each attributed and linked to the
    moment in the episode audio (`#t=` media fragment). Each episode links to the show's own transcript.
 8. **Domain.** audiosage.org already hosts a site; the dashboards stay on github.io and go to a subdomain if pointed
-   (OPERATIONS.md, key 1). Nothing on audiosage.org was touched.
+   (OPERATIONS.md, key 1). Nothing on audiosage.org was touched. The domain rollout pointed
+   `dashboards.audiosage.org` at the site on 2026-11-22.
 
 ## Questions for Jack
 

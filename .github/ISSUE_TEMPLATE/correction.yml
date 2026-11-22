@@ -7,7 +7,7 @@ body:
     id: page
     attributes:
       label: Page
-      placeholder: https://theguysaccount.github.io/audiosage-podcaster-dashboards/show/...
+      placeholder: https://dashboards.audiosage.org/show/...
     validations:
       required: true
   - type: dropdown

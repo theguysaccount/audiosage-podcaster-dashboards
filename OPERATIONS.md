@@ -5,7 +5,7 @@ transcripts the show publishes itself (`podcast:transcript`), recounts the stati
 are cached between runs in the Actions cache and are never committed or published; only statistics and short
 attributed quotes are (`data/stats/*.json`).
 
-**Live:** https://theguysaccount.github.io/audiosage-podcaster-dashboards/
+**Live:** https://dashboards.audiosage.org/ (since 2026-11-22; the old github.io address redirects there)
 **Repo:** https://github.com/theguysaccount/audiosage-podcaster-dashboards
 
 ## Automated jobs
@@ -37,19 +37,25 @@ the November 2026 survey of Apple's top 200. For a network feed that mixes in ot
 
 ## Keys Jack can turn later
 
-### 1. Custom domain (audiosage.org is the portfolio match, and it already has a site)
+### 1. Custom domain (done: dashboards.audiosage.org)
 
 audiosage.org already serves a site ("AudioSage - AI-Powered Podcast Analytics & Insights", SiteGround, A record
-216.150.1.1, checked 2026-11-22). Nothing may replace it, so the dashboards go on a subdomain, for example
-`dashboards.audiosage.org`, unless Jack decides otherwise. The base URL is one setting: the repository variable
-`SITE_URL`. Canonical URLs, the sitemap, robots.txt, share cards, structured data, IndexNow and the self-tests all follow it.
+216.150.1.1, checked 2026-11-22). Nothing may replace it, so the dashboards are on a subdomain,
+`dashboards.audiosage.org`. The domain rollout session put the site there on 2026-11-22 with the steps below (DNS at
+SiteGround, Pages custom domain with HTTPS enforced, `SITE_URL`, redeploy). The base URL is one setting: the
+repository variable `SITE_URL`. Canonical URLs, the sitemap, robots.txt, share cards, structured data, IndexNow and
+the self-tests all follow it.
 
-1. DNS (owned by the domain rollout; not done here): add `CNAME dashboards → theguysaccount.github.io` in the
+1. DNS (done by the domain rollout): add `CNAME dashboards → theguysaccount.github.io` in the
    audiosage.org zone (SiteGround today). Leave every existing record alone.
 2. `gh api -X PUT repos/theguysaccount/audiosage-podcaster-dashboards/pages -f cname=dashboards.audiosage.org`, then once
    the certificate is issued `gh api -X PUT repos/theguysaccount/audiosage-podcaster-dashboards/pages -F https_enforced=true`.
 3. `gh variable set SITE_URL -b https://dashboards.audiosage.org -R theguysaccount/audiosage-podcaster-dashboards`
 4. `gh workflow run refresh.yml -R theguysaccount/audiosage-podcaster-dashboards -f refresh=false`
+
+To move it again, repeat steps 1 to 4 with the new host. To go back to github.io: `gh variable delete SITE_URL -R
+theguysaccount/audiosage-podcaster-dashboards`, `gh api -X PUT repos/theguysaccount/audiosage-podcaster-dashboards/pages -F
+cname=null`, then step 4. Leave the DNS record until the redeploy is live.
 
 A link from the existing audiosage.org site to the dashboards would connect the two; that site is outside this repo.
 
@@ -81,7 +87,7 @@ python3 -m unittest discover -s tests -v
 python3 pipeline/fetch.py            # reads feeds and transcripts into .cache/
 python3 pipeline/analyze.py          # writes data/stats/*.json and data/corpus.json
 python3 pipeline/build.py && scripts/e2e.sh
-scripts/e2e.sh https://theguysaccount.github.io/audiosage-podcaster-dashboards/
-python3 scripts/check_live.py https://theguysaccount.github.io/audiosage-podcaster-dashboards
+scripts/e2e.sh https://dashboards.audiosage.org/
+python3 scripts/check_live.py https://dashboards.audiosage.org
 gh workflow run refresh.yml -R theguysaccount/audiosage-podcaster-dashboards -f refresh=true
 ```

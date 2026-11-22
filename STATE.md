@@ -9,7 +9,7 @@
   show's own transcript), a sortable leaderboard, 66 head-to-head comparison pages with share cards, method page.
 - Runs by itself: refresh and deploy twice a week, weekly self-test that restarts stale refreshes, keep-alive. The
   scheduled trigger is proven: the self-test's first scheduled run passed on 2026-11-22 (run 45051599880).
-- Needs a human: domain (OPERATIONS.md proposes dashboards.audiosage.org, because audiosage.org already serves
-  another site), sponsor, analytics, Search Console (OPERATIONS.md keys).
+- Domain: live on dashboards.audiosage.org since 2026-11-22 (audiosage.org itself still serves its own site).
+- Needs a human: sponsor, analytics, Search Console (OPERATIONS.md keys).
 - Known limits: only shows that publish timed transcripts qualify (24 of Apple's top 200 in November 2026); machine
   transcripts have errors; ad filtering is heuristic.

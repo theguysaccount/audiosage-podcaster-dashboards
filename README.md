@@ -5,7 +5,7 @@ topics and guests, counted from the transcripts each show publishes in its own p
 links to the moments it was said. Statistics and short attributed quotes only; no transcripts are republished, and
 no one gets a bias or opinion label.
 
-**Live:** https://theguysaccount.github.io/audiosage-podcaster-dashboards/
+**Live:** https://dashboards.audiosage.org/ (the old github.io address redirects there)
 
 ## Run, test, deploy
 
