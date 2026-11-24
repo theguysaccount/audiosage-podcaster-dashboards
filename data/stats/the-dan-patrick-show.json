@@ -1,115 +1,169 @@
 {
  "slug": "the-dan-patrick-show",
  "name": "The Dan Patrick Show",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/4818243e-950b-4fc4-8a22-ae320005bb09/podcast.rss",
  "website": "https://www.iheart.com/podcast/1119-the-dan-patrick-show-60330018/",
  "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/4818243e-950b-4fc4-8a22-ae320005bb09/image.jpg?t=1758907311&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-11-17",
- "latest_episode": "2026-11-20",
- "words_analyzed": 72004,
- "pace_wpm": 174.8,
- "minutes_median": 41.4,
+ "first_episode": "2026-11-18",
+ "latest_episode": "2026-11-23",
+ "words_analyzed": 72742,
+ "pace_wpm": 175.8,
+ "minutes_median": 41.3,
  "questions_per_100_sentences": 8.9,
- "variety": 0.4628,
+ "variety": 0.4678,
  "signature_phrases": [
   {
    "phrase": "sports radio",
-   "count": 48,
+   "count": 50,
    "episodes": 10,
-   "z": 13.02,
+   "z": 13.3,
    "moments": [
     {
-     "episode": "6df591d9e984",
+     "episode": "4016ee55dab5",
      "at": 3,
      "quote": "Sports Radio."
     },
     {
-     "episode": "d045e3daa84e",
+     "episode": "ce69e1a8caa5",
      "at": 3,
      "quote": "Sports Radio."
-    }
-   ]
-  },
-  {
-   "phrase": "ohio state",
-   "count": 42,
-   "episodes": 7,
-   "z": 12.64,
-   "moments": [
-    {
-     "episode": "6df591d9e984",
-     "at": 435,
-     "quote": "You've got to win the game. Ohio State at Nebraska."
-    },
-    {
-     "episode": "d045e3daa84e",
-     "at": 2276,
-     "quote": "going to be Ohio State versus Nebraska. And then, of course, UCLA, Michigan."
     }
    ]
   },
   {
    "phrase": "college football",
-   "count": 38,
+   "count": 43,
    "episodes": 7,
-   "z": 11.72,
+   "z": 12.99,
    "moments": [
     {
-     "episode": "6df591d9e984",
-     "at": 396,
-     "quote": "I look at college football. This is the must-not-lose weekend."
+     "episode": "4016ee55dab5",
+     "at": 552,
+     "quote": "unique voices, college football weekend. This is Paulie's favorite time"
     },
     {
-     "episode": "d045e3daa84e",
-     "at": 1291,
-     "quote": "Booger McFarland of the Mothership covers the NFL college football."
+     "episode": "ce69e1a8caa5",
+     "at": 115,
+     "quote": "For the Buffalo Bills, if this was college football, they"
     }
    ]
   },
   {
    "phrase": "fox sports",
-   "count": 39,
+   "count": 40,
    "episodes": 10,
-   "z": 11.14,
+   "z": 11.35,
    "moments": [
     {
-     "episode": "6df591d9e984",
-     "at": 941,
-     "quote": "6 to 9 Pacific on Fox Sports Radio. Find your"
+     "episode": "4016ee55dab5",
+     "at": 917,
+     "quote": "to Fox Sports Radio, 400 stations. iHeartMedia podcast as well."
     },
     {
-     "episode": "d045e3daa84e",
-     "at": 1211,
-     "quote": "Fox Sports Radio. Find your local station for the Dan"
+     "episode": "ce69e1a8caa5",
+     "at": 867,
+     "quote": "on Fox Sports Radio and the iHeartRadio app."
+    }
+   ]
+  },
+  {
+   "phrase": "ohio state",
+   "count": 26,
+   "episodes": 7,
+   "z": 10.1,
+   "moments": [
+    {
+     "episode": "4016ee55dab5",
+     "at": 647,
+     "quote": "A hall pass that's right go fund me Ohio State,"
+    },
+    {
+     "episode": "ce69e1a8caa5",
+     "at": 660,
+     "quote": "Ask Ohio State what happens when you go to a backup."
+    }
+   ]
+  },
+  {
+   "phrase": "joe burrow",
+   "count": 19,
+   "episodes": 5,
+   "z": 8.53,
+   "moments": [
+    {
+     "episode": "4016ee55dab5",
+     "at": 230,
+     "quote": "an MVP game, where it's almost like Joe Burrow has"
+    },
+    {
+     "episode": "1b120d9a5e32",
+     "at": 120,
+     "quote": "their schedule, but Joe Burrow right at the top of"
+    }
+   ]
+  },
+  {
+   "phrase": "brock purdy",
+   "count": 21,
+   "episodes": 5,
+   "z": 8.23,
+   "moments": [
+    {
+     "episode": "4016ee55dab5",
+     "at": 138,
+     "quote": "Brock Purdy. He may not be the MVP. He may"
+    },
+    {
+     "episode": "ce69e1a8caa5",
+     "at": 1962,
+     "quote": "My best is Brock Purdy and the San Francisco 49ers,"
     }
    ]
   },
   {
    "phrase": "coming up",
-   "count": 39,
+   "count": 29,
    "episodes": 10,
-   "z": 10.51,
+   "z": 8.21,
    "moments": [
     {
-     "episode": "6df591d9e984",
-     "at": 13,
-     "quote": "have that for you coming up. The back row. Todd"
+     "episode": "4016ee55dab5",
+     "at": 937,
+     "quote": "Have mercy on me. One-hour poll coming up with Dylan."
     },
     {
-     "episode": "d045e3daa84e",
-     "at": 15,
-     "quote": "your attention coming up in a little bit. Marvin, you"
+     "episode": "ce69e1a8caa5",
+     "at": 552,
+     "quote": "You talked about the NFL slate coming up. Sneaky Friday slate."
+    }
+   ]
+  },
+  {
+   "phrase": "phone calls",
+   "count": 17,
+   "episodes": 8,
+   "z": 8.17,
+   "moments": [
+    {
+     "episode": "1b120d9a5e32",
+     "at": 1542,
+     "quote": "But I want to get your over-under at 10 phone calls,"
+    },
+    {
+     "episode": "6df591d9e984",
+     "at": 466,
+     "quote": "He'll take your phone calls. And, of course, we'll settle"
     }
    ]
   },
   {
    "phrase": "odd couple",
-   "count": 27,
-   "episodes": 9,
-   "z": 9.94,
+   "count": 18,
+   "episodes": 6,
+   "z": 8.01,
    "moments": [
     {
      "episode": "6df591d9e984",
@@ -124,110 +178,56 @@
    ]
   },
   {
-   "phrase": "notre dame",
-   "count": 23,
-   "episodes": 6,
-   "z": 9.53,
+   "phrase": "last night",
+   "count": 39,
+   "episodes": 8,
+   "z": 7.72,
    "moments": [
     {
-     "episode": "abf1b1e9e347",
-     "at": 70,
-     "quote": "on No. 6 Notre Dame. That will be in primetime,"
+     "episode": "4016ee55dab5",
+     "at": 83,
+     "quote": "Francisco 49ers look like a wagon last night. It's where"
     },
     {
-     "episode": "5db38e1537f4",
-     "at": 47,
-     "quote": "and Notre Dame, South Bend, 7 Eastern. Primetime college football showdown. Now,"
+     "episode": "1b120d9a5e32",
+     "at": 244,
+     "quote": "Have found it last night."
     }
    ]
   },
   {
-   "phrase": "phone calls",
-   "count": 23,
-   "episodes": 10,
-   "z": 9.44,
+   "phrase": "m eastern",
+   "count": 15,
+   "episodes": 9,
+   "z": 7.66,
    "moments": [
     {
-     "episode": "6df591d9e984",
-     "at": 466,
-     "quote": "He'll take your phone calls. And, of course, we'll settle"
+     "episode": "4016ee55dab5",
+     "at": 997,
+     "quote": "Patrick Show weekdays at 9 a.m. Eastern, 6 a.m. Pacific"
     },
     {
-     "episode": "d045e3daa84e",
-     "at": 2502,
-     "quote": "Irv will join us. More of your phone calls as"
+     "episode": "ce69e1a8caa5",
+     "at": 313,
+     "quote": "Why would the 4 p.m. Eastern window beat the 8 p.m."
     }
    ]
   },
   {
    "phrase": "join us",
-   "count": 20,
-   "episodes": 8,
-   "z": 8.75,
+   "count": 14,
+   "episodes": 7,
+   "z": 7.39,
    "moments": [
+    {
+     "episode": "4016ee55dab5",
+     "at": 725,
+     "quote": "we'll have Andy Staples on to join us in hour"
+    },
     {
      "episode": "6df591d9e984",
      "at": 182,
      "quote": "join us. Irv, he is part of the Thanksgiving Eve game."
-    },
-    {
-     "episode": "d045e3daa84e",
-     "at": 2502,
-     "quote": "Irv will join us. More of your phone calls as"
-    }
-   ]
-  },
-  {
-   "phrase": "take a break",
-   "count": 20,
-   "episodes": 9,
-   "z": 8.62,
-   "moments": [
-    {
-     "episode": "6df591d9e984",
-     "at": 933,
-     "quote": "take a break. We're back after this. Thanks for listening"
-    },
-    {
-     "episode": "d045e3daa84e",
-     "at": 1186,
-     "quote": "How about we take a break? It doesn't have to"
-    }
-   ]
-  },
-  {
-   "phrase": "search odd",
-   "count": 18,
-   "episodes": 9,
-   "z": 8.12,
-   "moments": [
-    {
-     "episode": "6df591d9e984",
-     "at": 974,
-     "quote": "All you got to do, search Odd Couple FSR on YouTube."
-    },
-    {
-     "episode": "abf1b1e9e347",
-     "at": 1194,
-     "quote": "All you got to do, search Odd Couple FSR on YouTube."
-    }
-   ]
-  },
-  {
-   "phrase": "couple fsr",
-   "count": 17,
-   "episodes": 9,
-   "z": 7.99,
-   "moments": [
-    {
-     "episode": "6df591d9e984",
-     "at": 974,
-     "quote": "All you got to do, search Odd Couple FSR on YouTube."
-    },
-    {
-     "episode": "abf1b1e9e347",
-     "at": 1194,
-     "quote": "All you got to do, search Odd Couple FSR on YouTube."
     }
    ]
   }
@@ -238,76 +238,115 @@
  "topics": [
   {
    "topic": "Sports",
-   "per_10k": 135.7,
-   "vs_average": 3.35
+   "per_10k": 144.3,
+   "vs_average": 3.54
   },
   {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 38.3,
-   "vs_average": 1.72
+   "per_10k": 43.6,
+   "vs_average": 1.87
   },
   {
    "topic": "Business and money",
-   "per_10k": 16.9,
-   "vs_average": 0.65
+   "per_10k": 15.3,
+   "vs_average": 0.55
   },
   {
    "topic": "Family and relationships",
-   "per_10k": 14.2,
-   "vs_average": 0.45
+   "per_10k": 14.8,
+   "vs_average": 0.47
   },
   {
    "topic": "Music",
-   "per_10k": 12.1,
-   "vs_average": 1.24
+   "per_10k": 10.6,
+   "vs_average": 1.19
   },
   {
    "topic": "Technology and AI",
-   "per_10k": 6.9,
-   "vs_average": 0.61
+   "per_10k": 7.8,
+   "vs_average": 0.57
   },
   {
-   "topic": "Religion and spirituality",
-   "per_10k": 3.9,
-   "vs_average": 0.41
+   "topic": "Food and drink",
+   "per_10k": 4.1,
+   "vs_average": 0.44
   },
   {
    "topic": "History",
    "per_10k": 3.3,
-   "vs_average": 0.53
+   "vs_average": 0.54
   },
   {
-   "topic": "Food and drink",
-   "per_10k": 3.1,
-   "vs_average": 0.37
-  },
-  {
-   "topic": "Politics and government",
-   "per_10k": 2.4,
-   "vs_average": 0.17
+   "topic": "Religion and spirituality",
+   "per_10k": 3.2,
+   "vs_average": 0.34
   },
   {
    "topic": "Crime and justice",
-   "per_10k": 1.8,
-   "vs_average": 0.16
+   "per_10k": 2.5,
+   "vs_average": 0.21
   },
   {
-   "topic": "Science",
-   "per_10k": 1.2,
-   "vs_average": 0.42
+   "topic": "Politics and government",
+   "per_10k": 1.8,
+   "vs_average": 0.13
   },
   {
    "topic": "Health and medicine",
-   "per_10k": 1.1,
-   "vs_average": 0.12
+   "per_10k": 1.4,
+   "vs_average": 0.14
+  },
+  {
+   "topic": "Science",
+   "per_10k": 1.4,
+   "vs_average": 0.46
   },
   {
    "topic": "Climate and environment",
-   "per_10k": 1.1,
-   "vs_average": 0.48
+   "per_10k": 0.8,
+   "vs_average": 0.35
   }
  ],
  "episodes": [
+  {
+   "id": "4016ee55dab5",
+   "title": "Hour 1 – Mets All-In on Tarik Skubal, NFL Week 11 Recap",
+   "date": "2026-11-23",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-1-mets-all-in-on-tarik-skubal-nfl-week-11-recap",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/95f903f7-a46d-4979-abd8-b50b010ff9f8/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/95f903f7-a46d-4979-abd8-b50b010ff9f8/transcript?format=WebVTT&t=1795451954",
+   "minutes": 41.6,
+   "words": 7556,
+   "wpm": 181.5,
+   "questions_per_100_sentences": 8.7,
+   "variety": 0.4841
+  },
+  {
+   "id": "ce69e1a8caa5",
+   "title": "Hour 2 – CFP Shakeup, Andy Staples",
+   "date": "2026-11-23",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-2-cfp-shakeup-andy-staples",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/db97e79d-5982-4022-9336-b50b01106b68/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/db97e79d-5982-4022-9336-b50b01106b68/transcript?format=WebVTT&t=1795452044",
+   "minutes": 41.1,
+   "words": 7369,
+   "wpm": 179.2,
+   "questions_per_100_sentences": 7.8,
+   "variety": 0.4787
+  },
+  {
+   "id": "1b120d9a5e32",
+   "title": "Hour 3 – More Mets Money, MNF Preview",
+   "date": "2026-11-23",
+   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-3-more-mets-money-mnf-preview",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/300f8bdb-53b6-4bbd-84a5-b50b011b8c8b/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/300f8bdb-53b6-4bbd-84a5-b50b011b8c8b/transcript?format=WebVTT&t=1795454194",
+   "minutes": 41.1,
+   "words": 7133,
+   "wpm": 173.6,
+   "questions_per_100_sentences": 9.0,
+   "variety": 0.4983
+  },
   {
    "id": "6df591d9e984",
    "title": "HOUR 1 – Texans have a window now, Chris Russo",
@@ -398,45 +437,6 @@
    "wpm": 179.5,
    "questions_per_100_sentences": 8.8,
    "variety": 0.4545
-  },
-  {
-   "id": "51bfbd678b74",
-   "title": "Hour 2 – Chris Fowler, 24-Team Playoff Conjecture",
-   "date": "2026-11-18",
-   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-2-chris-fowler-24-team-playoff-conjecture",
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/d4d39c9d-fc3c-4fad-8e94-b506011d4e1d/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d4d39c9d-fc3c-4fad-8e94-b506011d4e1d/transcript?format=WebVTT&t=1795022759",
-   "minutes": 41.6,
-   "words": 7287,
-   "wpm": 175.2,
-   "questions_per_100_sentences": 8.8,
-   "variety": 0.4765
-  },
-  {
-   "id": "c950461f818f",
-   "title": "Hour 3 – State Flags, Philip Rivers",
-   "date": "2026-11-18",
-   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-3-state-flags-philip-rivers",
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/eb4c2dd2-a7e4-4f4e-a335-b506011e7bc1/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/eb4c2dd2-a7e4-4f4e-a335-b506011e7bc1/transcript?format=WebVTT&t=1795023102",
-   "minutes": 41.4,
-   "words": 7247,
-   "wpm": 175.0,
-   "questions_per_100_sentences": 12.8,
-   "variety": 0.4493
-  },
-  {
-   "id": "f4730c09fbab",
-   "title": "Hour 1 – Chargers Get off the Schneid, CFP Solution",
-   "date": "2026-11-17",
-   "link": "https://omny.fm/shows/the-dan-patrick-show/hour-1-chargers-get-off-the-schneid-cfp-solution",
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/2c906e2b-2518-466c-a457-ae320005bafb/933f8107-0e4a-4aa8-812d-b505011532c5/audio.mp3?utm_source=Podcast&in_playlist=4818243e-950b-4fc4-8a22-ae320005bb09",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/933f8107-0e4a-4aa8-812d-b505011532c5/transcript?format=WebVTT&t=1794934430",
-   "minutes": 41.5,
-   "words": 6786,
-   "wpm": 163.5,
-   "questions_per_100_sentences": 8.0,
-   "variety": 0.4608
   }
  ]
 }

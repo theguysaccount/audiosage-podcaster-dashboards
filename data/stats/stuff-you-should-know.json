@@ -1,35 +1,35 @@
 {
  "slug": "stuff-you-should-know",
  "name": "Stuff You Should Know",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
  "website": "https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-10-29",
- "latest_episode": "2026-11-19",
- "words_analyzed": 61157,
- "pace_wpm": 171.6,
+ "first_episode": "2026-11-03",
+ "latest_episode": "2026-11-24",
+ "words_analyzed": 60436,
+ "pace_wpm": 172.2,
  "minutes_median": 43.9,
  "questions_per_100_sentences": 6.8,
- "variety": 0.4557,
+ "variety": 0.4516,
  "signature_phrases": [
   {
    "phrase": "yeah for sure",
-   "count": 28,
+   "count": 30,
    "episodes": 10,
-   "z": 11.13,
+   "z": 11.56,
    "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 205,
+     "quote": "Yeah, for sure. I mean, everything from keratin, which apparently"
+    },
     {
      "episode": "d02325b3b225",
      "at": 313,
      "quote": "Yeah, for sure. Obviously the quality isn't going to be"
-    },
-    {
-     "episode": "7a85c3087f46",
-     "at": 49,
-     "quote": "Yeah, for sure."
     }
    ]
   },
@@ -37,17 +37,35 @@
    "phrase": "i guess",
    "count": 65,
    "episodes": 9,
-   "z": 9.23,
+   "z": 9.26,
    "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 179,
+     "quote": "Well, I guess I will cut to the chase and"
+    },
     {
      "episode": "d02325b3b225",
      "at": 362,
      "quote": "it came about through a, I guess I'm, In the"
+    }
+   ]
+  },
+  {
+   "phrase": "take a break",
+   "count": 17,
+   "episodes": 9,
+   "z": 8.4,
+   "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 824,
+     "quote": "Should we take a break? Oh, yeah."
     },
     {
-     "episode": "8c96fe1e9677",
-     "at": 1390,
-     "quote": "his wife and his parents to, I guess, talk to"
+     "episode": "d02325b3b225",
+     "at": 705,
+     "quote": "All right, let's take a break, and we'll be right back."
     }
    ]
   },
@@ -55,7 +73,7 @@
    "phrase": "like hey",
    "count": 31,
    "episodes": 6,
-   "z": 8.09,
+   "z": 7.77,
    "moments": [
     {
      "episode": "d02325b3b225",
@@ -70,56 +88,56 @@
    ]
   },
   {
-   "phrase": "take a break",
-   "count": 14,
-   "episodes": 8,
-   "z": 6.92,
-   "moments": [
-    {
-     "episode": "d02325b3b225",
-     "at": 705,
-     "quote": "All right, let's take a break, and we'll be right back."
-    },
-    {
-     "episode": "7a85c3087f46",
-     "at": 320,
-     "quote": "Yeah. I say, Chuck, we take a break. We come"
-    }
-   ]
-  },
-  {
    "phrase": "we take",
    "count": 11,
    "episodes": 7,
-   "z": 6.6,
+   "z": 6.69,
    "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 824,
+     "quote": "Should we take a break? Oh, yeah."
+    },
     {
      "episode": "d02325b3b225",
      "at": 701,
      "quote": "So should we take an early break?"
-    },
-    {
-     "episode": "7a85c3087f46",
-     "at": 320,
-     "quote": "Yeah. I say, Chuck, we take a break. We come"
     }
    ]
   },
   {
    "phrase": "mentioned earlier",
-   "count": 8,
-   "episodes": 7,
-   "z": 5.91,
+   "count": 10,
+   "episodes": 8,
+   "z": 6.65,
    "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 1817,
+     "quote": "too much fat and cholesterol, like you mentioned earlier. If"
+    },
     {
      "episode": "d02325b3b225",
      "at": 894,
      "quote": "with that one. And I mentioned earlier, you know, it's"
+    }
+   ]
+  },
+  {
+   "phrase": "stuff like",
+   "count": 22,
+   "episodes": 6,
+   "z": 6.47,
+   "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 237,
+     "quote": "other stuff, like your neurotransmitter receptors in your brain, those"
     },
     {
-     "episode": "7a85c3087f46",
-     "at": 468,
-     "quote": "That's right. So I mentioned earlier that these water droplets"
+     "episode": "d02325b3b225",
+     "at": 319,
+     "quote": "place and stuff like that. Sometimes like, and you know,"
     }
    ]
   },
@@ -127,7 +145,7 @@
    "phrase": "i mentioned",
    "count": 11,
    "episodes": 7,
-   "z": 5.79,
+   "z": 5.95,
    "moments": [
     {
      "episode": "d02325b3b225",
@@ -142,92 +160,74 @@
    ]
   },
   {
-   "phrase": "you may not",
-   "count": 6,
-   "episodes": 4,
-   "z": 5.07,
+   "phrase": "we're talking",
+   "count": 18,
+   "episodes": 9,
+   "z": 5.85,
    "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 126,
+     "quote": "We're talking proteins, though, right?"
+    },
     {
      "episode": "d02325b3b225",
-     "at": 793,
-     "quote": "You may not have access to stuff like that. But"
-    },
-    {
-     "episode": "4a5648bdfe62",
-     "at": 1193,
-     "quote": "There is a thing about manatees that you may not know."
-    }
-   ]
-  },
-  {
-   "phrase": "it turns out",
-   "count": 10,
-   "episodes": 7,
-   "z": 4.94,
-   "moments": [
-    {
-     "episode": "d02325b3b225",
-     "at": 1291,
-     "quote": "as it turns out, with sign language interpretation."
-    },
-    {
-     "episode": "8c96fe1e9677",
-     "at": 841,
-     "quote": "but it turns out I've seen it on every cop"
-    }
-   ]
-  },
-  {
-   "phrase": "should take",
-   "count": 6,
-   "episodes": 4,
-   "z": 4.89,
-   "moments": [
-    {
-     "episode": "8c96fe1e9677",
-     "at": 721,
-     "quote": "We should take a break, Chuck. I think so. All right."
-    },
-    {
-     "episode": "4a5648bdfe62",
-     "at": 2158,
-     "quote": "Well, I mean, you should take this part, even though"
+     "at": 18,
+     "quote": "That's right. We're talking today about American Sign Language Interpretation."
     }
    ]
   },
   {
    "phrase": "we mentioned",
-   "count": 8,
-   "episodes": 4,
-   "z": 4.8,
+   "count": 9,
+   "episodes": 5,
+   "z": 5.71,
    "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 2578,
+     "quote": "This is about the Canadian tuxedo that we mentioned in"
+    },
     {
      "episode": "d02325b3b225",
      "at": 1586,
      "quote": "All right, we mentioned the ADA, which was sort of"
-    },
-    {
-     "episode": "8c96fe1e9677",
-     "at": 156,
-     "quote": "think we mentioned that they were married to some pretty"
     }
    ]
   },
   {
-   "phrase": "your favorite",
-   "count": 11,
-   "episodes": 10,
-   "z": 4.79,
+   "phrase": "all sorts",
+   "count": 10,
+   "episodes": 5,
+   "z": 5.51,
    "moments": [
     {
-     "episode": "d02325b3b225",
-     "at": 2760,
-     "quote": "or wherever you listen to your favorite shows."
+     "episode": "6ed3e6be28c3",
+     "at": 233,
+     "quote": "you can believe in. But then also all sorts of"
     },
     {
-     "episode": "7a85c3087f46",
-     "at": 624,
-     "quote": "or wherever you listen to your favorite shows."
+     "episode": "d02325b3b225",
+     "at": 2263,
+     "quote": "and hard of hearing go to concerts for all sorts"
+    }
+   ]
+  },
+  {
+   "phrase": "just basically",
+   "count": 6,
+   "episodes": 4,
+   "z": 5.14,
+   "moments": [
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 1226,
+     "quote": "their age, their health conditions. So they were just basically"
+    },
+    {
+     "episode": "ce48d00af560",
+     "at": 652,
+     "quote": "So he would just basically go around killing Anglo-Americans as"
     }
    ]
   }
@@ -238,76 +238,89 @@
  "topics": [
   {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 25.5,
-   "vs_average": 1.14
-  },
-  {
-   "topic": "Family and relationships",
-   "per_10k": 23.9,
-   "vs_average": 0.76
-  },
-  {
-   "topic": "Politics and government",
-   "per_10k": 19.3,
-   "vs_average": 1.37
+   "per_10k": 26.3,
+   "vs_average": 1.13
   },
   {
    "topic": "Crime and justice",
-   "per_10k": 19.3,
-   "vs_average": 1.69
+   "per_10k": 19.9,
+   "vs_average": 1.71
   },
   {
-   "topic": "Business and money",
-   "per_10k": 13.6,
-   "vs_average": 0.52
+   "topic": "Politics and government",
+   "per_10k": 19.2,
+   "vs_average": 1.4
   },
   {
    "topic": "Health and medicine",
-   "per_10k": 11.1,
-   "vs_average": 1.17
+   "per_10k": 18.9,
+   "vs_average": 1.92
   },
   {
-   "topic": "Technology and AI",
-   "per_10k": 5.9,
-   "vs_average": 0.51
-  },
-  {
-   "topic": "History",
-   "per_10k": 4.4,
-   "vs_average": 0.7
+   "topic": "Family and relationships",
+   "per_10k": 14.7,
+   "vs_average": 0.47
   },
   {
    "topic": "Food and drink",
-   "per_10k": 4.3,
-   "vs_average": 0.51
+   "per_10k": 14.7,
+   "vs_average": 1.56
   },
   {
-   "topic": "Climate and environment",
-   "per_10k": 3.8,
-   "vs_average": 1.64
+   "topic": "Business and money",
+   "per_10k": 14.2,
+   "vs_average": 0.52
   },
   {
-   "topic": "Religion and spirituality",
-   "per_10k": 3.4,
-   "vs_average": 0.36
+   "topic": "Technology and AI",
+   "per_10k": 5.8,
+   "vs_average": 0.42
   },
   {
    "topic": "Science",
-   "per_10k": 2.8,
-   "vs_average": 0.94
+   "per_10k": 4.6,
+   "vs_average": 1.56
+  },
+  {
+   "topic": "History",
+   "per_10k": 4.5,
+   "vs_average": 0.73
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 4.3,
+   "vs_average": 1.83
   },
   {
    "topic": "Sports",
+   "per_10k": 3.6,
+   "vs_average": 0.09
+  },
+  {
+   "topic": "Religion and spirituality",
    "per_10k": 2.8,
-   "vs_average": 0.07
+   "vs_average": 0.31
   },
   {
    "topic": "Music",
    "per_10k": 2.0,
-   "vs_average": 0.2
+   "vs_average": 0.22
   }
  ],
  "episodes": [
+  {
+   "id": "6ed3e6be28c3",
+   "title": "Protein: Yes, But How Much?",
+   "date": "2026-11-24",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/protein-yes-but-how-much",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/a007c4ee-5dbf-419c-b37e-b500010db27d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a007c4ee-5dbf-419c-b37e-b500010db27d/transcript?format=WebVTT&t=1794500971",
+   "minutes": 45.5,
+   "words": 7790,
+   "wpm": 171.3,
+   "questions_per_100_sentences": 7.4,
+   "variety": 0.4387
+  },
   {
    "id": "d02325b3b225",
    "title": "Sign Language Interpreters: Coolest Job?",
@@ -424,19 +437,6 @@
    "wpm": 174.6,
    "questions_per_100_sentences": 6.9,
    "variety": 0.4373
-  },
-  {
-   "id": "96fa7c9e2ab1",
-   "title": "The SYSK Annual Halloween Freaky Spooktacular 2026!",
-   "date": "2026-10-29",
-   "link": "https://omny.fm/shows/stuff-you-should-know-1/the-sysk-annual-halloween-freaky-spooktacular-2026",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/9cd40df1-9b0d-42d6-b09f-b4f2001ec6e7/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9cd40df1-9b0d-42d6-b09f-b4f2001ec6e7/transcript?format=WebVTT&t=1793238974",
-   "minutes": 51.7,
-   "words": 8511,
-   "wpm": 164.6,
-   "questions_per_100_sentences": 10.4,
-   "variety": 0.5068
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "slug": "the-breakfast-club",
  "name": "The Breakfast Club",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/0660e13d-8aa3-45f5-90ef-ae33005f6621/podcast.rss",
  "website": "https://www.iheart.com/podcast/the-breakfast-club-24992238/",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/image.jpg?t=1749760462&size=Large",
@@ -16,28 +16,10 @@
  "variety": 0.4318,
  "signature_phrases": [
   {
-   "phrase": "good morning",
-   "count": 293,
-   "episodes": 10,
-   "z": 20.19,
-   "moments": [
-    {
-     "episode": "41b863b2b6e9",
-     "at": 26,
-     "quote": "our beautiful listeners. Good morning, Jess Hilarious."
-    },
-    {
-     "episode": "fc82fa599106",
-     "at": 7,
-     "quote": "Good morning, USA!"
-    }
-   ]
-  },
-  {
    "phrase": "i'm saying",
    "count": 223,
    "episodes": 10,
-   "z": 19.79,
+   "z": 19.46,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -52,10 +34,28 @@
    ]
   },
   {
+   "phrase": "good morning",
+   "count": 293,
+   "episodes": 10,
+   "z": 19.01,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 26,
+     "quote": "our beautiful listeners. Good morning, Jess Hilarious."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 7,
+     "quote": "Good morning, USA!"
+    }
+   ]
+  },
+  {
    "phrase": "south carolina",
    "count": 126,
    "episodes": 10,
-   "z": 14.57,
+   "z": 13.18,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -73,7 +73,7 @@
    "phrase": "your chest",
    "count": 71,
    "episodes": 10,
-   "z": 11.05,
+   "z": 10.94,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -91,7 +91,7 @@
    "phrase": "let's take",
    "count": 59,
    "episodes": 9,
-   "z": 10.4,
+   "z": 10.41,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -106,28 +106,10 @@
    ]
   },
   {
-   "phrase": "joining us",
-   "count": 61,
-   "episodes": 10,
-   "z": 10.32,
-   "moments": [
-    {
-     "episode": "41b863b2b6e9",
-     "at": 154,
-     "quote": "and Kai Fair will be joining us. You know, they're"
-    },
-    {
-     "episode": "fc82fa599106",
-     "at": 172,
-     "quote": "Well, let's get the show cracking. Of course, today joining us,"
-    }
-   ]
-  },
-  {
    "phrase": "we come",
    "count": 60,
    "episodes": 10,
-   "z": 10.25,
+   "z": 10.15,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -145,7 +127,7 @@
    "phrase": "i ain't",
    "count": 75,
    "episodes": 10,
-   "z": 10.02,
+   "z": 10.01,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -163,7 +145,7 @@
    "phrase": "shout out",
    "count": 55,
    "episodes": 10,
-   "z": 10.01,
+   "z": 9.93,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -178,28 +160,10 @@
    ]
   },
   {
-   "phrase": "breakfast club",
-   "count": 250,
-   "episodes": 10,
-   "z": 9.78,
-   "moments": [
-    {
-     "episode": "41b863b2b6e9",
-     "at": 215,
-     "quote": "Wake your ass up. It's a Friday. It's the Breakfast Club."
-    },
-    {
-     "episode": "fc82fa599106",
-     "at": 207,
-     "quote": "let's get to the record at the Breakfast Club. Good morning. Morning, everybody."
-    }
-   ]
-  },
-  {
    "phrase": "come back",
    "count": 82,
    "episodes": 10,
-   "z": 9.61,
+   "z": 9.85,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -214,10 +178,46 @@
    ]
   },
   {
+   "phrase": "joining us",
+   "count": 61,
+   "episodes": 10,
+   "z": 9.81,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 154,
+     "quote": "and Kai Fair will be joining us. You know, they're"
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 172,
+     "quote": "Well, let's get the show cracking. Of course, today joining us,"
+    }
+   ]
+  },
+  {
+   "phrase": "breakfast club",
+   "count": 250,
+   "episodes": 10,
+   "z": 9.77,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 215,
+     "quote": "Wake your ass up. It's a Friday. It's the Breakfast Club."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 207,
+     "quote": "let's get to the record at the Breakfast Club. Good morning. Morning, everybody."
+    }
+   ]
+  },
+  {
    "phrase": "talking about",
    "count": 196,
    "episodes": 10,
-   "z": 9.26,
+   "z": 8.89,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -244,32 +244,32 @@
   {
    "topic": "Politics and government",
    "per_10k": 23.1,
-   "vs_average": 1.64
+   "vs_average": 1.68
   },
   {
    "topic": "Movies, TV and entertainment",
    "per_10k": 21.9,
-   "vs_average": 0.98
+   "vs_average": 0.94
   },
   {
    "topic": "Business and money",
    "per_10k": 20.7,
-   "vs_average": 0.79
+   "vs_average": 0.75
   },
   {
    "topic": "Music",
    "per_10k": 18.6,
-   "vs_average": 1.91
+   "vs_average": 2.09
   },
   {
    "topic": "Religion and spirituality",
    "per_10k": 18.5,
-   "vs_average": 1.95
+   "vs_average": 2.01
   },
   {
    "topic": "Crime and justice",
    "per_10k": 15.9,
-   "vs_average": 1.39
+   "vs_average": 1.37
   },
   {
    "topic": "Sports",
@@ -279,32 +279,32 @@
   {
    "topic": "Health and medicine",
    "per_10k": 8.1,
-   "vs_average": 0.85
+   "vs_average": 0.82
   },
   {
    "topic": "Food and drink",
    "per_10k": 7.7,
-   "vs_average": 0.93
+   "vs_average": 0.82
   },
   {
    "topic": "Technology and AI",
    "per_10k": 7.6,
-   "vs_average": 0.66
+   "vs_average": 0.55
   },
   {
    "topic": "History",
    "per_10k": 5.4,
-   "vs_average": 0.86
+   "vs_average": 0.88
   },
   {
    "topic": "Climate and environment",
    "per_10k": 1.7,
-   "vs_average": 0.74
+   "vs_average": 0.73
   },
   {
    "topic": "Science",
    "per_10k": 1.5,
-   "vs_average": 0.52
+   "vs_average": 0.51
   }
  ],
  "episodes": [

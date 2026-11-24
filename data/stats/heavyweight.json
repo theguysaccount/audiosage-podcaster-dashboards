@@ -1,8 +1,8 @@
 {
  "slug": "heavyweight",
  "name": "Heavyweight",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/d08826cd-f888-4cd3-b700-b28e0126edbb/podcast.rss",
  "website": "https://www.pushkin.fm/podcasts",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/image.jpg?t=1753291848&size=Large",
@@ -19,7 +19,7 @@
    "phrase": "i remember",
    "count": 60,
    "episodes": 10,
-   "z": 10.98,
+   "z": 11.17,
    "moments": [
     {
      "episode": "0da7a58be6d0",
@@ -37,7 +37,7 @@
    "phrase": "tells me",
    "count": 16,
    "episodes": 8,
-   "z": 8.23,
+   "z": 8.28,
    "moments": [
     {
      "episode": "0da7a58be6d0",
@@ -55,7 +55,7 @@
    "phrase": "you remember",
    "count": 23,
    "episodes": 7,
-   "z": 8.11,
+   "z": 8.2,
    "moments": [
     {
      "episode": "05656f525473",
@@ -73,7 +73,7 @@
    "phrase": "his mom",
    "count": 13,
    "episodes": 5,
-   "z": 7.39,
+   "z": 7.46,
    "moments": [
     {
      "episode": "05656f525473",
@@ -106,10 +106,28 @@
    ]
   },
   {
+   "phrase": "after the break",
+   "count": 20,
+   "episodes": 10,
+   "z": 6.05,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 80,
+     "quote": "Today's episode, Sea-Doo. Right after the break. Some journeys are"
+    },
+    {
+     "episode": "05656f525473",
+     "at": 68,
+     "quote": "Today's episode, La Fortitudo. right after the break. Even I"
+    }
+   ]
+  },
+  {
    "phrase": "living room",
    "count": 9,
    "episodes": 4,
-   "z": 6.21,
+   "z": 5.96,
    "moments": [
     {
      "episode": "05656f525473",
@@ -124,28 +142,10 @@
    ]
   },
   {
-   "phrase": "theme song",
-   "count": 8,
-   "episodes": 8,
-   "z": 5.69,
-   "moments": [
-    {
-     "episode": "0da7a58be6d0",
-     "at": 2394,
-     "quote": "Dot Sessions. Our theme song is by The Weaker Thans,"
-    },
-    {
-     "episode": "05656f525473",
-     "at": 1601,
-     "quote": "set to roll the closing theme song to convey feelings"
-    }
-   ]
-  },
-  {
    "phrase": "high school",
    "count": 25,
    "episodes": 5,
-   "z": 5.65,
+   "z": 5.69,
    "moments": [
     {
      "episode": "05656f525473",
@@ -160,10 +160,28 @@
    ]
   },
   {
+   "phrase": "theme song",
+   "count": 8,
+   "episodes": 8,
+   "z": 5.68,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 2394,
+     "quote": "Dot Sessions. Our theme song is by The Weaker Thans,"
+    },
+    {
+     "episode": "05656f525473",
+     "at": 1601,
+     "quote": "set to roll the closing theme song to convey feelings"
+    }
+   ]
+  },
+  {
    "phrase": "years since",
    "count": 8,
    "episodes": 4,
-   "z": 5.52,
+   "z": 5.51,
    "moments": [
     {
      "episode": "27f3b50f668f",
@@ -174,6 +192,24 @@
      "episode": "c3c90d1c1aed",
      "at": 904,
      "quote": "It's been 40 years since the incident. 40 years since"
+    }
+   ]
+  },
+  {
+   "phrase": "just remember",
+   "count": 7,
+   "episodes": 4,
+   "z": 5.44,
+   "moments": [
+    {
+     "episode": "05656f525473",
+     "at": 1982,
+     "quote": "I just remember you going through a really, really hard time."
+    },
+    {
+     "episode": "61cd708fc418",
+     "at": 484,
+     "quote": "I just remember this very distinctly that my foster father"
     }
    ]
   },
@@ -194,42 +230,6 @@
      "quote": "Follow us on Instagram at heavyweightpodcast or email us at"
     }
    ]
-  },
-  {
-   "phrase": "just remember",
-   "count": 7,
-   "episodes": 4,
-   "z": 5.39,
-   "moments": [
-    {
-     "episode": "05656f525473",
-     "at": 1982,
-     "quote": "I just remember you going through a really, really hard time."
-    },
-    {
-     "episode": "61cd708fc418",
-     "at": 484,
-     "quote": "I just remember this very distinctly that my foster father"
-    }
-   ]
-  },
-  {
-   "phrase": "turns out",
-   "count": 13,
-   "episodes": 8,
-   "z": 5.36,
-   "moments": [
-    {
-     "episode": "0da7a58be6d0",
-     "at": 1406,
-     "quote": "he also looks just like my uncle. It turns out"
-    },
-    {
-     "episode": "61d2def36c18",
-     "at": 1609,
-     "quote": "the church. But it turns out that wasn't the case."
-    }
-   ]
   }
  ],
  "speakers": [],
@@ -239,52 +239,52 @@
   {
    "topic": "Family and relationships",
    "per_10k": 80.4,
-   "vs_average": 2.56
+   "vs_average": 2.57
   },
   {
    "topic": "Sports",
    "per_10k": 21.0,
-   "vs_average": 0.52
+   "vs_average": 0.51
   },
   {
    "topic": "Music",
    "per_10k": 13.7,
-   "vs_average": 1.41
+   "vs_average": 1.54
   },
   {
    "topic": "Health and medicine",
    "per_10k": 12.0,
-   "vs_average": 1.26
+   "vs_average": 1.22
   },
   {
    "topic": "Religion and spirituality",
    "per_10k": 12.0,
-   "vs_average": 1.26
+   "vs_average": 1.3
   },
   {
    "topic": "Food and drink",
    "per_10k": 7.8,
-   "vs_average": 0.94
+   "vs_average": 0.83
   },
   {
    "topic": "Movies, TV and entertainment",
    "per_10k": 6.1,
-   "vs_average": 0.27
+   "vs_average": 0.26
   },
   {
    "topic": "History",
    "per_10k": 5.9,
-   "vs_average": 0.93
+   "vs_average": 0.96
   },
   {
    "topic": "Crime and justice",
    "per_10k": 5.2,
-   "vs_average": 0.46
+   "vs_average": 0.45
   },
   {
    "topic": "Business and money",
    "per_10k": 3.8,
-   "vs_average": 0.15
+   "vs_average": 0.14
   },
   {
    "topic": "Politics and government",
@@ -294,17 +294,17 @@
   {
    "topic": "Science",
    "per_10k": 2.4,
-   "vs_average": 0.83
+   "vs_average": 0.82
   },
   {
    "topic": "Technology and AI",
    "per_10k": 2.1,
-   "vs_average": 0.18
+   "vs_average": 0.15
   },
   {
    "topic": "Climate and environment",
    "per_10k": 1.0,
-   "vs_average": 0.45
+   "vs_average": 0.44
   }
  ],
  "episodes": [

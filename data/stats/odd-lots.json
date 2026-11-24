@@ -1,35 +1,53 @@
 {
  "slug": "odd-lots",
  "name": "Odd Lots",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/podcast.rss",
  "website": "https://bloomberg.com/podcasts/odd_lots",
  "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/982f5071-765c-403d-969d-ae27003a8d83/image.jpg?t=1681322812&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-11-09",
- "latest_episode": "2026-11-21",
- "words_analyzed": 95944,
- "pace_wpm": 189.8,
- "minutes_median": 51.0,
+ "first_episode": "2026-11-12",
+ "latest_episode": "2026-11-24",
+ "words_analyzed": 92602,
+ "pace_wpm": 184.3,
+ "minutes_median": 49.1,
  "questions_per_100_sentences": 10.5,
- "variety": 0.4694,
+ "variety": 0.4688,
  "signature_phrases": [
   {
-   "phrase": "et cetera",
-   "count": 38,
-   "episodes": 9,
-   "z": 11.3,
+   "phrase": "data center",
+   "count": 37,
+   "episodes": 7,
+   "z": 11.06,
    "moments": [
     {
-     "episode": "a427fd61fd8a",
-     "at": 1899,
-     "quote": "all the molecules of the future, et cetera. And I'm"
+     "episode": "4375df19dcd6",
+     "at": 596,
+     "quote": "financed when we could see data center bonds blowing out."
     },
     {
      "episode": "da2776b0b49a",
-     "at": 981,
-     "quote": "of it, et cetera. Can you talk a little bit"
+     "at": 992,
+     "quote": "or you have to find a data center, or find"
+    }
+   ]
+  },
+  {
+   "phrase": "et cetera",
+   "count": 34,
+   "episodes": 9,
+   "z": 10.72,
+   "moments": [
+    {
+     "episode": "4375df19dcd6",
+     "at": 1585,
+     "quote": "S1 had recently dropped, et cetera. You talked to us"
+    },
+    {
+     "episode": "be56133c6ea8",
+     "at": 1377,
+     "quote": "it isn't what it used to be, et cetera. The"
     }
    ]
   },
@@ -37,107 +55,53 @@
    "phrase": "follow me",
    "count": 20,
    "episodes": 10,
-   "z": 8.2,
+   "z": 8.28,
    "moments": [
     {
-     "episode": "a427fd61fd8a",
-     "at": 2653,
-     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
+     "episode": "4375df19dcd6",
+     "at": 2077,
+     "quote": "I'm Traci Allaway. You can follow me at Traci Allaway."
     },
     {
-     "episode": "da2776b0b49a",
-     "at": 2815,
-     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
-    }
-   ]
-  },
-  {
-   "phrase": "data center",
-   "count": 36,
-   "episodes": 6,
-   "z": 7.75,
-   "moments": [
-    {
-     "episode": "da2776b0b49a",
-     "at": 992,
-     "quote": "or you have to find a data center, or find"
-    },
-    {
-     "episode": "9c381d255359",
-     "at": 119,
-     "quote": "if anything, if data center construction is going to slow down,"
-    }
-   ]
-  },
-  {
-   "phrase": "talk a little",
-   "count": 17,
-   "episodes": 8,
-   "z": 7.55,
-   "moments": [
-    {
-     "episode": "a427fd61fd8a",
-     "at": 1665,
-     "quote": "Can you talk a little bit more about, I guess,"
-    },
-    {
-     "episode": "da2776b0b49a",
-     "at": 523,
-     "quote": "tune open weights on that. Can you talk a little"
-    }
-   ]
-  },
-  {
-   "phrase": "long term",
-   "count": 17,
-   "episodes": 7,
-   "z": 7.1,
-   "moments": [
-    {
-     "episode": "a427fd61fd8a",
-     "at": 1403,
-     "quote": "then on, you see this long-term effort and building lithography"
-    },
-    {
-     "episode": "da2776b0b49a",
-     "at": 2328,
-     "quote": "and you could theoretically have temporary overbill, long-term massive shortage."
-    }
-   ]
-  },
-  {
-   "phrase": "bit more",
-   "count": 21,
-   "episodes": 9,
-   "z": 6.98,
-   "moments": [
-    {
-     "episode": "a427fd61fd8a",
-     "at": 1665,
-     "quote": "Can you talk a little bit more about, I guess,"
-    },
-    {
-     "episode": "da2776b0b49a",
-     "at": 2010,
-     "quote": "Let's talk a little bit more about the economics from"
+     "episode": "be56133c6ea8",
+     "at": 3453,
+     "quote": "I'm Traci Allaway. You can follow me at Traci Allaway."
     }
    ]
   },
   {
    "phrase": "trump administration",
-   "count": 14,
-   "episodes": 4,
-   "z": 6.63,
+   "count": 17,
+   "episodes": 5,
+   "z": 7.54,
    "moments": [
+    {
+     "episode": "4375df19dcd6",
+     "at": 818,
+     "quote": "idea of the Trump administration stepping in essentially to rescue Jensen. Right."
+    },
     {
      "episode": "a427fd61fd8a",
      "at": 1374,
      "quote": "during the first Trump administration, you got the effective ban"
+    }
+   ]
+  },
+  {
+   "phrase": "companies like",
+   "count": 14,
+   "episodes": 4,
+   "z": 6.81,
+   "moments": [
+    {
+     "episode": "be56133c6ea8",
+     "at": 183,
+     "quote": "like that from all these hundreds of companies, manufacturing companies. Like,"
     },
     {
-     "episode": "9c381d255359",
-     "at": 3364,
-     "quote": "maybe clarify where you see the Trump administration in terms"
+     "episode": "a427fd61fd8a",
+     "at": 644,
+     "quote": "have smartphone companies like Xiaomi making their own chips and"
     }
    ]
   },
@@ -145,17 +109,35 @@
    "phrase": "so forth",
    "count": 13,
    "episodes": 6,
-   "z": 6.61,
+   "z": 6.66,
    "moments": [
     {
-     "episode": "9c381d255359",
-     "at": 1421,
-     "quote": "be financing NeoClouds and so forth going into future financing"
+     "episode": "4375df19dcd6",
+     "at": 1415,
+     "quote": "you know, the Corweave bonds, so on and so forth."
     },
     {
-     "episode": "3954396b826a",
-     "at": 905,
-     "quote": "room and the guitar and so on and so forth, right?"
+     "episode": "be56133c6ea8",
+     "at": 253,
+     "quote": "great pieces published in New Yorker, New York Mag, so forth. So, Aphra,"
+    }
+   ]
+  },
+  {
+   "phrase": "about ai",
+   "count": 14,
+   "episodes": 4,
+   "z": 6.65,
+   "moments": [
+    {
+     "episode": "4375df19dcd6",
+     "at": 1154,
+     "quote": "you care about AI, these are front and center questions."
+    },
+    {
+     "episode": "be56133c6ea8",
+     "at": 27,
+     "quote": "fair amount of episodes about AI in China."
     }
    ]
   },
@@ -163,17 +145,53 @@
    "phrase": "can follow",
    "count": 20,
    "episodes": 10,
-   "z": 6.6,
+   "z": 6.64,
    "moments": [
     {
-     "episode": "a427fd61fd8a",
-     "at": 2653,
-     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
+     "episode": "4375df19dcd6",
+     "at": 2077,
+     "quote": "I'm Traci Allaway. You can follow me at Traci Allaway."
     },
     {
-     "episode": "da2776b0b49a",
-     "at": 2815,
-     "quote": "I'm Tracy Allaway. You can follow me at Tracy Allaway."
+     "episode": "be56133c6ea8",
+     "at": 3453,
+     "quote": "I'm Traci Allaway. You can follow me at Traci Allaway."
+    }
+   ]
+  },
+  {
+   "phrase": "talk a little",
+   "count": 13,
+   "episodes": 7,
+   "z": 6.64,
+   "moments": [
+    {
+     "episode": "be56133c6ea8",
+     "at": 2693,
+     "quote": "Can you talk a little bit more about the micro"
+    },
+    {
+     "episode": "a427fd61fd8a",
+     "at": 1665,
+     "quote": "Can you talk a little bit more about, I guess,"
+    }
+   ]
+  },
+  {
+   "phrase": "really interesting",
+   "count": 14,
+   "episodes": 6,
+   "z": 6.58,
+   "moments": [
+    {
+     "episode": "be56133c6ea8",
+     "at": 138,
+     "quote": "What's happening now that I think is really interesting is"
+    },
+    {
+     "episode": "a427fd61fd8a",
+     "at": 97,
+     "quote": "it's really interesting to see some companies that you wouldn't"
     }
    ]
   },
@@ -181,53 +199,35 @@
    "phrase": "much for coming",
    "count": 15,
    "episodes": 10,
-   "z": 6.52,
+   "z": 6.57,
    "moments": [
     {
-     "episode": "a427fd61fd8a",
-     "at": 313,
-     "quote": "much for coming on the podcast."
+     "episode": "4375df19dcd6",
+     "at": 174,
+     "quote": "thanks so much for coming back on All Thoughts."
     },
     {
-     "episode": "da2776b0b49a",
-     "at": 202,
-     "quote": "thank you so much for coming on All Thoughts."
-    }
-   ]
-  },
-  {
-   "phrase": "our producers",
-   "count": 12,
-   "episodes": 10,
-   "z": 6.21,
-   "moments": [
-    {
-     "episode": "a427fd61fd8a",
-     "at": 2663,
-     "quote": "Follow our producers, Carmen Rodriguez at CarmenArmond, Dashiell Bennett at Dashbot,"
-    },
-    {
-     "episode": "da2776b0b49a",
-     "at": 387,
-     "quote": "By the way, I hope our producers aren't listening to this."
+     "episode": "be56133c6ea8",
+     "at": 257,
+     "quote": "thank you so much for coming on the podcast."
     }
    ]
   },
   {
    "phrase": "questions about",
    "count": 12,
-   "episodes": 8,
-   "z": 6.15,
+   "episodes": 7,
+   "z": 6.35,
    "moments": [
+    {
+     "episode": "4375df19dcd6",
+     "at": 120,
+     "quote": "but there are still these questions about overcapacity, whether customers"
+    },
     {
      "episode": "da2776b0b49a",
      "at": 24,
      "quote": "Joe, there are still a lot of questions about the"
-    },
-    {
-     "episode": "9c381d255359",
-     "at": 104,
-     "quote": "and all this stuff and questions about ROI, etc., GPU"
     }
    ]
   }
@@ -238,76 +238,102 @@
  "topics": [
   {
    "topic": "Business and money",
-   "per_10k": 99.4,
-   "vs_average": 3.8
+   "per_10k": 106.6,
+   "vs_average": 3.87
   },
   {
    "topic": "Technology and AI",
-   "per_10k": 59.4,
-   "vs_average": 5.18
+   "per_10k": 80.6,
+   "vs_average": 5.85
   },
   {
    "topic": "Politics and government",
-   "per_10k": 27.8,
-   "vs_average": 1.98
+   "per_10k": 30.3,
+   "vs_average": 2.21
   },
   {
    "topic": "Sports",
-   "per_10k": 22.5,
-   "vs_average": 0.56
+   "per_10k": 22.6,
+   "vs_average": 0.55
   },
   {
    "topic": "Crime and justice",
-   "per_10k": 10.1,
-   "vs_average": 0.88
+   "per_10k": 10.8,
+   "vs_average": 0.93
   },
   {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 6.4,
-   "vs_average": 0.28
+   "per_10k": 6.7,
+   "vs_average": 0.29
   },
   {
    "topic": "Family and relationships",
-   "per_10k": 5.1,
-   "vs_average": 0.16
+   "per_10k": 5.3,
+   "vs_average": 0.17
   },
   {
    "topic": "History",
-   "per_10k": 5.0,
-   "vs_average": 0.79
+   "per_10k": 4.2,
+   "vs_average": 0.68
   },
   {
    "topic": "Science",
-   "per_10k": 4.6,
-   "vs_average": 1.56
-  },
-  {
-   "topic": "Climate and environment",
-   "per_10k": 2.1,
-   "vs_average": 0.91
-  },
-  {
-   "topic": "Food and drink",
-   "per_10k": 2.0,
-   "vs_average": 0.24
+   "per_10k": 4.0,
+   "vs_average": 1.35
   },
   {
    "topic": "Health and medicine",
-   "per_10k": 1.6,
-   "vs_average": 0.16
+   "per_10k": 2.7,
+   "vs_average": 0.27
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 1.8,
+   "vs_average": 0.78
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 1.7,
+   "vs_average": 0.18
   },
   {
    "topic": "Religion and spirituality",
-   "per_10k": 1.5,
-   "vs_average": 0.15
+   "per_10k": 1.3,
+   "vs_average": 0.14
   },
   {
    "topic": "Music",
-   "per_10k": 0.8,
-   "vs_average": 0.09
+   "per_10k": 0.9,
+   "vs_average": 0.1
   }
  ],
  "episodes": [
+  {
+   "id": "4375df19dcd6",
+   "title": "What Jensen Huang's Stunning Return Means for the AI Trade",
+   "date": "2026-11-24",
+   "link": "https://omny.fm/shows/odd-lots/what-jensen-huangs-stunning-return-means-for-the-ai-trade",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e1cd0e3e-9e03-40db-bc4b-b50b0165eab4/transcript?format=WebVTT&t=1795470412",
+   "minutes": 35.6,
+   "words": 6489,
+   "wpm": 182.3,
+   "questions_per_100_sentences": 9.2,
+   "variety": 0.4802
+  },
+  {
+   "id": "be56133c6ea8",
+   "title": "What a Town Full of Vibecoders Says About the Chinese Economy",
+   "date": "2026-11-23",
+   "link": "https://omny.fm/shows/odd-lots/what-a-town-full-of-vibecoders-says-about-the-chinese-economy",
+   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/ef741101-1572-4ac7-b9c9-b507017075ac/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ef741101-1572-4ac7-b9c9-b507017075ac/transcript?format=WebVTT&t=1795127244",
+   "minutes": 58.6,
+   "words": 9885,
+   "wpm": 168.6,
+   "questions_per_100_sentences": 9.0,
+   "variety": 0.4687
+  },
   {
    "id": "a427fd61fd8a",
    "title": "How AI Is Forcing China to Reshape Industrial Policy",
@@ -411,32 +437,6 @@
    "wpm": 179.2,
    "questions_per_100_sentences": 11.2,
    "variety": 0.47
-  },
-  {
-   "id": "b510f7f5ee38",
-   "title": "The Perfect Storm That Clobbered Hedge Funds",
-   "date": "2026-11-11",
-   "link": "https://omny.fm/shows/odd-lots/the-perfect-storm-that-clobbered-hedge-funds",
-   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/d50c15fb-6c5a-4836-89a2-b4fe0174107c/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d50c15fb-6c5a-4836-89a2-b4fe0174107c/transcript?format=WebVTT&t=1794350284",
-   "minutes": 51.7,
-   "words": 9409,
-   "wpm": 182.1,
-   "questions_per_100_sentences": 9.9,
-   "variety": 0.4779
-  },
-  {
-   "id": "071072f1efd5",
-   "title": "This Is How New York City Takes Out Its Trash",
-   "date": "2026-11-09",
-   "link": "https://omny.fm/shows/odd-lots/this-is-how-new-york-city-takes-out-its-trash",
-   "audio": "https://podtrac.com/pts/redirect.mp3/tracking.swap.fm/track/UVBrz8bN8aM2Xe47PEPu/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/8a94442e-5a74-4fa2-8b8d-ae27003a8d6b/15e58d4b-0964-4cc7-a53b-b4fa01669ff2/audio.mp3?utm_source=Podcast&in_playlist=982f5071-765c-403d-969d-ae27003a8d83",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/15e58d4b-0964-4cc7-a53b-b4fa01669ff2/transcript?format=WebVTT&t=1794001769",
-   "minutes": 52.5,
-   "words": 10307,
-   "wpm": 196.2,
-   "questions_per_100_sentences": 8.2,
-   "variety": 0.4786
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "slug": "las-culturistas",
  "name": "Las Culturistas",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/935c500f-8bb0-436b-ba7f-ae2700391b49/podcast.rss",
  "website": "https://twitter.com/LasCulturistas",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/image.jpg?t=1794944259&size=Large",
@@ -19,7 +19,7 @@
    "phrase": "feel like",
    "count": 169,
    "episodes": 9,
-   "z": 14.31,
+   "z": 14.07,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -37,7 +37,7 @@
    "phrase": "oh my god",
    "count": 115,
    "episodes": 9,
-   "z": 13.48,
+   "z": 13.5,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -55,7 +55,7 @@
    "phrase": "time it's",
    "count": 40,
    "episodes": 9,
-   "z": 10.35,
+   "z": 10.34,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -73,7 +73,7 @@
    "phrase": "you guys",
    "count": 120,
    "episodes": 9,
-   "z": 9.18,
+   "z": 8.84,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -91,7 +91,7 @@
    "phrase": "you heard",
    "count": 29,
    "episodes": 9,
-   "z": 8.33,
+   "z": 8.32,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -109,7 +109,7 @@
    "phrase": "i loved",
    "count": 28,
    "episodes": 7,
-   "z": 8.31,
+   "z": 8.29,
    "moments": [
     {
      "episode": "750e15c2317c",
@@ -127,7 +127,7 @@
    "phrase": "so funny",
    "count": 29,
    "episodes": 9,
-   "z": 8.1,
+   "z": 7.84,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -145,7 +145,7 @@
    "phrase": "we love",
    "count": 35,
    "episodes": 8,
-   "z": 7.79,
+   "z": 7.77,
    "moments": [
     {
      "episode": "750e15c2317c",
@@ -163,7 +163,7 @@
    "phrase": "one minute",
    "count": 23,
    "episodes": 9,
-   "z": 7.48,
+   "z": 7.62,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -181,7 +181,7 @@
    "phrase": "my hands",
    "count": 19,
    "episodes": 9,
-   "z": 7.14,
+   "z": 7.08,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -199,7 +199,7 @@
    "phrase": "so honey",
    "count": 109,
    "episodes": 9,
-   "z": 7.0,
+   "z": 6.99,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -217,7 +217,7 @@
    "phrase": "everybody it's",
    "count": 18,
    "episodes": 9,
-   "z": 6.95,
+   "z": 6.94,
    "moments": [
     {
      "episode": "5f31195192f3",
@@ -239,27 +239,27 @@
   {
    "topic": "Movies, TV and entertainment",
    "per_10k": 37.7,
-   "vs_average": 1.69
+   "vs_average": 1.62
   },
   {
    "topic": "Family and relationships",
    "per_10k": 23.1,
-   "vs_average": 0.73
+   "vs_average": 0.74
   },
   {
    "topic": "Music",
    "per_10k": 22.5,
-   "vs_average": 2.31
+   "vs_average": 2.53
   },
   {
    "topic": "Religion and spirituality",
    "per_10k": 13.6,
-   "vs_average": 1.43
+   "vs_average": 1.48
   },
   {
    "topic": "Food and drink",
    "per_10k": 8.5,
-   "vs_average": 1.02
+   "vs_average": 0.9
   },
   {
    "topic": "Sports",
@@ -269,37 +269,37 @@
   {
    "topic": "Health and medicine",
    "per_10k": 7.9,
-   "vs_average": 0.82
+   "vs_average": 0.8
   },
   {
    "topic": "Business and money",
    "per_10k": 7.1,
-   "vs_average": 0.27
+   "vs_average": 0.26
   },
   {
    "topic": "Politics and government",
    "per_10k": 6.6,
-   "vs_average": 0.47
+   "vs_average": 0.48
   },
   {
    "topic": "Technology and AI",
    "per_10k": 5.6,
-   "vs_average": 0.49
+   "vs_average": 0.41
   },
   {
    "topic": "History",
    "per_10k": 3.5,
-   "vs_average": 0.54
+   "vs_average": 0.56
   },
   {
    "topic": "Climate and environment",
    "per_10k": 2.6,
-   "vs_average": 1.15
+   "vs_average": 1.13
   },
   {
    "topic": "Science",
    "per_10k": 1.8,
-   "vs_average": 0.6
+   "vs_average": 0.59
   },
   {
    "topic": "Crime and justice",

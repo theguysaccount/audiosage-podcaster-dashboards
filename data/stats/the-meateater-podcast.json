@@ -1,89 +1,125 @@
 {
  "slug": "the-meateater-podcast",
  "name": "The MeatEater Podcast",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss",
  "website": "https://themeateater.com/listen/meateater",
  "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/image.jpg?t=1788302418&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-11-02",
- "latest_episode": "2026-11-19",
- "words_analyzed": 128785,
- "pace_wpm": 157.3,
- "minutes_median": 78.5,
+ "first_episode": "2026-11-04",
+ "latest_episode": "2026-11-23",
+ "words_analyzed": 123584,
+ "pace_wpm": 157.9,
+ "minutes_median": 78.2,
  "questions_per_100_sentences": 8.5,
  "variety": 0.4628,
  "signature_phrases": [
   {
    "phrase": "went back",
-   "count": 22,
+   "count": 21,
    "episodes": 6,
-   "z": 7.04,
+   "z": 6.96,
    "moments": [
+    {
+     "episode": "2620b8505a95",
+     "at": 102,
+     "quote": "other than hunt and went back and ended up getting"
+    },
     {
      "episode": "aa3476cb21d6",
      "at": 2777,
      "quote": "I went back and talked to my buddy who was"
-    },
-    {
-     "episode": "e7a1d41f8be8",
-     "at": 998,
-     "quote": "got away. But we went back a few days later,"
     }
    ]
   },
   {
    "phrase": "my buddy",
-   "count": 12,
-   "episodes": 6,
-   "z": 5.77,
+   "count": 14,
+   "episodes": 7,
+   "z": 6.35,
    "moments": [
+    {
+     "episode": "2620b8505a95",
+     "at": 2946,
+     "quote": "knocked everything. I'm just, you know, look at my buddy."
+    },
     {
      "episode": "aa3476cb21d6",
      "at": 2526,
      "quote": "got out on it, couldn't find him. My buddy ended"
-    },
-    {
-     "episode": "e7a1d41f8be8",
-     "at": 993,
-     "quote": "I killed a buck. My buddy had no shell in"
     }
    ]
   },
   {
-   "phrase": "come up",
-   "count": 25,
-   "episodes": 7,
-   "z": 5.44,
+   "phrase": "yeah man",
+   "count": 15,
+   "episodes": 4,
+   "z": 6.32,
    "moments": [
     {
-     "episode": "144c764fa3d9",
-     "at": 711,
-     "quote": "of that movie. Nate, the only player to come up"
+     "episode": "2620b8505a95",
+     "at": 2211,
+     "quote": "these things that I, that I haven't done. So like, yeah, man,"
     },
     {
-     "episode": "e7a1d41f8be8",
-     "at": 3051,
-     "quote": "You said you'd come up to hunt whitetails during the rut."
+     "episode": "aa3476cb21d6",
+     "at": 3057,
+     "quote": "No, this is a much better format. Yeah, man."
     }
    ]
   },
   {
    "phrase": "i understand",
-   "count": 27,
+   "count": 29,
    "episodes": 6,
-   "z": 5.04,
+   "z": 6.04,
    "moments": [
+    {
+     "episode": "2620b8505a95",
+     "at": 1360,
+     "quote": "night or whatever like that. I understand, as a fan,"
+    },
     {
      "episode": "aa3476cb21d6",
      "at": 393,
      "quote": "I understand what you're saying."
+    }
+   ]
+  },
+  {
+   "phrase": "meat eater",
+   "count": 24,
+   "episodes": 8,
+   "z": 5.66,
+   "moments": [
+    {
+     "episode": "2620b8505a95",
+     "at": 8,
+     "quote": "This is the meat-eater podcast coming at you shirtless, severely bug-bitten,"
     },
     {
-     "episode": "e7a1d41f8be8",
-     "at": 1705,
-     "quote": "I understand."
+     "episode": "144c764fa3d9",
+     "at": 10,
+     "quote": "Welcome to Meat Eater Trivia, the only game show where"
+    }
+   ]
+  },
+  {
+   "phrase": "he goes",
+   "count": 26,
+   "episodes": 7,
+   "z": 5.2,
+   "moments": [
+    {
+     "episode": "2620b8505a95",
+     "at": 1000,
+     "quote": "the blind, and I'm like, David, it's really cold. He goes,"
+    },
+    {
+     "episode": "aa3476cb21d6",
+     "at": 3263,
+     "quote": "meetings in Westminster, Colorado. He goes on to say this"
     }
    ]
   },
@@ -91,7 +127,7 @@
    "phrase": "big old",
    "count": 9,
    "episodes": 7,
-   "z": 5.02,
+   "z": 5.1,
    "moments": [
     {
      "episode": "aa3476cb21d6",
@@ -106,20 +142,20 @@
    ]
   },
   {
-   "phrase": "he goes",
-   "count": 27,
-   "episodes": 7,
-   "z": 4.99,
+   "phrase": "how many",
+   "count": 33,
+   "episodes": 9,
+   "z": 5.08,
    "moments": [
     {
-     "episode": "aa3476cb21d6",
-     "at": 3263,
-     "quote": "meetings in Westminster, Colorado. He goes on to say this"
+     "episode": "2620b8505a95",
+     "at": 2043,
+     "quote": "everything else. And I'm like, like, how many, how'd you"
     },
     {
-     "episode": "e7a1d41f8be8",
-     "at": 688,
-     "quote": "them to a taxidermy in Arlington. He goes, you're going"
+     "episode": "aa3476cb21d6",
+     "at": 1008,
+     "quote": "Land and Water Conservation Fund. How many minutes am I"
     }
    ]
   },
@@ -130,14 +166,14 @@
    "z": 4.94,
    "moments": [
     {
+     "episode": "2620b8505a95",
+     "at": 1759,
+     "quote": "Like I've gone to the well, maybe one time too many."
+    },
+    {
      "episode": "aa3476cb21d6",
      "at": 2108,
      "quote": "those spots. Um, and one time it worked, we didn't,"
-    },
-    {
-     "episode": "144c764fa3d9",
-     "at": 447,
-     "quote": "I looked it up one time because I was confused."
     }
    ]
   },
@@ -145,89 +181,53 @@
    "phrase": "my wife",
    "count": 27,
    "episodes": 6,
-   "z": 4.9,
+   "z": 4.77,
    "moments": [
+    {
+     "episode": "2620b8505a95",
+     "at": 3345,
+     "quote": "Yeah. So my wife has no, she doesn't, she don't"
+    },
     {
      "episode": "aa3476cb21d6",
      "at": 2840,
      "quote": "her ears are going to be fine. And my wife,"
-    },
-    {
-     "episode": "e7a1d41f8be8",
-     "at": 792,
-     "quote": "me with that. I packed my wife and kid up"
     }
    ]
   },
   {
-   "phrase": "how many",
-   "count": 34,
-   "episodes": 9,
-   "z": 4.65,
+   "phrase": "come up",
+   "count": 21,
+   "episodes": 7,
+   "z": 4.62,
    "moments": [
     {
-     "episode": "aa3476cb21d6",
-     "at": 1008,
-     "quote": "Land and Water Conservation Fund. How many minutes am I"
+     "episode": "2620b8505a95",
+     "at": 4423,
+     "quote": "that want to come up in this, At what point"
     },
     {
      "episode": "144c764fa3d9",
-     "at": 328,
-     "quote": "about how many colors are on the Fire Danger Today sign."
+     "at": 711,
+     "quote": "of that movie. Nate, the only player to come up"
     }
    ]
   },
   {
-   "phrase": "like man",
-   "count": 18,
-   "episodes": 8,
-   "z": 4.38,
-   "moments": [
-    {
-     "episode": "aa3476cb21d6",
-     "at": 935,
-     "quote": "It kind of seems like he's like, man, you guys"
-    },
-    {
-     "episode": "e7a1d41f8be8",
-     "at": 2560,
-     "quote": "Up like, man, I'd give anything to kill a buck"
-    }
-   ]
-  },
-  {
-   "phrase": "three year",
-   "count": 7,
+   "phrase": "sitting there",
+   "count": 12,
    "episodes": 5,
-   "z": 4.13,
+   "z": 4.53,
    "moments": [
     {
-     "episode": "144c764fa3d9",
-     "at": 1517,
-     "quote": "grabbing a three-year-old boy who crawled into the gorilla's enclosure."
-    },
-    {
-     "episode": "c36b73986b36",
-     "at": 2800,
-     "quote": "taking those two- and three-year-old bucks. And he's an avid amateur."
-    }
-   ]
-  },
-  {
-   "phrase": "care about",
-   "count": 20,
-   "episodes": 6,
-   "z": 3.96,
-   "moments": [
-    {
-     "episode": "aa3476cb21d6",
-     "at": 241,
-     "quote": "not a thing that he would natively care about, right?"
+     "episode": "2620b8505a95",
+     "at": 2077,
+     "quote": "That's why, I mean, I love sitting there and grilling,"
     },
     {
      "episode": "e7a1d41f8be8",
-     "at": 673,
-     "quote": "really care about the deer. It was just who you"
+     "at": 1833,
+     "quote": "the guy that gave me the extra cape was sitting there,"
     }
    ]
   }
@@ -238,76 +238,89 @@
  "topics": [
   {
    "topic": "Family and relationships",
-   "per_10k": 24.4,
-   "vs_average": 0.78
-  },
-  {
-   "topic": "Politics and government",
-   "per_10k": 16.0,
-   "vs_average": 1.14
-  },
-  {
-   "topic": "Business and money",
-   "per_10k": 15.2,
-   "vs_average": 0.58
+   "per_10k": 26.8,
+   "vs_average": 0.86
   },
   {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 13.9,
-   "vs_average": 0.62
+   "per_10k": 16.3,
+   "vs_average": 0.7
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 13.2,
+   "vs_average": 0.48
   },
   {
    "topic": "Sports",
-   "per_10k": 12.9,
+   "per_10k": 13.2,
    "vs_average": 0.32
   },
   {
-   "topic": "Crime and justice",
-   "per_10k": 10.5,
-   "vs_average": 0.92
+   "topic": "Music",
+   "per_10k": 10.4,
+   "vs_average": 1.16
   },
   {
-   "topic": "Music",
-   "per_10k": 9.9,
-   "vs_average": 1.02
+   "topic": "Crime and justice",
+   "per_10k": 10.3,
+   "vs_average": 0.89
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 10.2,
+   "vs_average": 0.74
   },
   {
    "topic": "Food and drink",
-   "per_10k": 8.0,
-   "vs_average": 0.96
+   "per_10k": 8.3,
+   "vs_average": 0.87
   },
   {
    "topic": "Religion and spirituality",
-   "per_10k": 7.2,
-   "vs_average": 0.76
-  },
-  {
-   "topic": "History",
-   "per_10k": 5.9,
-   "vs_average": 0.93
+   "per_10k": 7.5,
+   "vs_average": 0.82
   },
   {
    "topic": "Health and medicine",
-   "per_10k": 5.1,
-   "vs_average": 0.54
+   "per_10k": 4.9,
+   "vs_average": 0.5
   },
   {
-   "topic": "Science",
-   "per_10k": 4.8,
-   "vs_average": 1.63
+   "topic": "History",
+   "per_10k": 4.5,
+   "vs_average": 0.74
   },
   {
    "topic": "Climate and environment",
    "per_10k": 4.5,
-   "vs_average": 1.97
+   "vs_average": 1.9
+  },
+  {
+   "topic": "Science",
+   "per_10k": 4.3,
+   "vs_average": 1.45
   },
   {
    "topic": "Technology and AI",
-   "per_10k": 2.6,
-   "vs_average": 0.23
+   "per_10k": 2.3,
+   "vs_average": 0.17
   }
  ],
  "episodes": [
+  {
+   "id": "2620b8505a95",
+   "title": "Ep. 964: Hunting with The Undertaker",
+   "date": "2026-11-23",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-964-hunting-with-the-undertaker",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/ed4945d7-2d15-41b5-a015-b5070184f7ca/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/ed4945d7-2d15-41b5-a015-b5070184f7ca/transcript?format=WebVTT&t=1795132317",
+   "minutes": 80.8,
+   "words": 13706,
+   "wpm": 169.6,
+   "questions_per_100_sentences": 9.3,
+   "variety": 0.39
+  },
   {
    "id": "aa3476cb21d6",
    "title": "Ep. 963: A Public Lands Ass Chapper",
@@ -424,19 +437,6 @@
    "wpm": 155.4,
    "questions_per_100_sentences": 10.2,
    "variety": 0.5005
-  },
-  {
-   "id": "bc96778376a9",
-   "title": "Ep. 954: A Public Land Warrior",
-   "date": "2026-11-02",
-   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-954-a-public-land-warrior",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/d0789328-15d4-4e89-99e2-b4f30152cc40/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/d0789328-15d4-4e89-99e2-b4f30152cc40/transcript?format=WebVTT&t=1793393495",
-   "minutes": 120.6,
-   "words": 18907,
-   "wpm": 156.8,
-   "questions_per_100_sentences": 9.8,
-   "variety": 0.4446
   }
  ]
 }

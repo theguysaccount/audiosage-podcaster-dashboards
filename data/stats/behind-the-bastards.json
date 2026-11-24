@@ -1,8 +1,8 @@
 {
  "slug": "behind-the-bastards",
  "name": "Behind the Bastards",
- "updated": "2026-11-22",
- "built": "2026-11-22",
+ "updated": "2026-11-24",
+ "built": "2026-11-24",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss",
  "website": "https://www.iheart.com/podcast/105-behind-the-bastards-29236323/",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/image.jpg?t=1749761552&size=Large",
@@ -16,10 +16,28 @@
  "variety": 0.4919,
  "signature_phrases": [
   {
+   "phrase": "he gets",
+   "count": 38,
+   "episodes": 10,
+   "z": 8.7,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 604,
+     "quote": "So he gets shot in this hunting accident, and he"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 272,
+     "quote": "even sentenced. He gets sentenced like the week this comes out. Yeah."
+    }
+   ]
+  },
+  {
    "phrase": "period of time",
    "count": 28,
    "episodes": 6,
-   "z": 8.45,
+   "z": 8.59,
    "moments": [
     {
      "episode": "d46805e5b8d4",
@@ -37,7 +55,7 @@
    "phrase": "guy who",
    "count": 36,
    "episodes": 10,
-   "z": 8.34,
+   "z": 8.32,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -52,28 +70,10 @@
    ]
   },
   {
-   "phrase": "he gets",
-   "count": 38,
-   "episodes": 10,
-   "z": 8.12,
-   "moments": [
-    {
-     "episode": "f57455cda6f0",
-     "at": 604,
-     "quote": "So he gets shot in this hunting accident, and he"
-    },
-    {
-     "episode": "d46805e5b8d4",
-     "at": 272,
-     "quote": "even sentenced. He gets sentenced like the week this comes out. Yeah."
-    }
-   ]
-  },
-  {
    "phrase": "he starts",
    "count": 26,
    "episodes": 9,
-   "z": 7.72,
+   "z": 7.77,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -88,46 +88,10 @@
    ]
   },
   {
-   "phrase": "may have",
-   "count": 28,
-   "episodes": 8,
-   "z": 7.31,
-   "moments": [
-    {
-     "episode": "f57455cda6f0",
-     "at": 1891,
-     "quote": "may have tailored his message personally. Some people clearly are"
-    },
-    {
-     "episode": "d46805e5b8d4",
-     "at": 318,
-     "quote": "For his cold, yeah. So Paul may have been born"
-    }
-   ]
-  },
-  {
-   "phrase": "he started",
-   "count": 24,
-   "episodes": 10,
-   "z": 7.02,
-   "moments": [
-    {
-     "episode": "f57455cda6f0",
-     "at": 197,
-     "quote": "he started his cult? Probably not. But you know what?"
-    },
-    {
-     "episode": "d46805e5b8d4",
-     "at": 807,
-     "quote": "us joined his ministry until he started preaching outside the Bible."
-    }
-   ]
-  },
-  {
    "phrase": "his life",
    "count": 26,
    "episodes": 6,
-   "z": 7.0,
+   "z": 7.64,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -142,10 +106,28 @@
    ]
   },
   {
+   "phrase": "may have",
+   "count": 28,
+   "episodes": 8,
+   "z": 7.17,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 1891,
+     "quote": "may have tailored his message personally. Some people clearly are"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 318,
+     "quote": "For his cold, yeah. So Paul may have been born"
+    }
+   ]
+  },
+  {
    "phrase": "white people",
    "count": 21,
    "episodes": 4,
-   "z": 6.95,
+   "z": 6.94,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -160,20 +142,20 @@
    ]
   },
   {
-   "phrase": "he wanted",
-   "count": 25,
-   "episodes": 7,
-   "z": 6.77,
+   "phrase": "he started",
+   "count": 24,
+   "episodes": 10,
+   "z": 6.86,
    "moments": [
     {
      "episode": "f57455cda6f0",
-     "at": 2342,
-     "quote": "to pursue the degree he wanted because he was poor."
+     "at": 197,
+     "quote": "he started his cult? Probably not. But you know what?"
     },
     {
-     "episode": "7dfe703646ed",
-     "at": 854,
-     "quote": "which laid out the kind of films he wanted to"
+     "episode": "d46805e5b8d4",
+     "at": 807,
+     "quote": "us joined his ministry until he started preaching outside the Bible."
     }
    ]
   },
@@ -181,7 +163,7 @@
    "phrase": "part two",
    "count": 18,
    "episodes": 7,
-   "z": 6.44,
+   "z": 6.82,
    "moments": [
     {
      "episode": "d46805e5b8d4",
@@ -196,10 +178,28 @@
    ]
   },
   {
+   "phrase": "he wanted",
+   "count": 25,
+   "episodes": 7,
+   "z": 6.62,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 2342,
+     "quote": "to pursue the degree he wanted because he was poor."
+    },
+    {
+     "episode": "7dfe703646ed",
+     "at": 854,
+     "quote": "which laid out the kind of films he wanted to"
+    }
+   ]
+  },
+  {
    "phrase": "we're back",
    "count": 20,
    "episodes": 10,
-   "z": 6.27,
+   "z": 6.25,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -217,7 +217,7 @@
    "phrase": "people who",
    "count": 66,
    "episodes": 10,
-   "z": 6.24,
+   "z": 6.16,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -239,37 +239,37 @@
   {
    "topic": "Movies, TV and entertainment",
    "per_10k": 40.0,
-   "vs_average": 1.79
+   "vs_average": 1.72
   },
   {
    "topic": "Business and money",
    "per_10k": 36.4,
-   "vs_average": 1.39
+   "vs_average": 1.32
   },
   {
    "topic": "Family and relationships",
    "per_10k": 36.0,
-   "vs_average": 1.14
+   "vs_average": 1.15
   },
   {
    "topic": "Politics and government",
    "per_10k": 23.6,
-   "vs_average": 1.68
+   "vs_average": 1.72
   },
   {
    "topic": "Crime and justice",
    "per_10k": 20.5,
-   "vs_average": 1.79
+   "vs_average": 1.77
   },
   {
    "topic": "Religion and spirituality",
    "per_10k": 18.8,
-   "vs_average": 1.98
+   "vs_average": 2.05
   },
   {
    "topic": "Health and medicine",
    "per_10k": 13.8,
-   "vs_average": 1.45
+   "vs_average": 1.4
   },
   {
    "topic": "Sports",
@@ -279,22 +279,22 @@
   {
    "topic": "History",
    "per_10k": 9.8,
-   "vs_average": 1.55
+   "vs_average": 1.6
   },
   {
    "topic": "Technology and AI",
    "per_10k": 7.3,
-   "vs_average": 0.64
+   "vs_average": 0.53
   },
   {
    "topic": "Food and drink",
    "per_10k": 7.1,
-   "vs_average": 0.85
+   "vs_average": 0.75
   },
   {
    "topic": "Music",
    "per_10k": 4.4,
-   "vs_average": 0.45
+   "vs_average": 0.5
   },
   {
    "topic": "Science",
@@ -304,7 +304,7 @@
   {
    "topic": "Climate and environment",
    "per_10k": 1.8,
-   "vs_average": 0.77
+   "vs_average": 0.75
   }
  ],
  "episodes": [
