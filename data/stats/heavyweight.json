@@ -1,8 +1,8 @@
 {
  "slug": "heavyweight",
  "name": "Heavyweight",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/d08826cd-f888-4cd3-b700-b28e0126edbb/podcast.rss",
  "website": "https://www.pushkin.fm/podcasts",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/afbd76b8-eff2-442a-b938-b28e0126edad/image.jpg?t=1753291848&size=Large",
@@ -19,7 +19,7 @@
    "phrase": "i remember",
    "count": 60,
    "episodes": 10,
-   "z": 11.17,
+   "z": 11.31,
    "moments": [
     {
      "episode": "0da7a58be6d0",
@@ -37,7 +37,7 @@
    "phrase": "tells me",
    "count": 16,
    "episodes": 8,
-   "z": 8.28,
+   "z": 8.25,
    "moments": [
     {
      "episode": "0da7a58be6d0",
@@ -55,7 +55,7 @@
    "phrase": "you remember",
    "count": 23,
    "episodes": 7,
-   "z": 8.2,
+   "z": 8.01,
    "moments": [
     {
      "episode": "05656f525473",
@@ -73,7 +73,7 @@
    "phrase": "his mom",
    "count": 13,
    "episodes": 5,
-   "z": 7.46,
+   "z": 7.19,
    "moments": [
     {
      "episode": "05656f525473",
@@ -88,64 +88,10 @@
    ]
   },
   {
-   "phrase": "she tells",
-   "count": 10,
-   "episodes": 5,
-   "z": 6.22,
-   "moments": [
-    {
-     "episode": "0da7a58be6d0",
-     "at": 1447,
-     "quote": "and English. She tells me she's been having trouble sleeping"
-    },
-    {
-     "episode": "c3c90d1c1aed",
-     "at": 1467,
-     "quote": "lives in Ireland. The first time we speak, she tells"
-    }
-   ]
-  },
-  {
-   "phrase": "after the break",
-   "count": 20,
-   "episodes": 10,
-   "z": 6.05,
-   "moments": [
-    {
-     "episode": "0da7a58be6d0",
-     "at": 80,
-     "quote": "Today's episode, Sea-Doo. Right after the break. Some journeys are"
-    },
-    {
-     "episode": "05656f525473",
-     "at": 68,
-     "quote": "Today's episode, La Fortitudo. right after the break. Even I"
-    }
-   ]
-  },
-  {
-   "phrase": "living room",
-   "count": 9,
-   "episodes": 4,
-   "z": 5.96,
-   "moments": [
-    {
-     "episode": "05656f525473",
-     "at": 647,
-     "quote": "I have my jersey framed in my living room. I"
-    },
-    {
-     "episode": "7aa6655d0e80",
-     "at": 543,
-     "quote": "For proof, you need look no further than Deborah's living room."
-    }
-   ]
-  },
-  {
    "phrase": "high school",
    "count": 25,
    "episodes": 5,
-   "z": 5.69,
+   "z": 6.42,
    "moments": [
     {
      "episode": "05656f525473",
@@ -160,10 +106,28 @@
    ]
   },
   {
+   "phrase": "living room",
+   "count": 9,
+   "episodes": 4,
+   "z": 6.01,
+   "moments": [
+    {
+     "episode": "05656f525473",
+     "at": 647,
+     "quote": "I have my jersey framed in my living room. I"
+    },
+    {
+     "episode": "7aa6655d0e80",
+     "at": 543,
+     "quote": "For proof, you need look no further than Deborah's living room."
+    }
+   ]
+  },
+  {
    "phrase": "theme song",
    "count": 8,
    "episodes": 8,
-   "z": 5.68,
+   "z": 5.66,
    "moments": [
     {
      "episode": "0da7a58be6d0",
@@ -181,7 +145,7 @@
    "phrase": "years since",
    "count": 8,
    "episodes": 4,
-   "z": 5.51,
+   "z": 5.49,
    "moments": [
     {
      "episode": "27f3b50f668f",
@@ -199,7 +163,7 @@
    "phrase": "just remember",
    "count": 7,
    "episodes": 4,
-   "z": 5.44,
+   "z": 5.46,
    "moments": [
     {
      "episode": "05656f525473",
@@ -214,10 +178,46 @@
    ]
   },
   {
+   "phrase": "my parents",
+   "count": 13,
+   "episodes": 5,
+   "z": 5.43,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 1696,
+     "quote": "Where's your name from, he asks. Oh, my parents got"
+    },
+    {
+     "episode": "05656f525473",
+     "at": 220,
+     "quote": "About six weeks after he died, I told my parents"
+    }
+   ]
+  },
+  {
+   "phrase": "turns out",
+   "count": 13,
+   "episodes": 8,
+   "z": 5.43,
+   "moments": [
+    {
+     "episode": "0da7a58be6d0",
+     "at": 1406,
+     "quote": "he also looks just like my uncle. It turns out"
+    },
+    {
+     "episode": "61d2def36c18",
+     "at": 1609,
+     "quote": "the church. But it turns out that wasn't the case."
+    }
+   ]
+  },
+  {
    "phrase": "email us",
    "count": 7,
    "episodes": 7,
-   "z": 5.4,
+   "z": 5.39,
    "moments": [
     {
      "episode": "0da7a58be6d0",
@@ -239,47 +239,47 @@
   {
    "topic": "Family and relationships",
    "per_10k": 80.4,
-   "vs_average": 2.57
+   "vs_average": 2.59
   },
   {
    "topic": "Sports",
    "per_10k": 21.0,
-   "vs_average": 0.51
+   "vs_average": 0.52
   },
   {
    "topic": "Music",
    "per_10k": 13.7,
-   "vs_average": 1.54
+   "vs_average": 1.63
   },
   {
    "topic": "Health and medicine",
    "per_10k": 12.0,
-   "vs_average": 1.22
+   "vs_average": 1.27
   },
   {
    "topic": "Religion and spirituality",
    "per_10k": 12.0,
-   "vs_average": 1.3
+   "vs_average": 1.33
   },
   {
    "topic": "Food and drink",
    "per_10k": 7.8,
-   "vs_average": 0.83
+   "vs_average": 0.81
   },
   {
    "topic": "Movies, TV and entertainment",
    "per_10k": 6.1,
-   "vs_average": 0.26
+   "vs_average": 0.25
   },
   {
    "topic": "History",
    "per_10k": 5.9,
-   "vs_average": 0.96
+   "vs_average": 0.95
   },
   {
    "topic": "Crime and justice",
    "per_10k": 5.2,
-   "vs_average": 0.45
+   "vs_average": 0.43
   },
   {
    "topic": "Business and money",
@@ -289,22 +289,22 @@
   {
    "topic": "Politics and government",
    "per_10k": 3.5,
-   "vs_average": 0.25
+   "vs_average": 0.27
   },
   {
    "topic": "Science",
    "per_10k": 2.4,
-   "vs_average": 0.82
+   "vs_average": 0.78
   },
   {
    "topic": "Technology and AI",
    "per_10k": 2.1,
-   "vs_average": 0.15
+   "vs_average": 0.16
   },
   {
    "topic": "Climate and environment",
    "per_10k": 1.0,
-   "vs_average": 0.44
+   "vs_average": 0.43
   }
  ],
  "episodes": [

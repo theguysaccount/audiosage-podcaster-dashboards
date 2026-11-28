@@ -1,5 +1,5 @@
 {
- "built": "2026-11-24",
+ "built": "2026-11-28",
  "shows_in_this_run": [
   "behind-the-bastards",
   "heavyweight",
@@ -15,20 +15,20 @@
   "the-meateater-podcast"
  ],
  "topic_average_per_10k": {
-  "Technology and AI": 13.8,
-  "Business and money": 27.6,
-  "Health and medicine": 9.8,
-  "Science": 3.0,
-  "Politics and government": 13.7,
-  "Crime and justice": 11.6,
-  "Sports": 40.8,
-  "Movies, TV and entertainment": 23.3,
-  "Music": 8.9,
+  "Technology and AI": 13.4,
+  "Business and money": 26.6,
+  "Health and medicine": 9.5,
+  "Science": 3.1,
+  "Politics and government": 13.0,
+  "Crime and justice": 12.2,
+  "Sports": 40.5,
+  "Movies, TV and entertainment": 24.2,
+  "Music": 8.4,
   "History": 6.2,
-  "Family and relationships": 31.3,
-  "Food and drink": 9.5,
-  "Religion and spirituality": 9.2,
-  "Climate and environment": 2.3
+  "Family and relationships": 31.0,
+  "Food and drink": 9.7,
+  "Religion and spirituality": 9.0,
+  "Climate and environment": 2.4
  },
- "words": 1344815
+ "words": 1332769
 }

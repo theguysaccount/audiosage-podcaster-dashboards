@@ -1,8 +1,8 @@
 {
  "slug": "behind-the-bastards",
  "name": "Behind the Bastards",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/d64f756d-6d5e-4fae-b24f-ae280140ad36/podcast.rss",
  "website": "https://www.iheart.com/podcast/105-behind-the-bastards-29236323/",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/e5f91208-cc7e-4726-a312-ae280140ad11/image.jpg?t=1749761552&size=Large",
@@ -19,7 +19,7 @@
    "phrase": "he gets",
    "count": 38,
    "episodes": 10,
-   "z": 8.7,
+   "z": 8.59,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -37,7 +37,7 @@
    "phrase": "period of time",
    "count": 28,
    "episodes": 6,
-   "z": 8.59,
+   "z": 8.57,
    "moments": [
     {
      "episode": "d46805e5b8d4",
@@ -55,7 +55,7 @@
    "phrase": "guy who",
    "count": 36,
    "episodes": 10,
-   "z": 8.32,
+   "z": 8.1,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -73,7 +73,7 @@
    "phrase": "he starts",
    "count": 26,
    "episodes": 9,
-   "z": 7.77,
+   "z": 7.6,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -91,7 +91,7 @@
    "phrase": "his life",
    "count": 26,
    "episodes": 6,
-   "z": 7.64,
+   "z": 7.21,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -109,7 +109,7 @@
    "phrase": "may have",
    "count": 28,
    "episodes": 8,
-   "z": 7.17,
+   "z": 6.94,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -127,7 +127,7 @@
    "phrase": "white people",
    "count": 21,
    "episodes": 4,
-   "z": 6.94,
+   "z": 6.9,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -145,7 +145,7 @@
    "phrase": "he started",
    "count": 24,
    "episodes": 10,
-   "z": 6.86,
+   "z": 6.89,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -163,7 +163,7 @@
    "phrase": "part two",
    "count": 18,
    "episodes": 7,
-   "z": 6.82,
+   "z": 6.87,
    "moments": [
     {
      "episode": "d46805e5b8d4",
@@ -178,20 +178,38 @@
    ]
   },
   {
-   "phrase": "he wanted",
-   "count": 25,
-   "episodes": 7,
-   "z": 6.62,
+   "phrase": "his dad",
+   "count": 19,
+   "episodes": 6,
+   "z": 6.78,
    "moments": [
     {
      "episode": "f57455cda6f0",
-     "at": 2342,
-     "quote": "to pursue the degree he wanted because he was poor."
+     "at": 460,
+     "quote": "his dad distilled illegal booze for Al Capone. He was"
     },
     {
-     "episode": "7dfe703646ed",
-     "at": 854,
-     "quote": "which laid out the kind of films he wanted to"
+     "episode": "d46805e5b8d4",
+     "at": 459,
+     "quote": "his dad does not take them back. He doesn't have"
+    }
+   ]
+  },
+  {
+   "phrase": "we'll talk",
+   "count": 23,
+   "episodes": 7,
+   "z": 6.73,
+   "moments": [
+    {
+     "episode": "f57455cda6f0",
+     "at": 2503,
+     "quote": "We'll talk about it. He does say he's going to"
+    },
+    {
+     "episode": "d46805e5b8d4",
+     "at": 1797,
+     "quote": "We'll talk more about that in part two. And he's"
     }
    ]
   },
@@ -199,7 +217,7 @@
    "phrase": "we're back",
    "count": 20,
    "episodes": 10,
-   "z": 6.25,
+   "z": 6.44,
    "moments": [
     {
      "episode": "f57455cda6f0",
@@ -212,24 +230,6 @@
      "quote": "or something. And we're back. So by no later than 2016,"
     }
    ]
-  },
-  {
-   "phrase": "people who",
-   "count": 66,
-   "episodes": 10,
-   "z": 6.16,
-   "moments": [
-    {
-     "episode": "f57455cda6f0",
-     "at": 676,
-     "quote": "people who went on actually because there's many guns out"
-    },
-    {
-     "episode": "d46805e5b8d4",
-     "at": 3074,
-     "quote": "he starts selling land. He'll take in people who are"
-    }
-   ]
   }
  ],
  "speakers": [],
@@ -239,37 +239,37 @@
   {
    "topic": "Movies, TV and entertainment",
    "per_10k": 40.0,
-   "vs_average": 1.72
+   "vs_average": 1.66
   },
   {
    "topic": "Business and money",
    "per_10k": 36.4,
-   "vs_average": 1.32
+   "vs_average": 1.37
   },
   {
    "topic": "Family and relationships",
    "per_10k": 36.0,
-   "vs_average": 1.15
+   "vs_average": 1.16
   },
   {
    "topic": "Politics and government",
    "per_10k": 23.6,
-   "vs_average": 1.72
+   "vs_average": 1.81
   },
   {
    "topic": "Crime and justice",
    "per_10k": 20.5,
-   "vs_average": 1.77
+   "vs_average": 1.68
   },
   {
    "topic": "Religion and spirituality",
    "per_10k": 18.8,
-   "vs_average": 2.05
+   "vs_average": 2.09
   },
   {
    "topic": "Health and medicine",
    "per_10k": 13.8,
-   "vs_average": 1.4
+   "vs_average": 1.46
   },
   {
    "topic": "Sports",
@@ -279,32 +279,32 @@
   {
    "topic": "History",
    "per_10k": 9.8,
-   "vs_average": 1.6
+   "vs_average": 1.59
   },
   {
    "topic": "Technology and AI",
    "per_10k": 7.3,
-   "vs_average": 0.53
+   "vs_average": 0.54
   },
   {
    "topic": "Food and drink",
    "per_10k": 7.1,
-   "vs_average": 0.75
+   "vs_average": 0.73
   },
   {
    "topic": "Music",
    "per_10k": 4.4,
-   "vs_average": 0.5
+   "vs_average": 0.53
   },
   {
    "topic": "Science",
    "per_10k": 3.3,
-   "vs_average": 1.11
+   "vs_average": 1.05
   },
   {
    "topic": "Climate and environment",
    "per_10k": 1.8,
-   "vs_average": 0.75
+   "vs_average": 0.72
   }
  ],
  "episodes": [

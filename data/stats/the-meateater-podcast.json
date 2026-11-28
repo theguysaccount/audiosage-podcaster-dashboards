@@ -1,25 +1,25 @@
 {
  "slug": "the-meateater-podcast",
  "name": "The MeatEater Podcast",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/podcast.rss",
  "website": "https://themeateater.com/listen/meateater",
  "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/3892b9a1-a960-4f9e-bee7-ae280065a7db/image.jpg?t=1788302418&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-11-04",
- "latest_episode": "2026-11-23",
- "words_analyzed": 123584,
- "pace_wpm": 157.9,
+ "first_episode": "2026-11-06",
+ "latest_episode": "2026-11-26",
+ "words_analyzed": 124076,
+ "pace_wpm": 159.9,
  "minutes_median": 78.2,
- "questions_per_100_sentences": 8.5,
- "variety": 0.4628,
+ "questions_per_100_sentences": 9.2,
+ "variety": 0.4565,
  "signature_phrases": [
   {
    "phrase": "went back",
-   "count": 21,
-   "episodes": 6,
-   "z": 6.96,
+   "count": 20,
+   "episodes": 5,
+   "z": 6.86,
    "moments": [
     {
      "episode": "2620b8505a95",
@@ -37,17 +37,35 @@
    "phrase": "my buddy",
    "count": 14,
    "episodes": 7,
-   "z": 6.35,
+   "z": 6.32,
    "moments": [
+    {
+     "episode": "94782af9659d",
+     "at": 272,
+     "quote": "I text my buddy who still lives there."
+    },
     {
      "episode": "2620b8505a95",
      "at": 2946,
      "quote": "knocked everything. I'm just, you know, look at my buddy."
+    }
+   ]
+  },
+  {
+   "phrase": "i understand",
+   "count": 31,
+   "episodes": 7,
+   "z": 6.22,
+   "moments": [
+    {
+     "episode": "94782af9659d",
+     "at": 2943,
+     "quote": "I'll never be satisfied with what I understand about these."
     },
     {
-     "episode": "aa3476cb21d6",
-     "at": 2526,
-     "quote": "got out on it, couldn't find him. My buddy ended"
+     "episode": "2620b8505a95",
+     "at": 1360,
+     "quote": "night or whatever like that. I understand, as a fan,"
     }
    ]
   },
@@ -55,7 +73,7 @@
    "phrase": "yeah man",
    "count": 15,
    "episodes": 4,
-   "z": 6.32,
+   "z": 6.04,
    "moments": [
     {
      "episode": "2620b8505a95",
@@ -70,46 +88,100 @@
    ]
   },
   {
-   "phrase": "i understand",
-   "count": 29,
-   "episodes": 6,
-   "z": 6.04,
-   "moments": [
-    {
-     "episode": "2620b8505a95",
-     "at": 1360,
-     "quote": "night or whatever like that. I understand, as a fan,"
-    },
-    {
-     "episode": "aa3476cb21d6",
-     "at": 393,
-     "quote": "I understand what you're saying."
-    }
-   ]
-  },
-  {
    "phrase": "meat eater",
-   "count": 24,
+   "count": 25,
    "episodes": 8,
-   "z": 5.66,
+   "z": 5.71,
    "moments": [
     {
-     "episode": "2620b8505a95",
-     "at": 8,
-     "quote": "This is the meat-eater podcast coming at you shirtless, severely bug-bitten,"
+     "episode": "94782af9659d",
+     "at": 1646,
+     "quote": "on all Meat Eater tees and hoodies. That's the best"
     },
     {
-     "episode": "144c764fa3d9",
+     "episode": "3044b09a5e61",
      "at": 10,
      "quote": "Welcome to Meat Eater Trivia, the only game show where"
     }
    ]
   },
   {
+   "phrase": "what year",
+   "count": 11,
+   "episodes": 4,
+   "z": 5.6,
+   "moments": [
+    {
+     "episode": "3044b09a5e61",
+     "at": 2042,
+     "quote": "hunting what year did the animated film Bambi come out"
+    },
+    {
+     "episode": "144c764fa3d9",
+     "at": 2594,
+     "quote": "What year was the Chernobyl nuclear disaster? Brody, do you"
+    }
+   ]
+  },
+  {
+   "phrase": "go ahead",
+   "count": 30,
+   "episodes": 6,
+   "z": 5.29,
+   "moments": [
+    {
+     "episode": "3044b09a5e61",
+     "at": 394,
+     "quote": "Is everybody ready? Colorado, Maine, Minnesota, Idaho. Go ahead and"
+    },
+    {
+     "episode": "2620b8505a95",
+     "at": 939,
+     "quote": "Let's go ahead and get some sleep. And so they're"
+    }
+   ]
+  },
+  {
+   "phrase": "big old",
+   "count": 10,
+   "episodes": 6,
+   "z": 5.24,
+   "moments": [
+    {
+     "episode": "94782af9659d",
+     "at": 981,
+     "quote": "when you have a big old wall of oaks on"
+    },
+    {
+     "episode": "aa3476cb21d6",
+     "at": 4894,
+     "quote": "There's a big old sack of Menhaden. They catch a"
+    }
+   ]
+  },
+  {
+   "phrase": "how many",
+   "count": 33,
+   "episodes": 9,
+   "z": 5.18,
+   "moments": [
+    {
+     "episode": "94782af9659d",
+     "at": 2231,
+     "quote": "had that skull radiocarbon dated. How many times has that happened?"
+    },
+    {
+     "episode": "3044b09a5e61",
+     "at": 639,
+     "quote": "is via Shallon Teachy. How many teaspoons are in a tablespoon?"
+    }
+   ]
+  },
+  {
    "phrase": "he goes",
-   "count": 26,
-   "episodes": 7,
-   "z": 5.2,
+   "count": 24,
+   "episodes": 5,
+   "z": 5.02,
    "moments": [
     {
      "episode": "2620b8505a95",
@@ -124,64 +196,28 @@
    ]
   },
   {
-   "phrase": "big old",
-   "count": 9,
-   "episodes": 7,
-   "z": 5.1,
+   "phrase": "national park",
+   "count": 14,
+   "episodes": 6,
+   "z": 4.87,
    "moments": [
     {
-     "episode": "aa3476cb21d6",
-     "at": 4894,
-     "quote": "There's a big old sack of Menhaden. They catch a"
+     "episode": "94782af9659d",
+     "at": 165,
+     "quote": "people of the United States, managed by the National Park"
     },
     {
-     "episode": "144c764fa3d9",
-     "at": 2300,
-     "quote": "Big Old Testament family."
-    }
-   ]
-  },
-  {
-   "phrase": "how many",
-   "count": 33,
-   "episodes": 9,
-   "z": 5.08,
-   "moments": [
-    {
-     "episode": "2620b8505a95",
-     "at": 2043,
-     "quote": "everything else. And I'm like, like, how many, how'd you"
-    },
-    {
-     "episode": "aa3476cb21d6",
-     "at": 1008,
-     "quote": "Land and Water Conservation Fund. How many minutes am I"
-    }
-   ]
-  },
-  {
-   "phrase": "one time",
-   "count": 24,
-   "episodes": 8,
-   "z": 4.94,
-   "moments": [
-    {
-     "episode": "2620b8505a95",
-     "at": 1759,
-     "quote": "Like I've gone to the well, maybe one time too many."
-    },
-    {
-     "episode": "aa3476cb21d6",
-     "at": 2108,
-     "quote": "those spots. Um, and one time it worked, we didn't,"
+     "episode": "3044b09a5e61",
+     "at": 808,
+     "quote": "to Chiricahua National Park. So your answer will be the state."
     }
    ]
   },
   {
    "phrase": "my wife",
-   "count": 27,
-   "episodes": 6,
-   "z": 4.77,
+   "count": 25,
+   "episodes": 5,
+   "z": 4.79,
    "moments": [
     {
      "episode": "2620b8505a95",
@@ -194,42 +230,6 @@
      "quote": "her ears are going to be fine. And my wife,"
     }
    ]
-  },
-  {
-   "phrase": "come up",
-   "count": 21,
-   "episodes": 7,
-   "z": 4.62,
-   "moments": [
-    {
-     "episode": "2620b8505a95",
-     "at": 4423,
-     "quote": "that want to come up in this, At what point"
-    },
-    {
-     "episode": "144c764fa3d9",
-     "at": 711,
-     "quote": "of that movie. Nate, the only player to come up"
-    }
-   ]
-  },
-  {
-   "phrase": "sitting there",
-   "count": 12,
-   "episodes": 5,
-   "z": 4.53,
-   "moments": [
-    {
-     "episode": "2620b8505a95",
-     "at": 2077,
-     "quote": "That's why, I mean, I love sitting there and grilling,"
-    },
-    {
-     "episode": "e7a1d41f8be8",
-     "at": 1833,
-     "quote": "the guy that gave me the extra cape was sitting there,"
-    }
-   ]
   }
  ],
  "speakers": [],
@@ -238,76 +238,102 @@
  "topics": [
   {
    "topic": "Family and relationships",
-   "per_10k": 26.8,
-   "vs_average": 0.86
-  },
-  {
-   "topic": "Movies, TV and entertainment",
-   "per_10k": 16.3,
-   "vs_average": 0.7
+   "per_10k": 27.8,
+   "vs_average": 0.9
   },
   {
    "topic": "Business and money",
-   "per_10k": 13.2,
-   "vs_average": 0.48
+   "per_10k": 17.7,
+   "vs_average": 0.66
+  },
+  {
+   "topic": "Movies, TV and entertainment",
+   "per_10k": 16.7,
+   "vs_average": 0.69
   },
   {
    "topic": "Sports",
-   "per_10k": 13.2,
+   "per_10k": 13.1,
    "vs_average": 0.32
   },
   {
-   "topic": "Music",
-   "per_10k": 10.4,
-   "vs_average": 1.16
+   "topic": "Politics and government",
+   "per_10k": 10.9,
+   "vs_average": 0.83
   },
   {
    "topic": "Crime and justice",
-   "per_10k": 10.3,
-   "vs_average": 0.89
-  },
-  {
-   "topic": "Politics and government",
-   "per_10k": 10.2,
-   "vs_average": 0.74
-  },
-  {
-   "topic": "Food and drink",
-   "per_10k": 8.3,
+   "per_10k": 10.6,
    "vs_average": 0.87
   },
   {
+   "topic": "Music",
+   "per_10k": 10.1,
+   "vs_average": 1.2
+  },
+  {
+   "topic": "Food and drink",
+   "per_10k": 8.9,
+   "vs_average": 0.91
+  },
+  {
    "topic": "Religion and spirituality",
-   "per_10k": 7.5,
+   "per_10k": 7.4,
    "vs_average": 0.82
   },
   {
-   "topic": "Health and medicine",
-   "per_10k": 4.9,
-   "vs_average": 0.5
-  },
-  {
-   "topic": "History",
-   "per_10k": 4.5,
-   "vs_average": 0.74
-  },
-  {
-   "topic": "Climate and environment",
-   "per_10k": 4.5,
-   "vs_average": 1.9
+   "topic": "Technology and AI",
+   "per_10k": 6.0,
+   "vs_average": 0.44
   },
   {
    "topic": "Science",
-   "per_10k": 4.3,
-   "vs_average": 1.45
+   "per_10k": 5.0,
+   "vs_average": 1.6
   },
   {
-   "topic": "Technology and AI",
-   "per_10k": 2.3,
-   "vs_average": 0.17
+   "topic": "History",
+   "per_10k": 4.8,
+   "vs_average": 0.78
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 4.8,
+   "vs_average": 1.99
+  },
+  {
+   "topic": "Health and medicine",
+   "per_10k": 4.0,
+   "vs_average": 0.43
   }
  ],
  "episodes": [
+  {
+   "id": "94782af9659d",
+   "title": "Ep. 966: Friendly Fire in the Deer Woods",
+   "date": "2026-11-26",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-966-friendly-fire-in-the-deer-woods",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/e3e001dc-9a45-43b7-b8fe-b50c01395f3e/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e3e001dc-9a45-43b7-b8fe-b50c01395f3e/transcript?format=WebVTT&t=1795547748",
+   "minutes": 94.0,
+   "words": 15276,
+   "wpm": 162.4,
+   "questions_per_100_sentences": 9.0,
+   "variety": 0.4543
+  },
+  {
+   "id": "3044b09a5e61",
+   "title": "Ep. 965: Game On, Suckers! MeatEater Trivia CCXLIV",
+   "date": "2026-11-25",
+   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-965-game-on-suckers-meateater-trivia-ccxliv",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/a7ad475c-a102-45bb-8a09-b50c012a80f3/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/a7ad475c-a102-45bb-8a09-b50c012a80f3/transcript?format=WebVTT&t=1795544559",
+   "minutes": 38.5,
+   "words": 6237,
+   "wpm": 161.8,
+   "questions_per_100_sentences": 12.6,
+   "variety": 0.4637
+  },
   {
    "id": "2620b8505a95",
    "title": "Ep. 964: Hunting with The Undertaker",
@@ -411,32 +437,6 @@
    "wpm": 156.2,
    "questions_per_100_sentences": 7.7,
    "variety": 0.4359
-  },
-  {
-   "id": "b61fdc5338d3",
-   "title": "Ep. 956: Deer Hunt Reports - Phoning It In",
-   "date": "2026-11-05",
-   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-956-deer-hunt-reports-phoning-it-in",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/5804e910-5c7a-44df-85d0-b4f8016d9445/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/5804e910-5c7a-44df-85d0-b4f8016d9445/transcript?format=WebVTT&t=1793831129",
-   "minutes": 81.4,
-   "words": 12890,
-   "wpm": 158.4,
-   "questions_per_100_sentences": 5.1,
-   "variety": 0.4671
-  },
-  {
-   "id": "ce9cc5993823",
-   "title": "Ep. 955: Game On, Suckers! MeatEater Trivia CCXLI",
-   "date": "2026-11-04",
-   "link": "https://omny.fm/shows/the-meateater-podcast-1/ep-955-game-on-suckers-meateater-trivia-ccxli",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/63aba8bc-2dc8-4f89-807a-ae280065a7cd/e46c90fe-8161-49c9-b297-b4f60150c257/audio.mp3?utm_source=Podcast&in_playlist=3892b9a1-a960-4f9e-bee7-ae280065a7db",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/e46c90fe-8161-49c9-b297-b4f60150c257/transcript?format=WebVTT&t=1793651710",
-   "minutes": 52.3,
-   "words": 8131,
-   "wpm": 155.4,
-   "questions_per_100_sentences": 10.2,
-   "variety": 0.5005
   }
  ]
 }

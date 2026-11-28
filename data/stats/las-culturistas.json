@@ -1,105 +1,123 @@
 {
  "slug": "las-culturistas",
  "name": "Las Culturistas",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/935c500f-8bb0-436b-ba7f-ae2700391b49/podcast.rss",
  "website": "https://twitter.com/LasCulturistas",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/image.jpg?t=1794944259&size=Large",
  "episodes_analyzed": 9,
- "first_episode": "2026-09-30",
- "latest_episode": "2026-11-20",
- "words_analyzed": 147607,
- "pace_wpm": 187.4,
+ "first_episode": "2026-10-07",
+ "latest_episode": "2026-11-25",
+ "words_analyzed": 143283,
+ "pace_wpm": 183.0,
  "minutes_median": 84.4,
  "questions_per_100_sentences": 9.7,
  "variety": 0.4177,
  "signature_phrases": [
   {
    "phrase": "feel like",
-   "count": 169,
+   "count": 170,
    "episodes": 9,
-   "z": 14.07,
+   "z": 14.51,
    "moments": [
+    {
+     "episode": "9011616ba8aa",
+     "at": 435,
+     "quote": "But I feel like I embody her a little bit now."
+    },
     {
      "episode": "5f31195192f3",
      "at": 223,
      "quote": "I feel like we did duplex more than 54 Below."
-    },
-    {
-     "episode": "750e15c2317c",
-     "at": 508,
-     "quote": "It, it did, it did feel like that. I was like,"
     }
    ]
   },
   {
    "phrase": "oh my god",
-   "count": 115,
+   "count": 101,
    "episodes": 9,
-   "z": 13.5,
+   "z": 12.51,
    "moments": [
+    {
+     "episode": "9011616ba8aa",
+     "at": 413,
+     "quote": "Oh, my God, hi."
+    },
     {
      "episode": "5f31195192f3",
      "at": 488,
      "quote": "Oh my God, well, I've been watching, like I just"
-    },
-    {
-     "episode": "750e15c2317c",
-     "at": 2338,
-     "quote": "Oh my God."
-    }
-   ]
-  },
-  {
-   "phrase": "time it's",
-   "count": 40,
-   "episodes": 9,
-   "z": 10.34,
-   "moments": [
-    {
-     "episode": "5f31195192f3",
-     "at": 3,
-     "quote": "sale now. This time, it's really Christmas. You can go"
-    },
-    {
-     "episode": "750e15c2317c",
-     "at": 3,
-     "quote": "sale now. This time, it's really Christmas. You can go"
     }
    ]
   },
   {
    "phrase": "you guys",
-   "count": 120,
+   "count": 127,
    "episodes": 9,
-   "z": 8.84,
+   "z": 10.23,
    "moments": [
+    {
+     "episode": "9011616ba8aa",
+     "at": 1504,
+     "quote": "because the ecosystem kind of revolves around what you guys"
+    },
     {
      "episode": "5f31195192f3",
      "at": 139,
      "quote": "Wait, hold on a second. What are you guys even"
+    }
+   ]
+  },
+  {
+   "phrase": "time it's",
+   "count": 36,
+   "episodes": 8,
+   "z": 9.84,
+   "moments": [
+    {
+     "episode": "5f31195192f3",
+     "at": 3,
+     "quote": "sale now. This time, it's really Christmas. You can go"
     },
     {
      "episode": "750e15c2317c",
-     "at": 389,
-     "quote": "Because you guys were there?"
+     "at": 3,
+     "quote": "sale now. This time, it's really Christmas. You can go"
+    }
+   ]
+  },
+  {
+   "phrase": "so funny",
+   "count": 35,
+   "episodes": 9,
+   "z": 8.96,
+   "moments": [
+    {
+     "episode": "9011616ba8aa",
+     "at": 329,
+     "quote": "were at. She was so funny in White Elephant because"
+    },
+    {
+     "episode": "5f31195192f3",
+     "at": 1341,
+     "quote": "That is so funny."
     }
    ]
   },
   {
    "phrase": "you heard",
-   "count": 29,
+   "count": 28,
    "episodes": 9,
-   "z": 8.32,
+   "z": 7.88,
    "moments": [
     {
-     "episode": "5f31195192f3",
-     "at": 13,
-     "quote": "my vinyl. It's called Have You Heard of Christmas? The"
+     "episode": "9011616ba8aa",
+     "at": 4396,
+     "quote": "Have you heard of Christmas?"
     },
     {
-     "episode": "750e15c2317c",
+     "episode": "5f31195192f3",
      "at": 13,
      "quote": "my vinyl. It's called Have You Heard of Christmas? The"
     }
@@ -107,73 +125,55 @@
   },
   {
    "phrase": "i loved",
-   "count": 28,
+   "count": 26,
    "episodes": 7,
-   "z": 8.29,
+   "z": 7.51,
    "moments": [
+    {
+     "episode": "9011616ba8aa",
+     "at": 622,
+     "quote": "Well, I loved it so much. Yeah, yeah, yeah."
+    },
     {
      "episode": "750e15c2317c",
      "at": 2156,
      "quote": "I loved it. Mario Galaxy. Really good stuff."
-    },
-    {
-     "episode": "c6208c450720",
-     "at": 2488,
-     "quote": "And I forgot how much I loved it."
-    }
-   ]
-  },
-  {
-   "phrase": "so funny",
-   "count": 29,
-   "episodes": 9,
-   "z": 7.84,
-   "moments": [
-    {
-     "episode": "5f31195192f3",
-     "at": 1341,
-     "quote": "That is so funny."
-    },
-    {
-     "episode": "750e15c2317c",
-     "at": 498,
-     "quote": "And it's, it's just, it's so funny how."
-    }
-   ]
-  },
-  {
-   "phrase": "we love",
-   "count": 35,
-   "episodes": 8,
-   "z": 7.77,
-   "moments": [
-    {
-     "episode": "750e15c2317c",
-     "at": 102,
-     "quote": "We love you."
-    },
-    {
-     "episode": "c6208c450720",
-     "at": 3113,
-     "quote": "We love it."
     }
    ]
   },
   {
    "phrase": "one minute",
-   "count": 23,
+   "count": 21,
    "episodes": 9,
-   "z": 7.62,
+   "z": 7.47,
    "moments": [
+    {
+     "episode": "9011616ba8aa",
+     "at": 4196,
+     "quote": "And that's one minute. You did it. That took up"
+    },
     {
      "episode": "5f31195192f3",
      "at": 4555,
      "quote": "That's one minute."
+    }
+   ]
+  },
+  {
+   "phrase": "so honey",
+   "count": 112,
+   "episodes": 9,
+   "z": 7.11,
+   "moments": [
+    {
+     "episode": "9011616ba8aa",
+     "at": 3881,
+     "quote": "This is Matt Rogers. I don't think so, honey. As"
     },
     {
-     "episode": "750e15c2317c",
-     "at": 3925,
-     "quote": "And that's one minute. Wonderful."
+     "episode": "5f31195192f3",
+     "at": 608,
+     "quote": "kept changing it, and that was your I don't think so, honey."
     }
    ]
   },
@@ -181,53 +181,53 @@
    "phrase": "my hands",
    "count": 19,
    "episodes": 9,
-   "z": 7.08,
+   "z": 6.98,
    "moments": [
     {
-     "episode": "5f31195192f3",
-     "at": 11,
-     "quote": "watching me right now, I am holding in my hands"
+     "episode": "9011616ba8aa",
+     "at": 2022,
+     "quote": "to put your thing. I know how to hold my hands."
     },
     {
-     "episode": "750e15c2317c",
+     "episode": "5f31195192f3",
      "at": 11,
      "quote": "watching me right now, I am holding in my hands"
     }
    ]
   },
   {
-   "phrase": "so honey",
-   "count": 109,
-   "episodes": 9,
-   "z": 6.99,
+   "phrase": "i'm playing",
+   "count": 17,
+   "episodes": 8,
+   "z": 6.77,
    "moments": [
     {
      "episode": "5f31195192f3",
-     "at": 608,
-     "quote": "kept changing it, and that was your I don't think so, honey."
+     "at": 19,
+     "quote": "really Christmas. I'm playing all over the country and in"
     },
     {
      "episode": "750e15c2317c",
-     "at": 3521,
-     "quote": "Just before we get to, I don't think so, honey."
+     "at": 19,
+     "quote": "really Christmas. I'm playing all over the country and in"
     }
    ]
   },
   {
-   "phrase": "everybody it's",
-   "count": 18,
-   "episodes": 9,
-   "z": 6.94,
+   "phrase": "we love",
+   "count": 29,
+   "episodes": 8,
+   "z": 6.76,
    "moments": [
     {
-     "episode": "5f31195192f3",
-     "at": 0,
-     "quote": "Hey everybody, it's me, Matt, and my tour is on"
+     "episode": "9011616ba8aa",
+     "at": 796,
+     "quote": "I've always had the thing with you. We love watching"
     },
     {
      "episode": "750e15c2317c",
-     "at": 0,
-     "quote": "Hey, everybody. It's me, Matt, and my tour is on"
+     "at": 102,
+     "quote": "We love you."
     }
    ]
   }
@@ -238,76 +238,89 @@
  "topics": [
   {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 37.7,
-   "vs_average": 1.62
+   "per_10k": 39.6,
+   "vs_average": 1.64
   },
   {
    "topic": "Family and relationships",
-   "per_10k": 23.1,
+   "per_10k": 23.0,
    "vs_average": 0.74
   },
   {
    "topic": "Music",
-   "per_10k": 22.5,
-   "vs_average": 2.53
+   "per_10k": 20.4,
+   "vs_average": 2.43
   },
   {
    "topic": "Religion and spirituality",
-   "per_10k": 13.6,
-   "vs_average": 1.48
+   "per_10k": 13.5,
+   "vs_average": 1.5
   },
   {
    "topic": "Food and drink",
-   "per_10k": 8.5,
-   "vs_average": 0.9
-  },
-  {
-   "topic": "Sports",
-   "per_10k": 8.0,
-   "vs_average": 0.2
+   "per_10k": 8.6,
+   "vs_average": 0.89
   },
   {
    "topic": "Health and medicine",
-   "per_10k": 7.9,
-   "vs_average": 0.8
-  },
-  {
-   "topic": "Business and money",
-   "per_10k": 7.1,
-   "vs_average": 0.26
+   "per_10k": 8.2,
+   "vs_average": 0.86
   },
   {
    "topic": "Politics and government",
-   "per_10k": 6.6,
-   "vs_average": 0.48
+   "per_10k": 7.4,
+   "vs_average": 0.57
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 7.3,
+   "vs_average": 0.27
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 7.0,
+   "vs_average": 0.17
   },
   {
    "topic": "Technology and AI",
-   "per_10k": 5.6,
-   "vs_average": 0.41
+   "per_10k": 4.6,
+   "vs_average": 0.34
   },
   {
    "topic": "History",
-   "per_10k": 3.5,
-   "vs_average": 0.56
+   "per_10k": 3.2,
+   "vs_average": 0.52
   },
   {
    "topic": "Climate and environment",
    "per_10k": 2.6,
-   "vs_average": 1.13
+   "vs_average": 1.06
   },
   {
    "topic": "Science",
    "per_10k": 1.8,
-   "vs_average": 0.59
+   "vs_average": 0.58
   },
   {
    "topic": "Crime and justice",
    "per_10k": 1.4,
-   "vs_average": 0.12
+   "vs_average": 0.11
   }
  ],
  "episodes": [
+  {
+   "id": "9011616ba8aa",
+   "title": "\"Submerged In Gay Guy\" (w/ Ariana Grande)",
+   "date": "2026-11-25",
+   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/submerged-in-gay-guy-w-ariana-grande",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/6334d4d4-97ac-454b-b0c6-b50b010a14b9/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/6334d4d4-97ac-454b-b0c6-b50b010a14b9/transcript?format=WebVTT&t=1795583848",
+   "minutes": 86.5,
+   "words": 15690,
+   "wpm": 181.5,
+   "questions_per_100_sentences": 9.7,
+   "variety": 0.4043
+  },
   {
    "id": "5f31195192f3",
    "title": "\"We Come To This Place For Chaos\" (w/ Marla Mindelle + Josh Sharp)",
@@ -411,19 +424,6 @@
    "wpm": 182.6,
    "questions_per_100_sentences": 10.1,
    "variety": 0.402
-  },
-  {
-   "id": "41264dc94c89",
-   "title": "\"Coach Kelly\" (w/ Kelly Clarkson)",
-   "date": "2026-09-30",
-   "link": "https://omny.fm/shows/las-culturistas-with-matt-rogers-and-bowen-yang/coach-kelly-w-kelly-clarkson",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/f6816727-c503-47ac-a7ac-ae2700391b1e/1c34de2d-4011-41f6-9b55-b4d3010c9784/audio.mp3?utm_source=Podcast&in_playlist=935c500f-8bb0-436b-ba7f-ae2700391b49",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/1c34de2d-4011-41f6-9b55-b4d3010c9784/transcript?format=WebVTT&t=1790738483",
-   "minutes": 94.5,
-   "words": 20014,
-   "wpm": 211.8,
-   "questions_per_100_sentences": 10.5,
-   "variety": 0.3952
   }
  ]
 }

@@ -1,61 +1,61 @@
 {
  "slug": "stuff-you-should-know",
  "name": "Stuff You Should Know",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/44710ecc-10bb-48d1-93c7-ae270180c33e/podcast.rss",
  "website": "https://www.iheart.com/podcast/105-stuff-you-should-know-26940277/",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/image.jpg?t=1749759419&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-11-03",
- "latest_episode": "2026-11-24",
- "words_analyzed": 60436,
- "pace_wpm": 172.2,
+ "first_episode": "2026-11-05",
+ "latest_episode": "2026-11-26",
+ "words_analyzed": 62876,
+ "pace_wpm": 170.7,
  "minutes_median": 43.9,
- "questions_per_100_sentences": 6.8,
- "variety": 0.4516,
+ "questions_per_100_sentences": 7.0,
+ "variety": 0.4562,
  "signature_phrases": [
   {
    "phrase": "yeah for sure",
-   "count": 30,
-   "episodes": 10,
-   "z": 11.56,
+   "count": 29,
+   "episodes": 9,
+   "z": 11.13,
    "moments": [
+    {
+     "episode": "66c9a5a2e634",
+     "at": 1429,
+     "quote": "Yeah, for sure. So that was a big hit in"
+    },
     {
      "episode": "6ed3e6be28c3",
      "at": 205,
      "quote": "Yeah, for sure. I mean, everything from keratin, which apparently"
-    },
-    {
-     "episode": "d02325b3b225",
-     "at": 313,
-     "quote": "Yeah, for sure. Obviously the quality isn't going to be"
     }
    ]
   },
   {
    "phrase": "i guess",
-   "count": 65,
+   "count": 66,
    "episodes": 9,
-   "z": 9.26,
+   "z": 9.42,
    "moments": [
     {
-     "episode": "6ed3e6be28c3",
-     "at": 179,
-     "quote": "Well, I guess I will cut to the chase and"
+     "episode": "66c9a5a2e634",
+     "at": 200,
+     "quote": "are just heavy hitters, I guess, if you were in"
     },
     {
-     "episode": "d02325b3b225",
-     "at": 362,
-     "quote": "it came about through a, I guess I'm, In the"
+     "episode": "1094f72614d7",
+     "at": 374,
+     "quote": "million of them. They're out there somewhere. And I guess"
     }
    ]
   },
   {
    "phrase": "take a break",
-   "count": 17,
-   "episodes": 9,
-   "z": 8.4,
+   "count": 14,
+   "episodes": 7,
+   "z": 7.31,
    "moments": [
     {
      "episode": "6ed3e6be28c3",
@@ -71,45 +71,45 @@
   },
   {
    "phrase": "like hey",
-   "count": 31,
+   "count": 27,
    "episodes": 6,
-   "z": 7.77,
+   "z": 6.59,
    "moments": [
+    {
+     "episode": "1094f72614d7",
+     "at": 326,
+     "quote": "they're like, hey, we got all these, you know, almost"
+    },
     {
      "episode": "d02325b3b225",
      "at": 131,
      "quote": "also it feels like the script was, he was like, hey,"
-    },
-    {
-     "episode": "8c96fe1e9677",
-     "at": 625,
-     "quote": "when they saw that on the record, they were like, hey,"
     }
    ]
   },
   {
-   "phrase": "we take",
-   "count": 11,
+   "phrase": "stuff like",
+   "count": 23,
    "episodes": 7,
-   "z": 6.69,
+   "z": 6.53,
    "moments": [
     {
-     "episode": "6ed3e6be28c3",
-     "at": 824,
-     "quote": "Should we take a break? Oh, yeah."
+     "episode": "66c9a5a2e634",
+     "at": 3384,
+     "quote": "packs and stuff like that. Pepsi stuff points. I think"
     },
     {
-     "episode": "d02325b3b225",
-     "at": 701,
-     "quote": "So should we take an early break?"
+     "episode": "1094f72614d7",
+     "at": 333,
+     "quote": "probably do stuff like study sea currents. We can probably"
     }
    ]
   },
   {
    "phrase": "mentioned earlier",
-   "count": 10,
-   "episodes": 8,
-   "z": 6.65,
+   "count": 9,
+   "episodes": 7,
+   "z": 6.23,
    "moments": [
     {
      "episode": "6ed3e6be28c3",
@@ -124,28 +124,10 @@
    ]
   },
   {
-   "phrase": "stuff like",
-   "count": 22,
-   "episodes": 6,
-   "z": 6.47,
-   "moments": [
-    {
-     "episode": "6ed3e6be28c3",
-     "at": 237,
-     "quote": "other stuff, like your neurotransmitter receptors in your brain, those"
-    },
-    {
-     "episode": "d02325b3b225",
-     "at": 319,
-     "quote": "place and stuff like that. Sometimes like, and you know,"
-    }
-   ]
-  },
-  {
    "phrase": "i mentioned",
    "count": 11,
    "episodes": 7,
-   "z": 5.95,
+   "z": 6.1,
    "moments": [
     {
      "episode": "d02325b3b225",
@@ -160,28 +142,28 @@
    ]
   },
   {
-   "phrase": "we're talking",
-   "count": 18,
-   "episodes": 9,
-   "z": 5.85,
+   "phrase": "we take",
+   "count": 9,
+   "episodes": 6,
+   "z": 5.72,
    "moments": [
     {
-     "episode": "6ed3e6be28c3",
-     "at": 126,
-     "quote": "We're talking proteins, though, right?"
+     "episode": "66c9a5a2e634",
+     "at": 1267,
+     "quote": "Like a lot of the stuff we take for granted today,"
     },
     {
-     "episode": "d02325b3b225",
-     "at": 18,
-     "quote": "That's right. We're talking today about American Sign Language Interpretation."
+     "episode": "6ed3e6be28c3",
+     "at": 824,
+     "quote": "Should we take a break? Oh, yeah."
     }
    ]
   },
   {
    "phrase": "we mentioned",
-   "count": 9,
-   "episodes": 5,
-   "z": 5.71,
+   "count": 7,
+   "episodes": 4,
+   "z": 5.49,
    "moments": [
     {
      "episode": "6ed3e6be28c3",
@@ -196,38 +178,56 @@
    ]
   },
   {
-   "phrase": "all sorts",
-   "count": 10,
-   "episodes": 5,
-   "z": 5.51,
+   "phrase": "very quickly",
+   "count": 9,
+   "episodes": 4,
+   "z": 5.06,
    "moments": [
     {
-     "episode": "6ed3e6be28c3",
-     "at": 233,
-     "quote": "you can believe in. But then also all sorts of"
+     "episode": "66c9a5a2e634",
+     "at": 481,
+     "quote": "It became very quickly the most popular drink all over Atlanta."
     },
     {
-     "episode": "d02325b3b225",
-     "at": 2263,
-     "quote": "and hard of hearing go to concerts for all sorts"
+     "episode": "8c96fe1e9677",
+     "at": 253,
+     "quote": "case because they found the bodies very quickly. Very sadly,"
     }
    ]
   },
   {
-   "phrase": "just basically",
-   "count": 6,
-   "episodes": 4,
-   "z": 5.14,
+   "phrase": "your favorite",
+   "count": 11,
+   "episodes": 10,
+   "z": 5.0,
    "moments": [
     {
-     "episode": "6ed3e6be28c3",
-     "at": 1226,
-     "quote": "their age, their health conditions. So they were just basically"
+     "episode": "66c9a5a2e634",
+     "at": 3844,
+     "quote": "your favorite shows."
     },
     {
-     "episode": "ce48d00af560",
-     "at": 652,
-     "quote": "So he would just basically go around killing Anglo-Americans as"
+     "episode": "1094f72614d7",
+     "at": 716,
+     "quote": "or wherever you listen to your favorite shows."
+    }
+   ]
+  },
+  {
+   "phrase": "it turns out",
+   "count": 10,
+   "episodes": 6,
+   "z": 4.95,
+   "moments": [
+    {
+     "episode": "66c9a5a2e634",
+     "at": 186,
+     "quote": "Yes. It turns out that basically the whole point of"
+    },
+    {
+     "episode": "6ed3e6be28c3",
+     "at": 1764,
+     "quote": "That's our filtration system. But also it turns out the"
     }
    ]
   }
@@ -238,76 +238,102 @@
  "topics": [
   {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 26.3,
-   "vs_average": 1.13
+   "per_10k": 26.1,
+   "vs_average": 1.08
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 22.3,
+   "vs_average": 0.84
+  },
+  {
+   "topic": "Politics and government",
+   "per_10k": 20.4,
+   "vs_average": 1.56
   },
   {
    "topic": "Crime and justice",
    "per_10k": 19.9,
-   "vs_average": 1.71
-  },
-  {
-   "topic": "Politics and government",
-   "per_10k": 19.2,
-   "vs_average": 1.4
-  },
-  {
-   "topic": "Health and medicine",
-   "per_10k": 18.9,
-   "vs_average": 1.92
-  },
-  {
-   "topic": "Family and relationships",
-   "per_10k": 14.7,
-   "vs_average": 0.47
+   "vs_average": 1.63
   },
   {
    "topic": "Food and drink",
-   "per_10k": 14.7,
-   "vs_average": 1.56
+   "per_10k": 18.3,
+   "vs_average": 1.89
   },
   {
-   "topic": "Business and money",
-   "per_10k": 14.2,
-   "vs_average": 0.52
+   "topic": "Family and relationships",
+   "per_10k": 15.0,
+   "vs_average": 0.48
   },
   {
-   "topic": "Technology and AI",
-   "per_10k": 5.8,
-   "vs_average": 0.42
-  },
-  {
-   "topic": "Science",
-   "per_10k": 4.6,
-   "vs_average": 1.56
+   "topic": "Health and medicine",
+   "per_10k": 12.2,
+   "vs_average": 1.29
   },
   {
    "topic": "History",
-   "per_10k": 4.5,
-   "vs_average": 0.73
+   "per_10k": 7.2,
+   "vs_average": 1.15
   },
   {
-   "topic": "Climate and environment",
-   "per_10k": 4.3,
+   "topic": "Science",
+   "per_10k": 5.7,
    "vs_average": 1.83
   },
   {
    "topic": "Sports",
-   "per_10k": 3.6,
+   "per_10k": 3.8,
    "vs_average": 0.09
   },
   {
    "topic": "Religion and spirituality",
-   "per_10k": 2.8,
-   "vs_average": 0.31
+   "per_10k": 2.7,
+   "vs_average": 0.3
   },
   {
    "topic": "Music",
-   "per_10k": 2.0,
-   "vs_average": 0.22
+   "per_10k": 2.1,
+   "vs_average": 0.25
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 1.9,
+   "vs_average": 0.14
+  },
+  {
+   "topic": "Climate and environment",
+   "per_10k": 1.0,
+   "vs_average": 0.39
   }
  ],
  "episodes": [
+  {
+   "id": "66c9a5a2e634",
+   "title": "SYSK Live in Akron, Ohio",
+   "date": "2026-11-26",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/sysk-live-in-akron-ohio",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/dcefe2c3-8806-40a1-a029-b50401665ac2/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/dcefe2c3-8806-40a1-a029-b50401665ac2/transcript?format=WebVTT&t=1794865784",
+   "minutes": 64.1,
+   "words": 11029,
+   "wpm": 172.1,
+   "questions_per_100_sentences": 7.8,
+   "variety": 0.4547
+  },
+  {
+   "id": "1094f72614d7",
+   "title": "Short Stuff: Great Lego Spill of '97",
+   "date": "2026-11-25",
+   "link": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-great-lego-spill-of-97",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/13a0057e-0d8c-4b6a-af0e-b4fd012ffa22/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/13a0057e-0d8c-4b6a-af0e-b4fd012ffa22/transcript?format=WebVTT&t=1794249274",
+   "minutes": 11.9,
+   "words": 1944,
+   "wpm": 163.4,
+   "questions_per_100_sentences": 7.9,
+   "variety": 0.4683
+  },
   {
    "id": "6ed3e6be28c3",
    "title": "Protein: Yes, But How Much?",
@@ -411,32 +437,6 @@
    "wpm": 161.1,
    "questions_per_100_sentences": 3.3,
    "variety": 0.4622
-  },
-  {
-   "id": "eea9a4764643",
-   "title": "Short Stuff: Weather Balloons",
-   "date": "2026-11-04",
-   "link": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-weather-balloons",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/c7779fc4-34d1-4743-a8b5-b4ef013fc89b/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c7779fc4-34d1-4743-a8b5-b4ef013fc89b/transcript?format=WebVTT&t=1793043488",
-   "minutes": 13.5,
-   "words": 2397,
-   "wpm": 177.0,
-   "questions_per_100_sentences": 9.2,
-   "variety": 0.4536
-  },
-  {
-   "id": "edad9282ce1a",
-   "title": "Ba-Dum-Bum Goes Your Heart!",
-   "date": "2026-11-03",
-   "link": "https://omny.fm/shows/stuff-you-should-know-1/ba-dum-bum-goes-your-heart",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/30849b3a-b398-4257-8034-b4ef00f8421f/transcript?format=WebVTT&t=1793027264",
-   "minutes": 46.6,
-   "words": 8136,
-   "wpm": 174.6,
-   "questions_per_100_sentences": 6.9,
-   "variety": 0.4373
   }
  ]
 }

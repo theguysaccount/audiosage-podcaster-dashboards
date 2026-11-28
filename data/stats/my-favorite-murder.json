@@ -1,35 +1,35 @@
 {
  "slug": "my-favorite-murder",
  "name": "My Favorite Murder",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/podcast.rss",
  "website": "https://www.myfavoritemurder.com/",
  "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/f450d41f-16bc-4ecd-8f6c-b24c004796e2/image.jpg?t=1738339997&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-10-22",
- "latest_episode": "2026-11-23",
- "words_analyzed": 87087,
+ "first_episode": "2026-10-26",
+ "latest_episode": "2026-11-26",
+ "words_analyzed": 81533,
  "pace_wpm": 181.1,
  "minutes_median": 42.6,
- "questions_per_100_sentences": 6.6,
- "variety": 0.506,
+ "questions_per_100_sentences": 6.3,
+ "variety": 0.509,
  "signature_phrases": [
   {
    "phrase": "my favorite",
-   "count": 57,
+   "count": 55,
    "episodes": 10,
-   "z": 12.12,
+   "z": 12.04,
    "moments": [
+    {
+     "episode": "355c212d909a",
+     "at": 19,
+     "quote": "To My Favorite Murder, we want to wish you a"
+    },
     {
      "episode": "798333378640",
      "at": 18,
      "quote": "To my favorite murder."
-    },
-    {
-     "episode": "61287a4aa566",
-     "at": 18,
-     "quote": "To My Favorite Murder."
     }
    ]
   },
@@ -37,89 +37,53 @@
    "phrase": "exactly right",
    "count": 21,
    "episodes": 10,
-   "z": 8.4,
+   "z": 8.59,
    "moments": [
+    {
+     "episode": "355c212d909a",
+     "at": 3469,
+     "quote": "This has been an Exactly Right production."
+    },
     {
      "episode": "798333378640",
      "at": 1422,
      "quote": "This has been an Exactly Right production."
-    },
-    {
-     "episode": "61287a4aa566",
-     "at": 403,
-     "quote": "if you fast forward or whatever. skip the Exactly Right updates,"
     }
    ]
   },
   {
-   "phrase": "oh shit",
-   "count": 17,
+   "phrase": "holy shit",
+   "count": 16,
    "episodes": 8,
-   "z": 7.61,
+   "z": 7.47,
    "moments": [
     {
-     "episode": "798333378640",
-     "at": 248,
-     "quote": "Oh, shit."
+     "episode": "355c212d909a",
+     "at": 603,
+     "quote": "Holy shit."
     },
     {
-     "episode": "61287a4aa566",
-     "at": 1548,
-     "quote": "Oh, shit."
+     "episode": "798333378640",
+     "at": 784,
+     "quote": "Holy shit."
     }
    ]
   },
   {
-   "phrase": "my grandma",
-   "count": 15,
-   "episodes": 4,
-   "z": 6.93,
+   "phrase": "oh my god",
+   "count": 53,
+   "episodes": 10,
+   "z": 7.23,
    "moments": [
+    {
+     "episode": "355c212d909a",
+     "at": 337,
+     "quote": "Oh my God."
+    },
     {
      "episode": "798333378640",
-     "at": 55,
-     "quote": "my all-time favorite family-slash-holiday memories when my grandma, Barbara Ann,"
-    },
-    {
-     "episode": "c483571e0390",
-     "at": 1083,
-     "quote": "my grandma had written as a part of my first"
-    }
-   ]
-  },
-  {
-   "phrase": "they find",
-   "count": 15,
-   "episodes": 4,
-   "z": 6.93,
-   "moments": [
-    {
-     "episode": "61287a4aa566",
-     "at": 3957,
-     "quote": "Yeah, all these are fake. They find all sorts of"
-    },
-    {
-     "episode": "e83e7fe8ab3c",
-     "at": 1061,
-     "quote": "of the officers. They find one who they suspect of"
-    }
-   ]
-  },
-  {
-   "phrase": "end quote",
-   "count": 38,
-   "episodes": 9,
-   "z": 6.72,
-   "moments": [
-    {
-     "episode": "798333378640",
-     "at": 995,
-     "quote": "I always thought he looked like Tom Jones. End quote."
-    },
-    {
-     "episode": "61287a4aa566",
-     "at": 976,
-     "quote": "on a sweltering day, end quote. Chester is the English"
+     "at": 250,
+     "quote": "Oh, my God. She's fucking gorgeous and smart. You can tell."
     }
    ]
   },
@@ -127,7 +91,7 @@
    "phrase": "subject line",
    "count": 16,
    "episodes": 5,
-   "z": 6.7,
+   "z": 6.78,
    "moments": [
     {
      "episode": "798333378640",
@@ -142,28 +106,28 @@
    ]
   },
   {
-   "phrase": "holy shit",
-   "count": 13,
-   "episodes": 7,
-   "z": 6.62,
+   "phrase": "end quote",
+   "count": 36,
+   "episodes": 8,
+   "z": 6.67,
    "moments": [
     {
      "episode": "798333378640",
-     "at": 784,
-     "quote": "Holy shit."
+     "at": 995,
+     "quote": "I always thought he looked like Tom Jones. End quote."
     },
     {
      "episode": "61287a4aa566",
-     "at": 1560,
-     "quote": "Holy shit."
+     "at": 976,
+     "quote": "on a sweltering day, end quote. Chester is the English"
     }
    ]
   },
   {
    "phrase": "true crime",
-   "count": 13,
-   "episodes": 7,
-   "z": 6.46,
+   "count": 11,
+   "episodes": 6,
+   "z": 6.11,
    "moments": [
     {
      "episode": "798333378640",
@@ -179,55 +143,91 @@
   },
   {
    "phrase": "every week",
-   "count": 15,
+   "count": 14,
    "episodes": 10,
-   "z": 6.06,
+   "z": 6.09,
    "moments": [
+    {
+     "episode": "355c212d909a",
+     "at": 3497,
+     "quote": "Or watch new episodes every week on Netflix. Search for"
+    },
     {
      "episode": "798333378640",
      "at": 1448,
      "quote": "Or watch new episodes every week on Netflix. Search for"
-    },
-    {
-     "episode": "61287a4aa566",
-     "at": 5147,
-     "quote": "Or watch new episodes every week on Netflix. Search for"
     }
    ]
   },
   {
-   "phrase": "oh my god",
-   "count": 52,
-   "episodes": 10,
-   "z": 6.05,
+   "phrase": "oh shit",
+   "count": 11,
+   "episodes": 8,
+   "z": 5.98,
    "moments": [
+    {
+     "episode": "355c212d909a",
+     "at": 2046,
+     "quote": "To take down mafioso kingpin, everyone's favorite, Charles Lucky Luciano. Oh, shit."
+    },
     {
      "episode": "798333378640",
-     "at": 250,
-     "quote": "Oh, my God. She's fucking gorgeous and smart. You can tell."
-    },
-    {
-     "episode": "61287a4aa566",
-     "at": 93,
-     "quote": "want to do for others all the time. Oh, my God."
+     "at": 248,
+     "quote": "Oh, shit."
     }
    ]
   },
   {
-   "phrase": "year old",
-   "count": 34,
-   "episodes": 9,
-   "z": 5.96,
+   "phrase": "your list",
+   "count": 10,
+   "episodes": 10,
+   "z": 5.87,
    "moments": [
     {
-     "episode": "61287a4aa566",
-     "at": 311,
-     "quote": "an eight-year-old child. So they're going to have to take action."
+     "episode": "355c212d909a",
+     "at": 3500,
+     "quote": "My Favorite Murder, add us to your list, and hit"
     },
     {
-     "episode": "c483571e0390",
-     "at": 565,
-     "quote": "her seven-months-pregnant sister, and her three-year-old niece were when one"
+     "episode": "798333378640",
+     "at": 1451,
+     "quote": "My Favorite Murder, Add us to your list and hit"
+    }
+   ]
+  },
+  {
+   "phrase": "thumbs up",
+   "count": 10,
+   "episodes": 10,
+   "z": 5.85,
+   "moments": [
+    {
+     "episode": "355c212d909a",
+     "at": 3503,
+     "quote": "the double thumbs up button."
+    },
+    {
+     "episode": "798333378640",
+     "at": 1454,
+     "quote": "the double thumbs up button."
+    }
+   ]
+  },
+  {
+   "phrase": "new york",
+   "count": 38,
+   "episodes": 6,
+   "z": 5.26,
+   "moments": [
+    {
+     "episode": "355c212d909a",
+     "at": 37,
+     "quote": "New York assistant district attorney who helped take down mob"
+    },
+    {
+     "episode": "798333378640",
+     "at": 456,
+     "quote": "of growing up in New York, and she has passed"
     }
    ]
   }
@@ -238,76 +238,89 @@
  "topics": [
   {
    "topic": "Family and relationships",
-   "per_10k": 51.4,
-   "vs_average": 1.64
+   "per_10k": 53.0,
+   "vs_average": 1.71
   },
   {
    "topic": "Crime and justice",
-   "per_10k": 33.4,
-   "vs_average": 2.89
+   "per_10k": 40.8,
+   "vs_average": 3.34
   },
   {
    "topic": "Food and drink",
-   "per_10k": 30.9,
-   "vs_average": 3.27
+   "per_10k": 26.7,
+   "vs_average": 2.76
   },
   {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 22.0,
-   "vs_average": 0.95
+   "per_10k": 22.6,
+   "vs_average": 0.93
   },
   {
    "topic": "Business and money",
-   "per_10k": 20.2,
-   "vs_average": 0.73
+   "per_10k": 16.9,
+   "vs_average": 0.64
   },
   {
    "topic": "Religion and spirituality",
-   "per_10k": 16.1,
-   "vs_average": 1.75
+   "per_10k": 15.8,
+   "vs_average": 1.76
   },
   {
    "topic": "Health and medicine",
-   "per_10k": 9.8,
-   "vs_average": 0.99
-  },
-  {
-   "topic": "Sports",
-   "per_10k": 6.7,
-   "vs_average": 0.16
+   "per_10k": 12.1,
+   "vs_average": 1.28
   },
   {
    "topic": "Politics and government",
-   "per_10k": 6.4,
-   "vs_average": 0.47
+   "per_10k": 7.2,
+   "vs_average": 0.56
+  },
+  {
+   "topic": "Sports",
+   "per_10k": 7.1,
+   "vs_average": 0.18
   },
   {
    "topic": "History",
-   "per_10k": 6.4,
-   "vs_average": 1.04
-  },
-  {
-   "topic": "Music",
-   "per_10k": 4.8,
-   "vs_average": 0.54
+   "per_10k": 6.5,
+   "vs_average": 1.05
   },
   {
    "topic": "Science",
-   "per_10k": 3.3,
-   "vs_average": 1.12
+   "per_10k": 4.9,
+   "vs_average": 1.57
+  },
+  {
+   "topic": "Music",
+   "per_10k": 4.0,
+   "vs_average": 0.48
   },
   {
    "topic": "Technology and AI",
-   "per_10k": 3.2,
-   "vs_average": 0.23
+   "per_10k": 3.6,
+   "vs_average": 0.26
   },
   {
    "topic": "Climate and environment",
-   "per_10k": 0.9,
-   "vs_average": 0.39
+   "per_10k": 1.0,
+   "vs_average": 0.4
   }
  ],
  "episodes": [
+  {
+   "id": "355c212d909a",
+   "title": "560 - Legendary Women",
+   "date": "2026-11-26",
+   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/560-legendary-women",
+   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/0bdbd728-6492-406a-9ae9-b4fd0158ffb0/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/0bdbd728-6492-406a-9ae9-b4fd0158ffb0/transcript?format=WebVTT&t=1795643849",
+   "minutes": 58.4,
+   "words": 9499,
+   "wpm": 162.7,
+   "questions_per_100_sentences": 4.1,
+   "variety": 0.534
+  },
   {
    "id": "798333378640",
    "title": "MFM Minisode 515 - The Thanksgiving Minisode",
@@ -424,19 +437,6 @@
    "wpm": 181.1,
    "questions_per_100_sentences": 6.4,
    "variety": 0.5097
-  },
-  {
-   "id": "d2447e173d48",
-   "title": "555 - Live at Bass Concert Hall (Austin Night 2)",
-   "date": "2026-10-22",
-   "link": "https://omny.fm/shows/my-favorite-murder-with-karen-kilgariff-and-georgi/555-live-at-bass-concert-hall-austin-night-2",
-   "audio": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/bdde8bb3-169d-43b1-91d3-b24c0047969c/c5abb9e1-3775-4e49-b01d-b4dc015e2f31/audio.mp3?utm_source=Podcast&in_playlist=f450d41f-16bc-4ecd-8f6c-b24c004796e2",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/c5abb9e1-3775-4e49-b01d-b4dc015e2f31/transcript?format=WebVTT&t=1792645175",
-   "minutes": 93.8,
-   "words": 15053,
-   "wpm": 160.4,
-   "questions_per_100_sentences": 9.2,
-   "variety": 0.4832
   }
  ]
 }

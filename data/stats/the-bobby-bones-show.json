@@ -1,233 +1,233 @@
 {
  "slug": "the-bobby-bones-show",
  "name": "The Bobby Bones Show",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/473a2576-d031-4145-922c-ae27017c48d6/podcast.rss",
  "website": "https://www.iheart.com/podcast/139-bobby-bones-show-25100459/",
  "image": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/473a2576-d031-4145-922c-ae27017c48d6/image.jpg?t=1744354088&size=Large",
  "episodes_analyzed": 10,
- "first_episode": "2026-11-13",
- "latest_episode": "2026-11-23",
- "words_analyzed": 114804,
- "pace_wpm": 200.9,
- "minutes_median": 57.9,
- "questions_per_100_sentences": 13.5,
- "variety": 0.4219,
+ "first_episode": "2026-11-20",
+ "latest_episode": "2026-11-27",
+ "words_analyzed": 103166,
+ "pace_wpm": 194.2,
+ "minutes_median": 57.6,
+ "questions_per_100_sentences": 12.6,
+ "variety": 0.4216,
  "signature_phrases": [
   {
    "phrase": "you guys",
-   "count": 136,
+   "count": 108,
    "episodes": 10,
-   "z": 12.78,
+   "z": 10.4,
    "moments": [
     {
-     "episode": "3c67fbd28a67",
-     "at": 468,
-     "quote": "You guys can call us if you want. 877-77-BOBBY."
+     "episode": "9857c895ebe1",
+     "at": 63,
+     "quote": "So shout out, Massachusetts. You guys are doing great. A"
     },
     {
-     "episode": "a70a5ae78834",
-     "at": 109,
-     "quote": "you guys a little hint now."
-    }
-   ]
-  },
-  {
-   "phrase": "my gosh",
-   "count": 34,
-   "episodes": 9,
-   "z": 9.46,
-   "moments": [
-    {
-     "episode": "3c67fbd28a67",
-     "at": 207,
-     "quote": "Oh my gosh. Okay."
-    },
-    {
-     "episode": "a70a5ae78834",
-     "at": 230,
-     "quote": "Oh, my gosh."
+     "episode": "daae4ac76fa8",
+     "at": 1919,
+     "quote": "Are so thankful that you guys were here today. Just"
     }
    ]
   },
   {
    "phrase": "my wife",
-   "count": 41,
-   "episodes": 10,
-   "z": 8.76,
+   "count": 36,
+   "episodes": 8,
+   "z": 8.73,
    "moments": [
     {
-     "episode": "3c67fbd28a67",
-     "at": 6,
-     "quote": "had this weekend. So my wife wants to go watch"
+     "episode": "9857c895ebe1",
+     "at": 508,
+     "quote": "Convince my wife I'm going to go play golf for"
     },
     {
-     "episode": "a70a5ae78834",
-     "at": 1373,
-     "quote": "lured my wife in with all of that. Now that"
+     "episode": "daae4ac76fa8",
+     "at": 804,
+     "quote": "since my wife because she's like, I don't want to"
     }
    ]
   },
   {
-   "phrase": "that's cool",
+   "phrase": "oh my gosh",
    "count": 25,
-   "episodes": 9,
-   "z": 8.63,
+   "episodes": 8,
+   "z": 8.5,
    "moments": [
     {
-     "episode": "3c67fbd28a67",
-     "at": 1134,
-     "quote": "That's cool."
+     "episode": "daae4ac76fa8",
+     "at": 932,
+     "quote": "Oh, my gosh."
     },
     {
-     "episode": "a70a5ae78834",
-     "at": 290,
-     "quote": "There we go. That's cool. Any guesses on what he did?"
+     "episode": "6351b5ebda72",
+     "at": 2419,
+     "quote": "Oh, my gosh."
     }
    ]
   },
   {
    "phrase": "like hey",
-   "count": 46,
+   "count": 38,
    "episodes": 10,
-   "z": 8.28,
+   "z": 7.3,
    "moments": [
     {
-     "episode": "3c67fbd28a67",
-     "at": 414,
-     "quote": "My mom texted me. She's like, hey, are you and"
+     "episode": "9857c895ebe1",
+     "at": 948,
+     "quote": "Yeah, an airline. And they're like, hey, you can fly it."
     },
     {
-     "episode": "a70a5ae78834",
-     "at": 835,
-     "quote": "last week just trolling people, and I was like, hey,"
+     "episode": "daae4ac76fa8",
+     "at": 725,
+     "quote": "she gets on her phone and is like, hey, I"
     }
    ]
   },
   {
-   "phrase": "last night",
-   "count": 46,
-   "episodes": 7,
-   "z": 7.03,
+   "phrase": "wake up",
+   "count": 26,
+   "episodes": 10,
+   "z": 7.19,
    "moments": [
     {
-     "episode": "d9c6148135fd",
-     "at": 1569,
-     "quote": "I recovered yesterday and last night. Like I think it"
+     "episode": "9857c895ebe1",
+     "at": 0,
+     "quote": "Wake up, you wake up in the morning."
     },
     {
-     "episode": "305a6ce39d54",
-     "at": 38,
-     "quote": "tribute last night. I know that I saw Ronnie Dunn's"
+     "episode": "daae4ac76fa8",
+     "at": 0,
+     "quote": "Wake up, you wake up in the morning. And then"
     }
    ]
   },
   {
-   "phrase": "my house",
-   "count": 19,
-   "episodes": 9,
-   "z": 6.91,
+   "phrase": "good one",
+   "count": 22,
+   "episodes": 5,
+   "z": 7.08,
    "moments": [
     {
-     "episode": "a70a5ae78834",
-     "at": 1882,
-     "quote": "He comes to my house. He flew in on the"
+     "episode": "9857c895ebe1",
+     "at": 1142,
+     "quote": "Crazy. Good one. Lunchbox. Yeah."
     },
     {
-     "episode": "d9c6148135fd",
-     "at": 638,
-     "quote": "to probably implement more rules at my house, but when"
+     "episode": "6351b5ebda72",
+     "at": 753,
+     "quote": "Pick up this show. This is a good one. This trash."
     }
    ]
   },
   {
    "phrase": "something good",
-   "count": 15,
-   "episodes": 6,
-   "z": 6.65,
+   "count": 13,
+   "episodes": 5,
+   "z": 6.5,
    "moments": [
     {
-     "episode": "a70a5ae78834",
-     "at": 946,
+     "episode": "9857c895ebe1",
+     "at": 573,
      "quote": "That was Tell Me Something Good."
     },
     {
-     "episode": "305a6ce39d54",
-     "at": 1353,
+     "episode": "daae4ac76fa8",
+     "at": 710,
      "quote": "Tell me something good."
     }
    ]
   },
   {
-   "phrase": "red carpet",
-   "count": 21,
+   "phrase": "that's cool",
+   "count": 15,
    "episodes": 5,
-   "z": 6.48,
+   "z": 6.45,
    "moments": [
     {
-     "episode": "305a6ce39d54",
-     "at": 2686,
-     "quote": "not let him walk the red carpet, and then."
+     "episode": "6351b5ebda72",
+     "at": 59,
+     "quote": "was amazing. Yeah, that's cool. It was amazing."
     },
     {
-     "episode": "db0349598174",
-     "at": 289,
-     "quote": "On the red carpet?"
+     "episode": "4d4e2044e857",
+     "at": 1871,
+     "quote": "That's cool."
     }
    ]
   },
   {
-   "phrase": "don't even",
-   "count": 47,
-   "episodes": 10,
-   "z": 6.25,
-   "moments": [
-    {
-     "episode": "3c67fbd28a67",
-     "at": 684,
-     "quote": "don't even recall seeing her at all."
-    },
-    {
-     "episode": "a70a5ae78834",
-     "at": 320,
-     "quote": "I don't even know about that. I just think he"
-    }
-   ]
-  },
-  {
-   "phrase": "pretty cool",
-   "count": 12,
+   "phrase": "next one",
+   "count": 13,
    "episodes": 6,
+   "z": 6.41,
+   "moments": [
+    {
+     "episode": "6351b5ebda72",
+     "at": 1538,
+     "quote": "opened it one by one. All right, next one."
+    },
+    {
+     "episode": "e868399218ab",
+     "at": 137,
+     "quote": "Ray, hit the next one, please."
+    }
+   ]
+  },
+  {
+   "phrase": "good job",
+   "count": 18,
+   "episodes": 6,
+   "z": 6.14,
+   "moments": [
+    {
+     "episode": "9857c895ebe1",
+     "at": 1277,
+     "quote": "Yeah, he bought them all. Good job, dude. Nicolas Cage"
+    },
+    {
+     "episode": "daae4ac76fa8",
+     "at": 243,
+     "quote": "You're doing a good job of summing it up."
+    }
+   ]
+  },
+  {
+   "phrase": "that's funny",
+   "count": 11,
+   "episodes": 8,
+   "z": 5.96,
+   "moments": [
+    {
+     "episode": "9857c895ebe1",
+     "at": 1270,
+     "quote": "That's funny."
+    },
+    {
+     "episode": "daae4ac76fa8",
+     "at": 1546,
+     "quote": "Tip jar is hilarious. Like just for the joke, that's funny. Amy,"
+    }
+   ]
+  },
+  {
+   "phrase": "five seconds",
+   "count": 11,
+   "episodes": 5,
    "z": 5.79,
    "moments": [
     {
-     "episode": "d9c6148135fd",
-     "at": 167,
-     "quote": "Pretty cool. But if I had family, it would have"
+     "episode": "daae4ac76fa8",
+     "at": 104,
+     "quote": "I'm in. Five seconds."
     },
     {
-     "episode": "305a6ce39d54",
-     "at": 3385,
-     "quote": "And so pretty cool if you weren't even interested and"
-    }
-   ]
-  },
-  {
-   "phrase": "oh gosh",
-   "count": 11,
-   "episodes": 5,
-   "z": 5.78,
-   "moments": [
-    {
-     "episode": "3c67fbd28a67",
-     "at": 2240,
-     "quote": "Oh, gosh."
-    },
-    {
-     "episode": "305a6ce39d54",
-     "at": 2107,
-     "quote": "Oh, gosh. Baby, I still see ya."
+     "episode": "e868399218ab",
+     "at": 908,
+     "quote": "Five seconds."
     }
    ]
   }
@@ -237,77 +237,155 @@
  "guests": [],
  "topics": [
   {
-   "topic": "Family and relationships",
-   "per_10k": 41.1,
-   "vs_average": 1.31
-  },
-  {
    "topic": "Movies, TV and entertainment",
-   "per_10k": 31.0,
-   "vs_average": 1.33
+   "per_10k": 43.3,
+   "vs_average": 1.79
   },
   {
-   "topic": "Music",
-   "per_10k": 17.9,
-   "vs_average": 2.01
-  },
-  {
-   "topic": "Business and money",
-   "per_10k": 17.2,
-   "vs_average": 0.63
+   "topic": "Family and relationships",
+   "per_10k": 34.9,
+   "vs_average": 1.12
   },
   {
    "topic": "Sports",
-   "per_10k": 16.9,
-   "vs_average": 0.41
+   "per_10k": 20.5,
+   "vs_average": 0.5
+  },
+  {
+   "topic": "Music",
+   "per_10k": 20.0,
+   "vs_average": 2.37
   },
   {
    "topic": "Food and drink",
-   "per_10k": 15.2,
-   "vs_average": 1.61
+   "per_10k": 14.8,
+   "vs_average": 1.53
+  },
+  {
+   "topic": "Business and money",
+   "per_10k": 9.8,
+   "vs_average": 0.37
   },
   {
    "topic": "Health and medicine",
-   "per_10k": 9.1,
-   "vs_average": 0.93
-  },
-  {
-   "topic": "Crime and justice",
-   "per_10k": 8.5,
-   "vs_average": 0.74
-  },
-  {
-   "topic": "Religion and spirituality",
-   "per_10k": 5.0,
-   "vs_average": 0.54
-  },
-  {
-   "topic": "Technology and AI",
-   "per_10k": 4.9,
-   "vs_average": 0.35
-  },
-  {
-   "topic": "Science",
-   "per_10k": 2.5,
+   "per_10k": 8.0,
    "vs_average": 0.85
   },
   {
+   "topic": "Crime and justice",
+   "per_10k": 6.7,
+   "vs_average": 0.55
+  },
+  {
+   "topic": "Religion and spirituality",
+   "per_10k": 5.6,
+   "vs_average": 0.62
+  },
+  {
    "topic": "Politics and government",
-   "per_10k": 2.4,
-   "vs_average": 0.17
+   "per_10k": 4.7,
+   "vs_average": 0.36
+  },
+  {
+   "topic": "Technology and AI",
+   "per_10k": 3.9,
+   "vs_average": 0.29
   },
   {
    "topic": "History",
-   "per_10k": 2.4,
-   "vs_average": 0.4
+   "per_10k": 2.8,
+   "vs_average": 0.45
+  },
+  {
+   "topic": "Science",
+   "per_10k": 1.8,
+   "vs_average": 0.59
   },
   {
    "topic": "Climate and environment",
-   "per_10k": 1.0,
-   "vs_average": 0.41
+   "per_10k": 1.2,
+   "vs_average": 0.48
   }
  ],
  "episodes": [
+  {
+   "id": "9857c895ebe1",
+   "title": "FRI PT 1: Things That Officially Make You Old + The Show's Dream Day + Fun Fact Friday!",
+   "date": "2026-11-27",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/fri-pt-1-things-that-officially-make-you-old-the-shows-dream-day-fun-fact-friday",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/45ee82cf-a337-4543-bb41-b50f00cbc82d/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/45ee82cf-a337-4543-bb41-b50f00cbc82d/transcript?format=WebVTT&t=1795782319",
+   "minutes": 23.1,
+   "words": 4434,
+   "wpm": 191.6,
+   "questions_per_100_sentences": 10.9,
+   "variety": 0.4387
+  },
+  {
+   "id": "daae4ac76fa8",
+   "title": "THURS PT 2: Should You Charge Your Guests At Thanksgiving? + Bobby's Unconventional Commercial Idea + Celebrities That Give You The Ick!",
+   "date": "2026-11-26",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/thurs-pt-2-should-you-charge-your-guests-at-thanksgiving-bobbys-unconventional-commercial-idea-celebrities-that-give-you-the-ick",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/f371b219-f030-418a-a600-b50e0098828f/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/f371b219-f030-418a-a600-b50e0098828f/transcript?format=WebVTT&t=1795684692",
+   "minutes": 32.4,
+   "words": 6066,
+   "wpm": 187.2,
+   "questions_per_100_sentences": 11.2,
+   "variety": 0.4226
+  },
+  {
+   "id": "6351b5ebda72",
+   "title": "WEDS PT 2: Bobby On The DWTS Finale + Thanksgiving Plans + Our Listener Might Be A Time Traveler!",
+   "date": "2026-11-25",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/weds-pt-2-bobby-on-the-dwts-finale-thanksgiving-plans-our-listener-might-be-a-time-traveler",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/37dd45be-4b6c-4601-829f-b50d01047c85/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/37dd45be-4b6c-4601-829f-b50d01047c85/transcript?format=WebVTT&t=1795622475",
+   "minutes": 56.9,
+   "words": 11029,
+   "wpm": 193.9,
+   "questions_per_100_sentences": 15.7,
+   "variety": 0.4226
+  },
+  {
+   "id": "e868399218ab",
+   "title": "WEDS PT 1:  Lunchbox Gets Another Chance At The Christmas Wheel! + Wednesday Easy Trivia! + How Did Our Listener End Up in Prison?!",
+   "date": "2026-11-25",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/weds-pt-1-lunchbox-gets-another-chance-at-the-christmas-wheel-wednesday-easy-trivia-how-did-our-listener-end-up-in-prison",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/de84e1db-0181-419e-9dbf-b50d01019f60/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/de84e1db-0181-419e-9dbf-b50d01019f60/transcript?format=WebVTT&t=1795622379",
+   "minutes": 67.8,
+   "words": 12833,
+   "wpm": 189.4,
+   "questions_per_100_sentences": 12.6,
+   "variety": 0.4235
+  },
+  {
+   "id": "4d4e2044e857",
+   "title": "TUES PT 2: Amy Caused Bobby To Panic + Did Bobby’s Opry Comedy Bit Go Too Far? + Koe Wetzel On Fatherhood, Fame And His Wild Past",
+   "date": "2026-11-24",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/tues-pt-2-amy-caused-bobby-to-panic-did-bobby-s-opry-comedy-bit-go-too-far-koe-wetzel-on-fatherhood-fame-and-his-wild-past",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/041c0a33-1edc-4309-9636-b50c0121f732/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/041c0a33-1edc-4309-9636-b50c0121f732/transcript?format=WebVTT&t=1795542093",
+   "minutes": 58.3,
+   "words": 12620,
+   "wpm": 216.3,
+   "questions_per_100_sentences": 12.7,
+   "variety": 0.4126
+  },
+  {
+   "id": "1fac325c858d",
+   "title": "TUES PT 1: Our Christmas Gift Exchange Drama Begins! +  Amy Found Out Something Shocking About Her Boyfriend + Lunchbox Got In Trouble At School",
+   "date": "2026-11-24",
+   "link": "https://omny.fm/shows/the-bobby-bones-show/tues-pt-1-our-christmas-gift-exchange-drama-begins-amy-found-out-something-shocking-about-her-boyfriend-lunchbox-got-in-trouble-at-school",
+   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/204c1b76-e15b-4d14-9406-b50c010ebe46/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
+   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/204c1b76-e15b-4d14-9406-b50c010ebe46/transcript?format=WebVTT&t=1795538028",
+   "minutes": 59.4,
+   "words": 11559,
+   "wpm": 194.6,
+   "questions_per_100_sentences": 14.3,
+   "variety": 0.4074
+  },
   {
    "id": "3c67fbd28a67",
    "title": "MON PT 2: Bobby Addresses An Uncomfortable Situation + Bobby Gets An Early Christmas Gift That Backfires + Show Member Busted Driving Dangerously!",
@@ -359,84 +437,6 @@
    "wpm": 186.6,
    "questions_per_100_sentences": 12.0,
    "variety": 0.4329
-  },
-  {
-   "id": "db0349598174",
-   "title": "THURS PT 2: Why Did Bobby Turn Down A Role? + Bobby Resorted To Drugs Last Night + Amy On Best Looking Guy At CMA's",
-   "date": "2026-11-19",
-   "link": "https://omny.fm/shows/the-bobby-bones-show/thurs-pt-2-why-did-bobby-turn-down-a-role-bobby-resorted-to-drugs-last-night-amy-on-best-looking-guy-at-cmas",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/9979041e-a692-44ec-84f3-b5070125e850/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/9979041e-a692-44ec-84f3-b5070125e850/transcript?format=WebVTT&t=1795110849",
-   "minutes": 56.2,
-   "words": 11731,
-   "wpm": 208.8,
-   "questions_per_100_sentences": 15.2,
-   "variety": 0.4205
-  },
-  {
-   "id": "21c622a33c0d",
-   "title": "THURS PT 1: Bobby Texted Ronnie Dunn About Controversial Brooks & Dunn Tribute + Bombshell Drop On Amy's New Dude + We Wrote Letters To Soldiers",
-   "date": "2026-11-19",
-   "link": "https://omny.fm/shows/the-bobby-bones-show/thurs-pt-1-bobby-texted-ronnie-dunn-about-controversial-brooks-dunn-tribute-bombshell-drop-on-amys-new-dude-we-wrote-letters-to-soldiers",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/145b64f4-0657-4e5a-aba8-b50701197390/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/145b64f4-0657-4e5a-aba8-b50701197390/transcript?format=WebVTT&t=1795108329",
-   "minutes": 68.5,
-   "words": 13763,
-   "wpm": 200.9,
-   "questions_per_100_sentences": 13.3,
-   "variety": 0.429
-  },
-  {
-   "id": "a98ba2ddc57b",
-   "title": "WEDS PT 2: Bobby Thinks We're Being Lied To + We Can't Believe Kane Brown Does This! + Bobby On Our New Hire",
-   "date": "2026-11-18",
-   "link": "https://omny.fm/shows/the-bobby-bones-show/weds-pt-2-bobby-thinks-were-being-lied-to-we-cant-believe-kane-brown-does-this-bobby-on-our-new-hire",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/fd585c68-bcd4-43e7-8b25-b5060105e07d/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/fd585c68-bcd4-43e7-8b25-b5060105e07d/transcript?format=WebVTT&t=1795017554",
-   "minutes": 60.2,
-   "words": 12104,
-   "wpm": 201.0,
-   "questions_per_100_sentences": 13.7,
-   "variety": 0.4233
-  },
-  {
-   "id": "efa70b934817",
-   "title": "WEDS PT 1: We All Got Scammed! + Creepy Amy Hits On An Artist + Was Bobby's Hometown Sign Stolen?!",
-   "date": "2026-11-18",
-   "link": "https://omny.fm/shows/the-bobby-bones-show/weds-pt-1-we-all-got-scammed-creepy-amy-hits-on-an-artist-was-bobbys-hometown-sign-stolen",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/55fd8319-fa4d-4ff7-8332-b50600feb782/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/55fd8319-fa4d-4ff7-8332-b50600feb782/transcript?format=WebVTT&t=1795016345",
-   "minutes": 56.3,
-   "words": 10534,
-   "wpm": 187.3,
-   "questions_per_100_sentences": 16.0,
-   "variety": 0.4251
-  },
-  {
-   "id": "fc063951b0a2",
-   "title": "FRI PT 2: We Might Book A Controversial Guest + Did Amy Embarrass Herself In Front Of A Singer? + Eddie Unloads On Us!",
-   "date": "2026-11-13",
-   "link": "https://omny.fm/shows/the-bobby-bones-show/fri-pt-2-we-might-book-a-controversial-guest-did-amy-embarrass-herself-in-front-of-a-singer-eddie-unloads-on-us",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/46dd9757-8b37-4cae-a4b6-b501011c8920/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/46dd9757-8b37-4cae-a4b6-b501011c8920/transcript?format=WebVTT&t=1794590896",
-   "minutes": 51.0,
-   "words": 10347,
-   "wpm": 203.0,
-   "questions_per_100_sentences": 15.4,
-   "variety": 0.4186
-  },
-  {
-   "id": "1b6c3cd4cc05",
-   "title": "FRI PT 1: Amy's Parenting Fail Makes Bobby LOL  + Are You More Likely To Die Today? + Easy Trivia!",
-   "date": "2026-11-13",
-   "link": "https://omny.fm/shows/the-bobby-bones-show/fri-pt-1-amys-parenting-fail-makes-bobby-lol-are-you-more-likely-to-die-today-easy-trivia",
-   "audio": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a4a372db-132b-4b16-8f9c-ae27017c48cd/7d3574cd-5644-41f7-ba66-b5010106f29d/audio.mp3?utm_source=Podcast&in_playlist=473a2576-d031-4145-922c-ae27017c48d6",
-   "transcript": "https://api.omny.fm/orgs/e73c998e-6e60-432f-8610-ae210140c5b1/clips/7d3574cd-5644-41f7-ba66-b5010106f29d/transcript?format=WebVTT&t=1794585745",
-   "minutes": 61.6,
-   "words": 11700,
-   "wpm": 190.0,
-   "questions_per_100_sentences": 12.9,
-   "variety": 0.4299
   }
  ]
 }

@@ -1,8 +1,8 @@
 {
  "slug": "the-breakfast-club",
  "name": "The Breakfast Club",
- "updated": "2026-11-24",
- "built": "2026-11-24",
+ "updated": "2026-11-28",
+ "built": "2026-11-28",
  "feed": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/0660e13d-8aa3-45f5-90ef-ae33005f6621/podcast.rss",
  "website": "https://www.iheart.com/podcast/the-breakfast-club-24992238/",
  "image": "https://www.omnycontent.com/d/programs/e73c998e-6e60-432f-8610-ae210140c5b1/a6620428-68fa-4b5d-a5af-ae33005f660f/image.jpg?t=1749760462&size=Large",
@@ -19,7 +19,7 @@
    "phrase": "i'm saying",
    "count": 223,
    "episodes": 10,
-   "z": 19.46,
+   "z": 19.06,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -37,7 +37,7 @@
    "phrase": "good morning",
    "count": 293,
    "episodes": 10,
-   "z": 19.01,
+   "z": 18.31,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -55,7 +55,7 @@
    "phrase": "south carolina",
    "count": 126,
    "episodes": 10,
-   "z": 13.18,
+   "z": 12.05,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -70,28 +70,10 @@
    ]
   },
   {
-   "phrase": "your chest",
-   "count": 71,
-   "episodes": 10,
-   "z": 10.94,
-   "moments": [
-    {
-     "episode": "41b863b2b6e9",
-     "at": 642,
-     "quote": "Everybody else, get it off your chest. It's a Friday, dammit. 800-585-1051."
-    },
-    {
-     "episode": "fc82fa599106",
-     "at": 608,
-     "quote": "it off your chest. 800-585-1051. If you need to vent,"
-    }
-   ]
-  },
-  {
    "phrase": "let's take",
    "count": 59,
    "episodes": 9,
-   "z": 10.41,
+   "z": 10.25,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -109,61 +91,7 @@
    "phrase": "we come",
    "count": 60,
    "episodes": 10,
-   "z": 10.15,
-   "moments": [
-    {
-     "episode": "41b863b2b6e9",
-     "at": 1247,
-     "quote": "Now, we'll break it all down when we come back,"
-    },
-    {
-     "episode": "fc82fa599106",
-     "at": 606,
-     "quote": "Well, thank you, Mimi. Now, when we come back, get"
-    }
-   ]
-  },
-  {
-   "phrase": "i ain't",
-   "count": 75,
-   "episodes": 10,
-   "z": 10.01,
-   "moments": [
-    {
-     "episode": "41b863b2b6e9",
-     "at": 612,
-     "quote": "I ain't never heard of Solomon."
-    },
-    {
-     "episode": "fc82fa599106",
-     "at": 780,
-     "quote": "But I ain't going to say it's never too late."
-    }
-   ]
-  },
-  {
-   "phrase": "shout out",
-   "count": 55,
-   "episodes": 10,
-   "z": 9.93,
-   "moments": [
-    {
-     "episode": "41b863b2b6e9",
-     "at": 546,
-     "quote": "Shout out to him."
-    },
-    {
-     "episode": "fc82fa599106",
-     "at": 3670,
-     "quote": "going to try to get there tonight. And shout out"
-    }
-   ]
-  },
-  {
-   "phrase": "come back",
-   "count": 82,
-   "episodes": 10,
-   "z": 9.85,
+   "z": 10.2,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -181,7 +109,7 @@
    "phrase": "joining us",
    "count": 61,
    "episodes": 10,
-   "z": 9.81,
+   "z": 9.93,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -196,10 +124,28 @@
    ]
   },
   {
+   "phrase": "shout out",
+   "count": 55,
+   "episodes": 10,
+   "z": 9.91,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 546,
+     "quote": "Shout out to him."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 3670,
+     "quote": "going to try to get there tonight. And shout out"
+    }
+   ]
+  },
+  {
    "phrase": "breakfast club",
    "count": 250,
    "episodes": 10,
-   "z": 9.77,
+   "z": 9.75,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -214,10 +160,64 @@
    ]
   },
   {
+   "phrase": "come back",
+   "count": 82,
+   "episodes": 10,
+   "z": 9.54,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 1247,
+     "quote": "Now, we'll break it all down when we come back,"
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 606,
+     "quote": "Well, thank you, Mimi. Now, when we come back, get"
+    }
+   ]
+  },
+  {
+   "phrase": "i ain't",
+   "count": 75,
+   "episodes": 10,
+   "z": 9.22,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 612,
+     "quote": "I ain't never heard of Solomon."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 780,
+     "quote": "But I ain't going to say it's never too late."
+    }
+   ]
+  },
+  {
+   "phrase": "woke up",
+   "count": 42,
+   "episodes": 10,
+   "z": 8.58,
+   "moments": [
+    {
+     "episode": "41b863b2b6e9",
+     "at": 5892,
+     "quote": "Woke up, woke up, wake you up."
+    },
+    {
+     "episode": "fc82fa599106",
+     "at": 0,
+     "quote": "Woke up, woke up, wake you up, wake you up,"
+    }
+   ]
+  },
+  {
    "phrase": "talking about",
    "count": 196,
    "episodes": 10,
-   "z": 8.89,
+   "z": 8.42,
    "moments": [
     {
      "episode": "41b863b2b6e9",
@@ -239,37 +239,37 @@
   {
    "topic": "Family and relationships",
    "per_10k": 41.4,
-   "vs_average": 1.32
+   "vs_average": 1.33
   },
   {
    "topic": "Politics and government",
    "per_10k": 23.1,
-   "vs_average": 1.68
+   "vs_average": 1.78
   },
   {
    "topic": "Movies, TV and entertainment",
    "per_10k": 21.9,
-   "vs_average": 0.94
+   "vs_average": 0.91
   },
   {
    "topic": "Business and money",
    "per_10k": 20.7,
-   "vs_average": 0.75
+   "vs_average": 0.78
   },
   {
    "topic": "Music",
    "per_10k": 18.6,
-   "vs_average": 2.09
+   "vs_average": 2.21
   },
   {
    "topic": "Religion and spirituality",
    "per_10k": 18.5,
-   "vs_average": 2.01
+   "vs_average": 2.06
   },
   {
    "topic": "Crime and justice",
    "per_10k": 15.9,
-   "vs_average": 1.37
+   "vs_average": 1.3
   },
   {
    "topic": "Sports",
@@ -279,17 +279,17 @@
   {
    "topic": "Health and medicine",
    "per_10k": 8.1,
-   "vs_average": 0.82
+   "vs_average": 0.85
   },
   {
    "topic": "Food and drink",
    "per_10k": 7.7,
-   "vs_average": 0.82
+   "vs_average": 0.8
   },
   {
    "topic": "Technology and AI",
    "per_10k": 7.6,
-   "vs_average": 0.55
+   "vs_average": 0.56
   },
   {
    "topic": "History",
@@ -299,12 +299,12 @@
   {
    "topic": "Climate and environment",
    "per_10k": 1.7,
-   "vs_average": 0.73
+   "vs_average": 0.7
   },
   {
    "topic": "Science",
    "per_10k": 1.5,
-   "vs_average": 0.51
+   "vs_average": 0.49
   }
  ],
  "episodes": [
